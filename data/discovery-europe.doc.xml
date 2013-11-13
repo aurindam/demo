@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tv source-data-url="http://tvprofil.net/xmltv/" source-info-name="Phazer XML servis 4.5" source-info-url="http://tvprofil.net">
+<channel id="discovery-europe.doc">
+<display-name>Discovery Channel</display-name>
+<url>http://www.discoverychannel.co.uk</url>
+<icon src="http://phazer.info/img/kanali/discovery_channel.jpg" />
+</channel>
+<programme channel="discovery-europe.doc" start="20131111060000" stop="20131111062500">
+<title>How It&apos;s Made: Pipe Fittings/Music Boxes/Pepper Mills</title>
+<desc>More everyday items go under the microscope as we discover how copper pipe fittings, cylinder music boxes, pepper mills and hot rod steering columns are made.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131111062500" stop="20131111065000">
+<title>Auction Kings: Fortune Teller Scale</title>
+<desc>The Gallery 63 crew take in a vintage fortune telling scale and a menagerie of taxidermied animals. Also, a seller&apos;s collection of baseball cards reveals all.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131111065000" stop="20131111071500">
+<title>Baggage Battles: Episode 5</title>
+<desc>3,200 containers ship into Newark daily, but not everything reaches its destination. When duty goes unpaid or property is unclaimed, they go to auction. Are there bargains to grab?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131111071500" stop="20131111081000">
+<title>Dirty Jobs: Dirty Jobs of the Big Apple</title>
+<desc>Join Mike Rowe as he takes on some of the dirtiest jobs in New York City. First he scales a skyscraper to build a water tower on the roof before trying his hand at lift repair.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131111081000" stop="20131111090500">
+<title>Deadliest Catch: Deadline</title>
+<desc>A new deadline is set: an upcoming drop in the price of king crab has the skippers rushing to finish their season. But crew battles and a fierce arctic storm block the way.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131111090500" stop="20131111095500">
+<title>Gold Rush: Bedrock Or Bust</title>
+<desc>Desperate to get to bedrock and large quantities of gold, Todd and Jack throw caution to the wind and dig deeper than ever before.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131111095500" stop="20131111105000">
+<title>Coal: Episode 4</title>
+<desc>With only days left to turn a profit or see the mine shut down for good, the men must dig deeper and faster than ever before. But is a belt move about to stop production?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131111105000" stop="20131111111500">
+<title>How Do They Do It?: Episode 7</title>
+<desc>How do they drill through a kilometre of solid rock to find the hidden riches in the desert, pick 20,000 oranges a minute for juice, and get glass to curve without cracking?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131111111500" stop="20131111114000">
+<title>How It&apos;s Made: Blister Packs/Deli Slicer/Oysters/Weather Vanes</title>
+<desc>More everyday items are put under the microscope as we discover how pharmaeutical blister packs, deli slicers and weather vanes are made.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131111114000" stop="20131111123500">
+<title>Mythbusters: Revenge of the Myth</title>
+<desc>The whole team get together to take fan favourites to another level. Featuring cannons, fireworks, excavators and exploding limousines!</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131111123500" stop="20131111133000">
+<title>Extreme Engineering: South African Gold Mine</title>
+<desc>Danny Forster visits the deepest place on Earth; South Africa&apos;s Mponeng gold mine. Setting a new depth record every day, this is the most dangerous construction site on the planet.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131111133000" stop="20131111142500">
+<title>American Chopper: Senior vs Junior: Chicago Blackhawks Bike Part 2</title>
+<desc>Carolina Carports Bike Part 1 The OCC crew continue to build the Blackhawks bike, Junior meets with Carolina Carports who want PJD to build a bike for their company and Senior agrees to see a therapist.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131111142500" stop="20131111152000">
+<title>Machines of Glory: Episode 1</title>
+<desc>Three crews battle for heavy machinery&apos;s top prize. The teams will break piñatas with backhoes, crush hydrants with wheel loaders and push a skid steer to the max to win $12,000.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131111152000" stop="20131111161500">
+<title>Naked and Afraid: Punishment in Panama</title>
+<desc>Two survivalists have to survive for 21 days with no food, water or clothes in one of the world’s most remote locations. Can they overcome the predator-filled environment?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131111161500" stop="20131111171000">
+<title>Ed Stafford: Naked and Marooned: Episode 2</title>
+<desc>Adventurer Ed Stafford attempts his biggest adventure yet, surviving on an uninhabited Fijian island for 60 days. Washed up naked and alone, will he make it?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131111171000" stop="20131111180500">
+<title>Ultimate Survival: Pacific Island</title>
+<desc>Expert survivalist Bear Grylls takes on the elements in one of the most inhospitable places on Earth. Bear shares his best survival techniques and shows how to stay alive.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131111180500" stop="20131111183500">
+<title>Auction Kings: Oliver North Reclaims His Sword/Scrimshaw</title>
+<desc>The Gallery 63 crew auction off a collection of vintage scrimshaw and a 1985 Rolls-Royce Silver Spur. Colonel Oliver North comes to the Gallery to reclaim his missing dress sword.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131111183500" stop="20131111190000">
+<title>Auction Hunters: Episode 17</title>
+<desc>Allen and Ton clash with a familiar foe at a unit auction in Panorama City. They uncover an antique Swedish rifle and a golf ball retriever - but how much are they worth?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131111190000" stop="20131111193000">
+<title>HOW IT&apos;S MADE: PEWTER FLASKS/POTATO SALAD/HYDROGEN FUEL CELLS</title>
+<desc>How do they make pewter flasks, potato salad, hydrogen fuel cells, and engineered wood siding? Find out, as more everyday items are put under the microscope.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131111193000" stop="20131111200000">
+<title>How It&apos;s Made: Episode 32</title>
+<desc>Have you ever wondered how those everyday, mundane objects are made? Well this programme will tell you everything! For boys who like their toys…</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131111200000" stop="20131111210000">
+<title>Dual Survival: On the Menu</title>
+<desc>Joe and Cody demonstrate how to make it out of the South African bush, trying to avoid hungry lions, rampaging hippos or a deadly encounter with prowling poachers.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131111210000" stop="20131111220000">
+<title>Bear Grylls: Escape from Hell: Episode 6</title>
+<desc>Bear enters a variety of extreme environments to re-live the experience of three groups of jungle survivors and face the extreme challenges they had to face. How will he get on?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131111220000" stop="20131111230000">
+<title>River Monsters: Untold Stories: Lethal Legends</title>
+<desc>Do underwater creatures with grasping hands stalk children in Japan; and is a murderous river spirit wreaking havoc on the Zambezi? Jeremy Wade investigates.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131111230000" stop="20131112000000">
+<title>I Shouldn&apos;t Be Alive: 76 Days Adrift</title>
+<desc>When Steven Callahan set sail in a boat he designed and built himself, a ferocious storm saw him escape his sinking vessel on an inflatable raft. How did he survive for 76 days?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112000000" stop="20131112005500">
+<title>Nothing Personal: Deadly Divorce</title>
+<desc>Hear the true story of how scheming, abusive sociopath Allen Blackthorne hired a hitman to hunt and gun down his violently oppressed ex-wife.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112005500" stop="20131112015000">
+<title>Dual Survival: On the Menu</title>
+<desc>Joe and Cody demonstrate how to make it out of the South African bush, trying to avoid hungry lions, rampaging hippos or a deadly encounter with prowling poachers.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112015000" stop="20131112025000">
+<title>Bear Grylls: Escape from Hell: Episode 6</title>
+<desc>Bear enters a variety of extreme environments to re-live the experience of three groups of jungle survivors and face the extreme challenges they had to face. How will he get on?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112025000" stop="20131112035000">
+<title>River Monsters: Untold Stories: Lethal Legends</title>
+<desc>Do underwater creatures with grasping hands stalk children in Japan; and is a murderous river spirit wreaking havoc on the Zambezi? Jeremy Wade investigates.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112035000" stop="20131112044500">
+<title>I Shouldn&apos;t Be Alive: 76 Days Adrift</title>
+<desc>When Steven Callahan set sail in a boat he designed and built himself, a ferocious storm saw him escape his sinking vessel on an inflatable raft. How did he survive for 76 days?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112044500" stop="20131112051000">
+<title>How Do They Do It?: Episode 7</title>
+<desc>How do they drill through a kilometre of solid rock to find the hidden riches in the desert, pick 20,000 oranges a minute for juice, and get glass to curve without cracking?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112051000" stop="20131112060000">
+<title>Mythbusters: Archimedes Death Ray</title>
+<desc>Investigating the story that Archimedes built a giant mirror to concentrate the sun&apos;s energy onto the sails of invading Roman ships, to set them on fire and destroy them. Tuesday</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112060000" stop="20131112062500">
+<title>How It&apos;s Made: Gears/Scissors/Leather Watchbands</title>
+<desc>More everyday items go under the microscope as we discover how gears, leather watchbands, Vitrelle dishes and kitchen scissors are made.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112062500" stop="20131112065000">
+<title>Auction Kings: Elvis&apos;s Cadillac</title>
+<desc>Paul and the Gallery 63 crew takes in a Cadillac once owned by Elvis Presley. Rare correspondence from Thomas Edison shows a lesser-known side to the famous inventor.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112065000" stop="20131112071500">
+<title>Baggage Battles: Episode 6</title>
+<desc>In 2011, the LAPD recovered over $2 billion of merchandise, all of which has to be destroyed; or sold. Our experts try to profit on some of these legally seized valuables.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112071500" stop="20131112081000">
+<title>Dirty Jobs: Floating Fish Factory</title>
+<desc>Mike Rowe faces one of his dirtiest jobs yet as he boards a boat to Alaska to catch and freeze fish. His first task this week is to clean fish guts from the grinder pump.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112081000" stop="20131112090500">
+<title>Deadliest Catch: Down to the Wire</title>
+<desc>The king crab season comes down to the wire this week, as our struggling skippers battle to top off their quotas. Who will land a bumper haul in this end of season sprint?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112090500" stop="20131112095500">
+<title>Gold Rush: Never Say Die</title>
+<desc>With the arctic winter looming, the crew races against the clock. Jack puts his life on the line as the glory hole caves in around the 100,000- pound excavator.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112095500" stop="20131112105000">
+<title>Gold Divers: Nice Guys Finish Last</title>
+<desc>The season is underway and the port town of Nome is abuzz as the treasure hunters scour the seabed for gold. Who will strike it rich and who will lose everything?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112105000" stop="20131112111500">
+<title>How Do They Do It?: Episode 8</title>
+<desc>Find how they service the A380, the world&apos;s largest plane, generate 500,000 kWh from 1oz of uranium and build and tune a piano to concert standard.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112111500" stop="20131112114000">
+<title>How It&apos;s Made: Top &amp; Bowler Hats/Solar Water Heaters/Sticky</title>
+<desc>Buns/Electrostatic Speakers Top and bowler hats, solar water heaters, sticky buns and electrostatic speakers are put under the microscope.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112114000" stop="20131112123500">
+<title>Mythbusters: Fire v Ice</title>
+<desc>In this episode, Adam and Jamie tackle an internet sensation about an epic duel between a flamethrower and a CO2 fire extinguisher.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112123500" stop="20131112133000">
+<title>Extreme Engineering: Melbourne Stadium</title>
+<desc>Danny Forster is in Melbourne, Australia to witness the construction of one of the most innovative stadiums ever. It will be the ultimate fan experience, and an icon for the city.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112133000" stop="20131112140000">
+<title>Fifth Gear: Episode 1</title>
+<desc>Motoring experts including Vicki Butler-Henderson, Tiff Needell, and Jonny Smith present a whirlwind of automobile news, top trends, vehicle reviews and investigative reports.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112140000" stop="20131112142500">
+<title>Fifth Gear: Episode 2</title>
+<desc>Motoring experts including Vicki Butler-Henderson, Tiff Needell, and Jonny Smith present a whirlwind of automobile news, top trends, vehicle reviews and investigative reports.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112142500" stop="20131112152000">
+<title>Dual Survival: Meltdown</title>
+<desc>Lundin and Teti go to Zambia, where they must survive elephants and deadly hypothermia. An argument explodes over whether to sleep inside a bat-infested hollow.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112152000" stop="20131112161500">
+<title>Bear Grylls: Escape from Hell: Episode 6</title>
+<desc>Bear enters a variety of extreme environments to re-live the experience of three groups of jungle survivors and face the extreme challenges they had to face. How will he get on?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112161500" stop="20131112171000">
+<title>River Monsters: Untold Stories: Lethal Legends</title>
+<desc>Do underwater creatures with grasping hands stalk children in Japan; and is a murderous river spirit wreaking havoc on the Zambezi? Jeremy Wade investigates.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112171000" stop="20131112180500">
+<title>Ultimate Survival: Big Sky Country</title>
+<desc>Bear Grylls comes face to face with extreme danger unlike ever before, as he leads viewers through Montana&apos;s Rocky Mountains.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112180500" stop="20131112183500">
+<title>Auction Kings: Gangster Terraplane/Electro Shock Game</title>
+<desc>The crew auction off a 1937 Hudson Terraplane car. The Garretts pick up a Spark-Jump Cigar lighter like the one in &quot;It&apos;s A Wonderful Life&quot; and a 1923 Electro Shock Machine.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112183500" stop="20131112190000">
+<title>Auction Hunters: Episode 18</title>
+<desc>Ton breaks the golden rule of auction hunting in order to take on a rival with shady bidding tactics at a storage unit sale in Riverside. Will his gamble pay off?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112190000" stop="20131112193000">
+<title>HOW IT&apos;S MADE: CANVAS WALL TENTS/PEACE PIPES/CANNONS</title>
+<desc>How do they make canvas wall tents, peace pipes, shredded wheat cereal, and cannons? Find out, as more everyday items are put under the microscope.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112193000" stop="20131112200000">
+<title>How It&apos;s Made: Episode 33</title>
+<desc>Have you ever wondered how those everyday, mundane objects are made? Well this programme will tell you everything! For boys who like their toys…</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112200000" stop="20131112203000">
+<title>Worst-Case Scenario: Mountain Bike Disaster/Run for Your Life</title>
+<desc>Survival expert Bear Grylls shows how to get to safety if you break your leg in the wilderness and how to outsmart your attacker if you are being chased on foot.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112203000" stop="20131112210000">
+<title>Worst-Case Scenario: Road Rage/Panicked Crowd Stampede</title>
+<desc>Leading survival expert Bear Grylls is faced with a driver with road rage and shows how to stop things turning nasty. Then, he and a friend escape a crowd during a nightclub fire.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112210000" stop="20131112220000">
+<title>You Have Been Warned: Show-Offs</title>
+<desc>A countdown through the world’s top 20 online video clips of homemade stunts and experiments, including: the Chinese monk that can throw a needle through a pane of glass.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112220000" stop="20131112230000">
+<title>Car vs Wild: Lava Crater Climb</title>
+<desc>Gary and Bill go to the moon - a massive crater so alien it was used by NASA to train for the moon landings. It&apos;s one of Gary and Bill&apos;s biggest-ever challenges.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131112230000" stop="20131113000000">
+<title>Deadliest Catch: So You Wanna Be a Boat Owner</title>
+<desc>Midway through the crab season and the northernmost boats are in a race to save their gear as the polar ice pack descends onto the fishing grounds.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113000000" stop="20131113005500">
+<title>Yukon Men: The Race for Fur</title>
+<desc>Fur is the only commodity that is sold for cash in Tanana but the freakishly cold winter means the traps are still empty; can the hunters turn their season around?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113005500" stop="20131113012500">
+<title>Worst-Case Scenario: Mountain Bike Disaster/Run for Your Life</title>
+<desc>Survival expert Bear Grylls shows how to get to safety if you break your leg in the wilderness and how to outsmart your attacker if you are being chased on foot.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113012500" stop="20131113015000">
+<title>Worst-Case Scenario: Road Rage/Panicked Crowd Stampede</title>
+<desc>Leading survival expert Bear Grylls is faced with a driver with road rage and shows how to stop things turning nasty. Then, he and a friend escape a crowd during a nightclub fire.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113015000" stop="20131113025000">
+<title>You Have Been Warned: Show-Offs</title>
+<desc>A countdown through the world’s top 20 online video clips of homemade stunts and experiments, including: the Chinese monk that can throw a needle through a pane of glass.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113025000" stop="20131113035000">
+<title>Car vs Wild: Lava Crater Climb</title>
+<desc>Gary and Bill go to the moon - a massive crater so alien it was used by NASA to train for the moon landings. It&apos;s one of Gary and Bill&apos;s biggest-ever challenges.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113035000" stop="20131113044500">
+<title>Deadliest Catch: So You Wanna Be a Boat Owner</title>
+<desc>Midway through the crab season and the northernmost boats are in a race to save their gear as the polar ice pack descends onto the fishing grounds.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113044500" stop="20131113051000">
+<title>How Do They Do It?: Episode 8</title>
+<desc>Find how they service the A380, the world&apos;s largest plane, generate 500,000 kWh from 1oz of uranium and build and tune a piano to concert standard.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113051000" stop="20131113060000">
+<title>Mythbusters: Helium Football</title>
+<desc>Do footballs filled with helium fly further and stay airborne for longer, and can you catch a bullet using your teeth? Adam and Jamie investigate. Wednesday</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113060000" stop="20131113062500">
+<title>How It&apos;s Made: Pressure Cookers/Buoys/Tank Trailers</title>
+<desc>More items go under the microscope as we discover how pressure cookers, mechanical singing birds, oceanographic buoys and stainless steel tank trailers are made.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113062500" stop="20131113065000">
+<title>Auction Kings: Awesome 80s</title>
+<desc>The Gallery 63 crew go back to the 80s with an 82 Corvette convertible and yearbooks from Beverly Hills High School feature some familiar faces.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113065000" stop="20131113071500">
+<title>Baggage Battles: Episode 7</title>
+<desc>More than 8,000 officers make up the Glasgow Police Department and each year, they recover over $2 million of property. Mark, Billy &amp; the Martins compete for these lucrative items.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113071500" stop="20131113081000">
+<title>Dirty Jobs: Dairy Cow Midwife</title>
+<desc>Get down and dirty with Mike Rowe as he goes to work with the unsung workers of America who make their living doing the most unthinkable, yet vital, vocations.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113081000" stop="20131113090500">
+<title>Deadliest Catch: Payback Time</title>
+<desc>It&apos;s the start of the 2009 Crab Season, and things are looking up for our spectacular skippers. But will their dreams be shattered by a colossal rogue wave?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113090500" stop="20131113095500">
+<title>Gold Rush: Twist of Fate</title>
+<desc>The Hoffmans must find gold. They arrive in Porcupine Creek and are quickly on to the gold. Then Dakota Fred returns and drops a bombshell on the crew.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113095500" stop="20131113105000">
+<title>Moonshiners: A Price to Pay</title>
+<desc>As the season nears its end, Tim takes a huge risk and doubles production levels - but with business partner Tickle constantly drunk on their moonshine - can his gamble pay off?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113105000" stop="20131113111500">
+<title>How Do They Do It?: Episode 9</title>
+<desc>How do they turn an old warship into a playground for scuba divers, plan to stop San Francisco falling over when the next earthquake strikes, or run a car on rocket fuel?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113111500" stop="20131113114000">
+<title>How It&apos;s Made: Turntable/Steam Engines/Playground Equipment/Teflon</title>
+<desc>Pans More everyday items are put under the microscope as we discover how turntables, steam engines, playground equipment and non-stick pans are made.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113114000" stop="20131113123500">
+<title>Mythbusters: Swinging Pirates</title>
+<desc>Adam and Jamie target a myth from &apos;Pirates of the Caribbean 2&apos;. Could pirates trapped in a hanging cage create enough momentum to swing to, and then escape up, an escarpment?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113123500" stop="20131113133000">
+<title>Extreme Engineering: San Francisco Bay Bridge</title>
+<desc>Danny Forster visits the most expensive public works project ever in California. Crews are racing to earthquake-proof the San Francisco- Oakland Bay Bridge before the next big one.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113133000" stop="20131113142500">
+<title>Fast N&apos; Loud: Awesome Aussies and Olds</title>
+<desc>Richard and Aaron find a &apos;55 Chevy Bel Air as well as a 1950 Oldsmobile Coupe Rocket 88, which had been perfectly preserved in a garage for over 50 years.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113142500" stop="20131113152000">
+<title>Fantom Works: Episode 2</title>
+<desc>Join Daniel Short, owner of DRS FantomWorks on Hampton Boulevard in Norfolk, Virginia, as he aims to provide the finest classic car restoration service in the United States.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113152000" stop="20131113161500">
+<title>You Have Been Warned: Show-Offs</title>
+<desc>A countdown through the world’s top 20 online video clips of homemade stunts and experiments, including: the Chinese monk that can throw a needle through a pane of glass.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113161500" stop="20131113171000">
+<title>Car vs Wild: Lava Crater Climb</title>
+<desc>Gary and Bill go to the moon - a massive crater so alien it was used by NASA to train for the moon landings. It&apos;s one of Gary and Bill&apos;s biggest-ever challenges.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113171000" stop="20131113180500">
+<title>Ultimate Survival: China</title>
+<desc>Bear Grylls comes face to face with extreme danger as he leads viewers through China, sharing invaluable survival strategies along the way.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113180500" stop="20131113183500">
+<title>Auction Kings: Signed Drumstick Collection/Trans Am GTA</title>
+<desc>The Gallery 63 crew take in an autographed drumstick collection that Cindy is loathe to part with. Paul takes in a 1967 C10 Chevy pick up and a 1988 Trans Am GTA on a reserve.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113183500" stop="20131113190000">
+<title>Auction Hunters: Episode 19</title>
+<desc>The guys use their competitive bidding tactics to win two units at an auction in Denver. They find a vintage ice-resurfacing machine and a biathlon rifle - how much are they worth?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113190000" stop="20131113193000">
+<title>HOW IT&apos;S MADE: HUNTING DECOYS/CANNED TOMATOES/LASSOS</title>
+<desc>How do they make robotic hunting decoys, tinned tomatoes, scoreboards, and lassos? Find out, as more everyday items are put under the microscope.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113193000" stop="20131113200000">
+<title>How It&apos;s Made: Episode 34</title>
+<desc>Have you ever wondered how those everyday, mundane objects are made? Well this programme will tell you everything! For boys who like their toys…</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113200000" stop="20131113210000">
+<title>Through the Wormhole with Morgan Freeman: How Does the Universe Work?</title>
+<desc>Peeling back the layers of existence, scientists examine whether new ways of perceiving the world might allow us to unlock the secrets of the universe.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113210000" stop="20131113220000">
+<title>The Unexplained Files: Episode 1</title>
+<desc>In Texas, hairless, hunchbacked, blue-eyed dogs are attacking cattle - where did they come from? Plus, why did televisions and toasters suddenly explode in homes across Sicily?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113220000" stop="20131113230000">
+<title>Alien Mysteries: Bucks County</title>
+<desc>When her dog&apos;s frantic barking wakes her up in the middle of the night in 2008, Bucks County resident Denise Murter fears an intruder has entered her house.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131113230000" stop="20131114000000">
+<title>Stan Lee&apos;s Superhumans: Jaw Breaker</title>
+<desc>More &apos;superhumans&apos; find themselves under the microscope, including a man who claims he can eat anything: candles, plastic, strip lights, sawdust, nails and newspapers.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114000000" stop="20131114005500">
+<title>Derren Brown: Apocalypse: Episode 2</title>
+<desc>In the concluding episode, Derren Brown’s unwitting participant continues his quest in a post-apocalyptic world. Carefully crafted situations begin to change his way of thinking.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114005500" stop="20131114015000">
+<title>Through the Wormhole with Morgan Freeman: How Does the Universe Work?</title>
+<desc>Peeling back the layers of existence, scientists examine whether new ways of perceiving the world might allow us to unlock the secrets of the universe.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114015000" stop="20131114025000">
+<title>The Unexplained Files: Episode 1</title>
+<desc>In Texas, hairless, hunchbacked, blue-eyed dogs are attacking cattle - where did they come from? Plus, why did televisions and toasters suddenly explode in homes across Sicily?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114025000" stop="20131114035000">
+<title>Alien Mysteries: Bucks County</title>
+<desc>When her dog&apos;s frantic barking wakes her up in the middle of the night in 2008, Bucks County resident Denise Murter fears an intruder has entered her house.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114035000" stop="20131114044500">
+<title>Stan Lee&apos;s Superhumans: Jaw Breaker</title>
+<desc>More &apos;superhumans&apos; find themselves under the microscope, including a man who claims he can eat anything: candles, plastic, strip lights, sawdust, nails and newspapers.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114044500" stop="20131114051000">
+<title>How Do They Do It?: Episode 9</title>
+<desc>How do they turn an old warship into a playground for scuba divers, plan to stop San Francisco falling over when the next earthquake strikes, or run a car on rocket fuel?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114051000" stop="20131114060000">
+<title>Mythbusters: Franklin&apos;s Kite</title>
+<desc>The team discovers electricity by kite-flying into a thunderstorm. They start off by following Benjamin Franklin&apos;s specifications but end up injured! Thursday</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114060000" stop="20131114062500">
+<title>How It&apos;s Made: Aluminium Boats/ Alpine Horns/ Luxury Watches</title>
+<desc>More items go under the microscope as we discover how aluminium boats, alpine horns and luxury watches are made.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114062500" stop="20131114065000">
+<title>Auction Kings: Haunted Cabinet</title>
+<desc>Owner Paul gets a flight in a 1974 Grumman airplane and tests an antique Winchester signal cannon. Plus, the crew takes in a haunted antique Asian cabinet.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114065000" stop="20131114071500">
+<title>Baggage Battles: Episode 8</title>
+<desc>The airport auction at Miami International Airport is said to be the largest in the world. Billy, Mark and Laurence &amp; Sally return to bid on the hidden treasures inside these bags.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114071500" stop="20131114081000">
+<title>Dirty Jobs: Aerial Tram Greaser</title>
+<desc>In Palm Springs, California, Mike helps to repair and maintain a tram which runs 2,600 metres above the city, getting an amazing bird&apos;s eye view in the process.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114081000" stop="20131114090500">
+<title>Deadliest Catch: No Second Chances</title>
+<desc>When the fleet arrives on the Opilio crab grounds, a skipper regrets sending his men out in savage weather to save the boat - there are no second chances on the Bering Sea.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114090500" stop="20131114095500">
+<title>Gold Rush: Virgin Ground</title>
+<desc>The crew go to the Klondike in a bid to salvage their season. Teenager Parker Schnabel takes over the Big Nugget Mine, and Dakota Fred works at Porcupine Creek.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114095500" stop="20131114105000">
+<title>Swamp Loggers: Logging for Steak</title>
+<desc>Bobby and his team (aka &apos;Goodson&apos;s All Terrain Logging&apos;) experience hard times thanks to an equipment malfunction which affects the mill.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114105000" stop="20131114111500">
+<title>How Do They Do It?: Episode 10</title>
+<desc>How do they make the magic suits that stop jet pilots blacking out when they&apos;re flying, and how can a robo-cop stop a stolen car without a high speed chase?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114111500" stop="20131114114000">
+<title>HOW IT&apos;S MADE: GARDEN FORKS/TOFFEE/BUNDT PANS</title>
+<desc>How do they make garden forks, English toffee, paint chip cards, and Bundt pans? Find out, as more everyday items are put under the microscope.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114114000" stop="20131114123500">
+<title>Mythbusters: Driving in Heels</title>
+<desc>Can stilettos put you at risk on the road, and is driving when you need to pee as dangerous as driving drunk? Adam and Jamie don some fancy footwear to find out.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114123500" stop="20131114133000">
+<title>Extreme Engineering: Gotthard Base Tunnel</title>
+<desc>The Swiss are spending 18 billion dollars on the Gotthard Base Tunnel - the longest in the world, making journeys through the Alps up to 3 times faster. Danny Forster investigates.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114133000" stop="20131114142500">
+<title>American Chopper: Senior vs Junior: Big Guns</title>
+<desc>Junior and Mikey head to Louisiana to consult with Will of Red Jacket Firearms on a custom gun design. Senior attempts to reconcile with his sons.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114142500" stop="20131114152000">
+<title>Through the Wormhole with Morgan Freeman: How Does the Universe Work?</title>
+<desc>Peeling back the layers of existence, scientists examine whether new ways of perceiving the world might allow us to unlock the secrets of the universe.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114152000" stop="20131114161500">
+<title>You Have Been Warned: Best of</title>
+<desc>Count down through the world’s top 20 internet clips of home-made stunts and experiments.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114161500" stop="20131114171000">
+<title>One Car Too Far: Volcano</title>
+<desc>Survival expert Gary Humphrey and mechanic Bill Wu attempt to drive their 4x4 from the top of a volcano back to civilisation. But will a deadly crevasse field prove impassable?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114171000" stop="20131114180500">
+<title>Ultimate Survival: Guatemala</title>
+<desc>Bear Grylls runs through lava on a live volcano. He finds an underground waterfall, shares his bed with a viper and ends his journey being air-lifted from the top of a Mayan ruin.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114180500" stop="20131114183500">
+<title>Auction Kings: Pop Culture Pick/Footloose Race Car</title>
+<desc>The crew auction off a NFL program, a Star Trek USS Enterprise model kit, and a vintage Barbie. Paul visits a race course to drive a car used in the remake of the movie Footloose.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114183500" stop="20131114190000">
+<title>Auction Hunters: Episode 20</title>
+<desc>Allen and Ton find a high-powered amateur rocket and a piece of machinery used for mining gold at a storage auction in Littleton, Colorado. But can they sell these unusual items?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114190000" stop="20131114193000">
+<title>HOW IT&apos;S MADE: TURF GRASS/BEEF JERKY/BOWLING PINS</title>
+<desc>How do they make turf grass, beef jerky, wood chippers, and bowling pins? Find out as more everyday items are put under the microscope.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114193000" stop="20131114200000">
+<title>How It&apos;s Made: Episode 35</title>
+<desc>Have you ever wondered how those everyday, mundane objects are made? Well this programme will tell you everything! For boys who like their toys…</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114200000" stop="20131114203000">
+<title>Auction Hunters: Big Easy Money</title>
+<desc>The guys are forced to bid high at a busy, competitive auction in New Orleans. They unearth a pair of duelling pistols and a vintage airboat; but can they sell them for a profit?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114203000" stop="20131114210000">
+<title>Auction Hunters: Voodoo Moola</title>
+<desc>The guys find an antique barber chair, two racing lawn mowers and voodoo chest at an auction in Louisiana, but their potential buyers drive a hard bargain. Will they make a profit?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114210000" stop="20131114213000">
+<title>Auction Kings: Oliver North Reclaims His Sword/Scrimshaw</title>
+<desc>The Gallery 63 crew auction off a collection of vintage scrimshaw and a 1985 Rolls-Royce Silver Spur. Colonel Oliver North comes to the Gallery to reclaim his missing dress sword.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114213000" stop="20131114220000">
+<title>Auction Kings: Gangster Terraplane/Electro Shock Game</title>
+<desc>The crew auction off a 1937 Hudson Terraplane car. The Garretts pick up a Spark-Jump Cigar lighter like the one in &quot;It&apos;s A Wonderful Life&quot; and a 1923 Electro Shock Machine.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114220000" stop="20131114230000">
+<title>Bear Grylls: Escape from Hell: Episode 5</title>
+<desc>Bear enters a variety of extreme environments to re-live the experiences of three groups of jungle survivors and face the extreme challenges they encountered. How will he get on?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131114230000" stop="20131115000000">
+<title>Man, Woman, Wild: Croatian Cave Odyssey</title>
+<desc>Ruth and Myke Hawke must make their way out of a cave in Croatia, avoiding sinkholes and falling stalactites. Leaving the cave proves dangerous, as they have to dodge minefields!</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115000000" stop="20131115005500">
+<title>Inside the Gangsters&apos; Code: 18th Street</title>
+<desc>Lou joins 18th Street gangsters in prison and on the street to learn why their deadly rivalry with the MS-13 is devastating El Salvador; can anyone end their war?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115005500" stop="20131115012500">
+<title>Auction Hunters: Big Easy Money</title>
+<desc>The guys are forced to bid high at a busy, competitive auction in New Orleans. They unearth a pair of duelling pistols and a vintage airboat; but can they sell them for a profit?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115012500" stop="20131115015000">
+<title>Auction Hunters: Voodoo Moola</title>
+<desc>The guys find an antique barber chair, two racing lawn mowers and voodoo chest at an auction in Louisiana, but their potential buyers drive a hard bargain. Will they make a profit?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115015000" stop="20131115022000">
+<title>Auction Kings: Oliver North Reclaims His Sword/Scrimshaw</title>
+<desc>The Gallery 63 crew auction off a collection of vintage scrimshaw and a 1985 Rolls-Royce Silver Spur. Colonel Oliver North comes to the Gallery to reclaim his missing dress sword.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115022000" stop="20131115025000">
+<title>Auction Kings: Gangster Terraplane/Electro Shock Game</title>
+<desc>The crew auction off a 1937 Hudson Terraplane car. The Garretts pick up a Spark-Jump Cigar lighter like the one in &quot;It&apos;s A Wonderful Life&quot; and a 1923 Electro Shock Machine.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115025000" stop="20131115035000">
+<title>Bear Grylls: Escape from Hell: Episode 5</title>
+<desc>Bear enters a variety of extreme environments to re-live the experiences of three groups of jungle survivors and face the extreme challenges they encountered. How will he get on?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115035000" stop="20131115044500">
+<title>Man, Woman, Wild: Croatian Cave Odyssey</title>
+<desc>Ruth and Myke Hawke must make their way out of a cave in Croatia, avoiding sinkholes and falling stalactites. Leaving the cave proves dangerous, as they have to dodge minefields!</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115044500" stop="20131115051000">
+<title>How Do They Do It?: Episode 10</title>
+<desc>How do they make the magic suits that stop jet pilots blacking out when they&apos;re flying, and how can a robo-cop stop a stolen car without a high speed chase?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115051000" stop="20131115060000">
+<title>Mythbusters: Cell Phones on Planes</title>
+<desc>A series investigating the bizarre claims of urban legends and modern misconceptions. Do mobile phones really interfere with the equipment on an aircraft? Friday</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115060000" stop="20131115062500">
+<title>How It&apos;s Made: All-terrain vehicles/Alpine Skis/Laser Cutters</title>
+<desc>More items go under the microscope as we discover how all-terrain vehicles, alpine skis, laser cutters and marble statues are made.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115062500" stop="20131115065000">
+<title>Auction Kings: DeLorean Time Machine</title>
+<desc>The Gallery 63 crew go back to the future with a DeLorean time machine, then travel even further back when they uncover a Prohibition-era piano hiding a secret.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115065000" stop="20131115071500">
+<title>Baggage Battles: Episode 9</title>
+<desc>Once a year, the Vancouver Police Department attracts over 2,000 bidders to a large auction. Billy, Mark, Laurence and Sally try and win some of their unique treasures.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115071500" stop="20131115081000">
+<title>Dirty Jobs: Turkey Inseminator</title>
+<desc>Get down and dirty with Mike Rowe as he goes to work with the unsung workers of America, such as the farmers who are responsible for inseminating turkeys.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115081000" stop="20131115090500">
+<title>Deadliest Catch: Sea of Misery</title>
+<desc>Three weeks in, the miserable conditions already have the crabbers turning on each other. Plus, deadly ice stands between one skipper and the safety of the harbour.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115090500" stop="20131115095500">
+<title>Gold Rush: Family Feud</title>
+<desc>Jack and Todd go head-to-head over how to set up their new claim. At Porcupine Creek, Dakota Fred rips out the wash plant and finds gold he forced the Hoffmans to leave behind.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115095500" stop="20131115105000">
+<title>American Guns: Wounded Vet Rifle</title>
+<desc>Rich and the team work on a customised scout rifle for a wounded veteran. Meanwhile, Kurt joins Rich on a sale to an investor looking for iconic 1960s guns.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115105000" stop="20131115111500">
+<title>How Do They Do It?: Episode 11</title>
+<desc>Find out how robots build cars, how wine bottles are sealed and how to turn sea water into fresh drinking water.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115111500" stop="20131115114000">
+<title>HOW IT&apos;S MADE: PEWTER FLASKS/POTATO SALAD/HYDROGEN FUEL CELLS</title>
+<desc>How do they make pewter flasks, potato salad, hydrogen fuel cells, and engineered wood siding? Find out, as more everyday items are put under the microscope.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115114000" stop="20131115123500">
+<title>Mythbusters: Bouncing Bullet</title>
+<desc>Adam and Jamie investigate a ricochet myth from a TV show. Kari, Tory and Grant test the Hollywood myth that if you jump when escaping an explosion you can surf the shockwave.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115123500" stop="20131115133000">
+<title>Extreme Engineering: Abu Dhabi Central Market</title>
+<desc>Abu Dhabi&apos;s Central Market will be a hub for an emerging world destination, complete with offices, parks, shops, and hotels. All built around the world&apos;s tallest residential tower.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115133000" stop="20131115142500">
+<title>Chop Shop: Johnny Vegas&apos;s Volcano Car - Part 2</title>
+<desc>The Chop Shop team, comprised of mechanic Bernie and car designer Leepu, persevere in their commission from comedian and television personality Johnny Vegas.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115142500" stop="20131115145500">
+<title>Auction Hunters: Big Easy Money</title>
+<desc>The guys are forced to bid high at a busy, competitive auction in New Orleans. They unearth a pair of duelling pistols and a vintage airboat; but can they sell them for a profit?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115145500" stop="20131115152000">
+<title>Auction Hunters: Voodoo Moola</title>
+<desc>The guys find an antique barber chair, two racing lawn mowers and voodoo chest at an auction in Louisiana, but their potential buyers drive a hard bargain. Will they make a profit?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115152000" stop="20131115155000">
+<title>Auction Kings: Oliver North Reclaims His Sword/Scrimshaw</title>
+<desc>The Gallery 63 crew auction off a collection of vintage scrimshaw and a 1985 Rolls-Royce Silver Spur. Colonel Oliver North comes to the Gallery to reclaim his missing dress sword.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115155000" stop="20131115161500">
+<title>Auction Kings: Gangster Terraplane/Electro Shock Game</title>
+<desc>The crew auction off a 1937 Hudson Terraplane car. The Garretts pick up a Spark-Jump Cigar lighter like the one in &quot;It&apos;s A Wonderful Life&quot; and a 1923 Electro Shock Machine.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115161500" stop="20131115171000">
+<title>James May&apos;s Man Lab: Episode 2</title>
+<desc>James and the team reunite a teenage rock band, now middle-aged, and get them to play their first concert in 20 years - in front of 5,000 unsuspecting festival goers.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115171000" stop="20131115180500">
+<title>Ultimate Survival: Urban Survivor</title>
+<desc>In this celebrity special, Bear Grylls comes face to face with extreme danger, sharing invaluable survival strategies along the way.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115180500" stop="20131115183500">
+<title>Auction Kings: Plank Cannon/Calliope</title>
+<desc>The Gallery 63 crew auctions off a plank cannon from the French &amp; Indian War and a 20-ft Gibson guitar owned by country legend Travis Tritt.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115183500" stop="20131115190000">
+<title>Auction Hunters: Episode 21</title>
+<desc>Allen is late to the auction, leaving Ton to battle a feisty female auction buyer on his own. They find a flamethrower and a hand carved bow and arrow set. What are they worth?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115190000" stop="20131115193000">
+<title>How It&apos;s Made: Episode 6</title>
+<desc>How do they make Leatherman multi-tools, jojoba oil, and different kinds of marionettes? Find out, as more everyday items are put under the microscope.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115193000" stop="20131115200000">
+<title>How It&apos;s Made: Episode 36</title>
+<desc>Have you ever wondered how those everyday, mundane objects are made? Well this programme will tell you everything! For boys who like their toys…</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115200000" stop="20131115210000">
+<title>Crisis Control: Episode 3</title>
+<desc>See what it takes to operate and manage some of the biggest, most complex industrial hubs that humanity has ever built - where the stakes are high and errors cost lives.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115210000" stop="20131115220000">
+<title>Curiosity: X-Ray: Yellowstone</title>
+<desc>Explore the hidden wonders of Yellowstone National Park as brand new technology peels back rock, fur and scale to expose the natural forces and inner workings of this wilderness.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115220000" stop="20131115230000">
+<title>Forbidden: Freaky Food</title>
+<desc>Showcases people doing things outside accepted ways of living. A revealing insight into the weird, unthinkable and taboo acts of everyday people that society classes as forbidden.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131115230000" stop="20131116000000">
+<title>Dynamo: Magician Impossible: Episode 3</title>
+<desc>Britain’s most exciting magician is back, travelling the globe and astounding everyone he meets, international footballers and Hollywood actors alike, with his magic skills.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131116000000" stop="20131116003000">
+<title>Magic of Science: Tesla Coil</title>
+<desc>How can a magician levitate or appear to crush a 10 ton tanker like it’s a coca cola can? Find out, as star magicians reveal the science behind their most remarkable illusions.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131116003000" stop="20131116005500">
+<title>Magic of Science: Vampire</title>
+<desc>How can a magician levitate or appear to crush a 10 ton tanker like it’s a coca cola can? Find out, as star magicians reveal the science behind their most remarkable illusions.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131116005500" stop="20131116015000">
+<title>Crisis Control: Episode 3</title>
+<desc>See what it takes to operate and manage some of the biggest, most complex industrial hubs that humanity has ever built - where the stakes are high and errors cost lives.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131116015000" stop="20131116025000">
+<title>Curiosity: X-Ray: Yellowstone</title>
+<desc>Explore the hidden wonders of Yellowstone National Park as brand new technology peels back rock, fur and scale to expose the natural forces and inner workings of this wilderness.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131116025000" stop="20131116035000">
+<title>Forbidden: Freaky Food</title>
+<desc>Showcases people doing things outside accepted ways of living. A revealing insight into the weird, unthinkable and taboo acts of everyday people that society classes as forbidden.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131116035000" stop="20131116044500">
+<title>Dynamo: Magician Impossible: Episode 3</title>
+<desc>Britain’s most exciting magician is back, travelling the globe and astounding everyone he meets, international footballers and Hollywood actors alike, with his magic skills.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131116044500" stop="20131116051000">
+<title>How Do They Do It?: Episode 11</title>
+<desc>Find out how robots build cars, how wine bottles are sealed and how to turn sea water into fresh drinking water.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-europe.doc" start="20131116051000" stop="20131116060000">
+<title>Mythbusters: Bullets Fired Up</title>
+<desc>Adam and Jamie attempt to solve another high-calibre conundrum: can celebratory gunfire kill when the bullet falls back to Earth? Saturday</desc>
+<premiere />
+</programme>
+</tv>

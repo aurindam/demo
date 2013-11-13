@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tv source-data-url="http://tvprofil.net/xmltv/" source-info-name="Phazer XML servis 4.5" source-info-url="http://tvprofil.net">
+<channel id="discovery-science.doc">
+<display-name>Discovery Science</display-name>
+<url>http://discoveryscience.co.uk</url>
+<icon src="http://phazer.info/img/kanali/discovery-science.jpg" />
+</channel>
+<programme channel="discovery-science.doc" start="20131112060000" stop="20131112065000">
+<title>Building the Future: 21st Century Shelter</title>
+<desc>In a shrinking world, humans are finding new ways to build structures to live and work in. Explore how floating homes and green construction are necessary for our future survival.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131112065000" stop="20131112074000">
+<title>Nextworld: Future Radical Vehicles</title>
+<desc>What does the future have in store for transportation? From submarine cars to hoverboards and jetpacks, discover the high-tech vehicles that will change our lives.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131112074000" stop="20131112080500">
+<title>Gadget Show - World Tour: Episode 16</title>
+<desc>Jason Bradbury and Pollyanna Woodward embark on a gadget-filled globetrotting odyssey that sees them put the latest consumer technology to the test in clever and unusual ways.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131112080500" stop="20131112083000">
+<title>The Tech Show: Episode 23</title>
+<desc>Hosted by Dr Jack Lewis, this magazine-style show features news about breakthroughs in technology, research, inventions and mysteries of the scientific world.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131112083000" stop="20131112092500">
+<title>James May&apos;s Man Lab: Episode 3</title>
+<desc>James May continues his quest to re-skill the modern male, promoting the only item of clothing men ever need, and teaching Man Lab&apos;s males how to cheat at playing the guitar.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131112092500" stop="20131112102000">
+<title>Mega World: Hawaii</title>
+<desc>Find out how scientists in Hawaii are tackling beach erosion and erupting volcanoes as host Kevin Brauch investigates developments in geology, marine biology and construction.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131112102000" stop="20131112104500">
+<title>Junk Men: The Rocket Ride</title>
+<desc>At Jimmy’s Junk, inventors look for parts for their jet-propelled merry- go-round. Plus, shop regular Hale Storm tries to sell Jimmy an African birthing chair.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131112104500" stop="20131112111000">
+<title>Junk Men: Surf Cycle</title>
+<desc>At Jimmy&apos;s Junk, an inventor needs a replacement engine for his surf cycle, and two students look for parts to add firepower to their solar- powered tank.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131112111000" stop="20131112120000">
+<title>Through the Wormhole with Morgan Freeman: Will Eternity End?</title>
+<desc>Can time tick on forever? It&apos;s possible that eternity already exists and the future is travelling back in time to shape the present, or that time might be a holographic projection.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131112120000" stop="20131112125000">
+<title>Mighty Planes: Martin Mars</title>
+<desc>Fly with the crew of the Martin Mars water bomber, the world&apos;s biggest seaplane, as they fight the wildfires that threaten to destroy vast swathes of Mexican wilderness.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131112125000" stop="20131112132000">
+<title>Weird Connections: Quack Science</title>
+<desc>Acoustics researcher Jonathan Hargreaves wanted to find out if a duck&apos;s quack echoes. How could the discoveries he made help to save the lives of fighter pilots?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131112132000" stop="20131112134500">
+<title>The Gadget Show: Episode 82</title>
+<desc>Suzi Perry and Jason Bradbury mount a campaign to promote the show using the latest technology. And Jon Bentley tests out the iPhone 4 to see if it lives up to the hype.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131112134500" stop="20131112141000">
+<title>The Tech Show: Episode 24</title>
+<desc>Hosted by Dr Jack Lewis, this magazine-style show features news about breakthroughs in technology, research, inventions and mysteries of the scientific world.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131112141000" stop="20131112150000">
+<title>Mighty Ships: Episode 2</title>
+<desc>Explore the world&apos;s most impressive working ships, from cargo containers, to ice-breakers and livestock carriers. What makes each vessel and every journey unique?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131112150000" stop="20131112155500">
+<title>James May&apos;s Man Lab: Episode 4</title>
+<desc>James May continues his quest to reskill the modern male. James attempts to prove the impossible: that an Englishman can take a penalty and score - in front of 20,000 Germans.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131112155500" stop="20131112164500">
+<title>Mega World: Canada</title>
+<desc>Presenter Kevin Brauch investigates engineering and technological innovations in Canada, including underground laboratories and off-road vehicles.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131112164500" stop="20131112171000">
+<title>Junk Men: Fire Ballers</title>
+<desc>Jimmy feels the heat when two inventors seek help with their rapid fire flame cannon. Plus, a lawnmower-racing team need a new transmission before their big race.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131112171000" stop="20131112173500">
+<title>Junk Men: Hovercrash</title>
+<desc>Jimmy helps two inventors turn a fridge into a beer can launcher, and a student looks for a thrust engine to finish his class’s hovercraft. But will it survive the test drive?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131112173500" stop="20131112183000">
+<title>Moon Machines: Saturn V</title>
+<desc>This is the story of the mighty Saturn V moon rocket, which combined the vision of World War II German rocket scientists with that of a group of engineers from the USA.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131112183000" stop="20131112185500">
+<title>Rocket City Rednecks: Junkyard Iron Man</title>
+<desc>The Rocket City Rednecks construct a bullet-resistant exoskeleton suit using only spare parts and junkyard materials. But will it actually perform under fire?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131112185500" stop="20131112192000">
+<title>Rocket City Rednecks: Hillbilly Moonbuggy</title>
+<desc>The guys compete in NASA&apos;s Great Moonbuggy Race, an international competition to create a human-powered lunar vehicle designed to fit aboard a space capsule.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131112192000" stop="20131112201000">
+<title>Junkyard Wars: Car Dozer</title>
+<desc>The two teams have just ten hours to build car dozers and race them on a course, ramming the other team&apos;s car out of the way.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131112201000" stop="20131112203500">
+<title>The Gadget Show: Episode 83</title>
+<desc>Suzi challenges Ortis to an outdoor race using technology. Plus, Jon Bentley is joined by new gadget girl Pollyanna Woodward to test out the best coffee-making machines.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131112203500" stop="20131112210000">
+<title>The Tech Show: Episode 25</title>
+<desc>Hosted by Dr Jack Lewis, this magazine-style show features news about breakthroughs in technology, research, inventions and mysteries of the scientific world.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131112210000" stop="20131112212500">
+<title>Rocket City Rednecks: Junkyard Iron Man</title>
+<desc>The Rocket City Rednecks construct a bullet-resistant exoskeleton suit using only spare parts and junkyard materials. But will it actually perform under fire?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131112212500" stop="20131112215000">
+<title>Rocket City Rednecks: Hillbilly Moonbuggy</title>
+<desc>The guys compete in NASA&apos;s Great Moonbuggy Race, an international competition to create a human-powered lunar vehicle designed to fit aboard a space capsule.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131112215000" stop="20131112221500">
+<title>Stuck with Hackett: Do Bears...?</title>
+<desc>Hackett finds himself at an RV camp in the woods. The camper lacks plumbing, so he sets out to build a bathroom and shower. But heating water proves surprisingly challenging.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131112221500" stop="20131112224000">
+<title>Stuck with Hackett: Laundromat of the Gods</title>
+<desc>In a junkyard Hacket sets out to make a washer/dryer from an old car. He must build a welder, reinvent the spin cycle, and turn exhaust fumes into the heat he needs to dry clothes.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131112224000" stop="20131112233000">
+<title>Dark Matters: Twisted but True: Episode 11</title>
+<desc>How did Dr Murray’s experiments in humiliation affect the Unabomber; how did Midgley’s leaded petrol poison people; and why did Russian scientists die to protect a seed bank?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131112233000" stop="20131113000000">
+<title>Weird Connections: Quack Science</title>
+<desc>Acoustics researcher Jonathan Hargreaves wanted to find out if a duck&apos;s quack echoes. How could the discoveries he made help to save the lives of fighter pilots?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113000000" stop="20131113002500">
+<title>The Gadget Show: Episode 83</title>
+<desc>Suzi challenges Ortis to an outdoor race using technology. Plus, Jon Bentley is joined by new gadget girl Pollyanna Woodward to test out the best coffee-making machines.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113002500" stop="20131113005000">
+<title>The Tech Show: Episode 25</title>
+<desc>Hosted by Dr Jack Lewis, this magazine-style show features news about breakthroughs in technology, research, inventions and mysteries of the scientific world.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113005000" stop="20131113011500">
+<title>Rocket City Rednecks: Junkyard Iron Man</title>
+<desc>The Rocket City Rednecks construct a bullet-resistant exoskeleton suit using only spare parts and junkyard materials. But will it actually perform under fire?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113011500" stop="20131113014500">
+<title>Rocket City Rednecks: Hillbilly Moonbuggy</title>
+<desc>The guys compete in NASA&apos;s Great Moonbuggy Race, an international competition to create a human-powered lunar vehicle designed to fit aboard a space capsule.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113014500" stop="20131113021000">
+<title>Stuck with Hackett: Do Bears...?</title>
+<desc>Hackett finds himself at an RV camp in the woods. The camper lacks plumbing, so he sets out to build a bathroom and shower. But heating water proves surprisingly challenging.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113021000" stop="20131113023500">
+<title>Stuck with Hackett: Laundromat of the Gods</title>
+<desc>In a junkyard Hacket sets out to make a washer/dryer from an old car. He must build a welder, reinvent the spin cycle, and turn exhaust fumes into the heat he needs to dry clothes.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113023500" stop="20131113030000">
+<title>Junk Men: Fire Ballers</title>
+<desc>Jimmy feels the heat when two inventors seek help with their rapid fire flame cannon. Plus, a lawnmower-racing team need a new transmission before their big race.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113030000" stop="20131113032500">
+<title>Junk Men: Hovercrash</title>
+<desc>Jimmy helps two inventors turn a fridge into a beer can launcher, and a student looks for a thrust engine to finish his class’s hovercraft. But will it survive the test drive?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113032500" stop="20131113041500">
+<title>Moon Machines: Saturn V</title>
+<desc>This is the story of the mighty Saturn V moon rocket, which combined the vision of World War II German rocket scientists with that of a group of engineers from the USA.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113041500" stop="20131113044000">
+<title>The Gadget Show: Episode 83</title>
+<desc>Suzi challenges Ortis to an outdoor race using technology. Plus, Jon Bentley is joined by new gadget girl Pollyanna Woodward to test out the best coffee-making machines.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113044000" stop="20131113050500">
+<title>The Tech Show: Episode 25</title>
+<desc>Hosted by Dr Jack Lewis, this magazine-style show features news about breakthroughs in technology, research, inventions and mysteries of the scientific world.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113050500" stop="20131113060000">
+<title>Mega World: Canada</title>
+<desc>Presenter Kevin Brauch investigates engineering and technological innovations in Canada, including underground laboratories and off-road vehicles. Wednesday</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113060000" stop="20131113065000">
+<title>Mighty Planes: Martin Mars</title>
+<desc>Fly with the crew of the Martin Mars water bomber, the world&apos;s biggest seaplane, as they fight the wildfires that threaten to destroy vast swathes of Mexican wilderness.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113065000" stop="20131113074000">
+<title>Mighty Ships: Episode 2</title>
+<desc>Explore the world&apos;s most impressive working ships, from cargo containers, to ice-breakers and livestock carriers. What makes each vessel and every journey unique?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113074000" stop="20131113080500">
+<title>The Gadget Show: Episode 82</title>
+<desc>Suzi Perry and Jason Bradbury mount a campaign to promote the show using the latest technology. And Jon Bentley tests out the iPhone 4 to see if it lives up to the hype.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113080500" stop="20131113083000">
+<title>The Tech Show: Episode 24</title>
+<desc>Hosted by Dr Jack Lewis, this magazine-style show features news about breakthroughs in technology, research, inventions and mysteries of the scientific world.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113083000" stop="20131113092500">
+<title>James May&apos;s Man Lab: Episode 4</title>
+<desc>James May continues his quest to reskill the modern male. James attempts to prove the impossible: that an Englishman can take a penalty and score - in front of 20,000 Germans.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113092500" stop="20131113102000">
+<title>Mega World: Canada</title>
+<desc>Presenter Kevin Brauch investigates engineering and technological innovations in Canada, including underground laboratories and off-road vehicles.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113102000" stop="20131113104500">
+<title>Junk Men: Fire Ballers</title>
+<desc>Jimmy feels the heat when two inventors seek help with their rapid fire flame cannon. Plus, a lawnmower-racing team need a new transmission before their big race.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113104500" stop="20131113111000">
+<title>Junk Men: Hovercrash</title>
+<desc>Jimmy helps two inventors turn a fridge into a beer can launcher, and a student looks for a thrust engine to finish his class’s hovercraft. But will it survive the test drive?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113111000" stop="20131113120000">
+<title>Moon Machines: Saturn V</title>
+<desc>This is the story of the mighty Saturn V moon rocket, which combined the vision of World War II German rocket scientists with that of a group of engineers from the USA.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113120000" stop="20131113125000">
+<title>Junkyard Wars: Car Dozer</title>
+<desc>The two teams have just ten hours to build car dozers and race them on a course, ramming the other team&apos;s car out of the way.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113125000" stop="20131113132000">
+<title>Weird Connections: The Vomitator</title>
+<desc>Psychologist Frederick Bonato observes the effects of sensory confusion by putting people in a spinning drum. Could his discoveries help astronauts to overcome space sickness?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113132000" stop="20131113134500">
+<title>The Gadget Show: Episode 83</title>
+<desc>Suzi challenges Ortis to an outdoor race using technology. Plus, Jon Bentley is joined by new gadget girl Pollyanna Woodward to test out the best coffee-making machines.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113134500" stop="20131113141000">
+<title>The Tech Show: Episode 25</title>
+<desc>Hosted by Dr Jack Lewis, this magazine-style show features news about breakthroughs in technology, research, inventions and mysteries of the scientific world.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113141000" stop="20131113143500">
+<title>Rocket City Rednecks: Junkyard Iron Man</title>
+<desc>The Rocket City Rednecks construct a bullet-resistant exoskeleton suit using only spare parts and junkyard materials. But will it actually perform under fire?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113143500" stop="20131113150000">
+<title>Rocket City Rednecks: Hillbilly Moonbuggy</title>
+<desc>The guys compete in NASA&apos;s Great Moonbuggy Race, an international competition to create a human-powered lunar vehicle designed to fit aboard a space capsule.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113150000" stop="20131113155500">
+<title>James May&apos;s Man Lab: Episode 5</title>
+<desc>In the Man Lab, James invents a Christmas tree decorating gun, discovers the easiest way to wrap gifts and attempts to transform the Christmas cracker.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113155500" stop="20131113164500">
+<title>X-Machines: Blade, Mammoth, Slashbuster</title>
+<desc>A helicopter saves a Colorado town, a team of engineers harnesses the world&apos;s biggest mobile cranes and loggers fight to save Louisiana&apos;s Gulf Coast.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113164500" stop="20131113171000">
+<title>Junk Men: Hot Air Hale</title>
+<desc>It’s all hands on deck to create a huge new sign for the yard out of recycled junk. Later, the guys play a prank on Hale, and Jimmy has a near death experience.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113171000" stop="20131113173500">
+<title>Junk Men: Junkin&apos; Chunkin&apos;</title>
+<desc>A team of pumpkin throwers need Jimmy’s help to improve their trebuchet, and the guys turn an old treadmill into a power-generating windmill for the yard.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113173500" stop="20131113183000">
+<title>Moon Machines: Command Module</title>
+<desc>The story of the engineers who built the Apollo Command Module that provided three men with food, water, air and, above all, protection, on their way to the moon and back.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113183000" stop="20131113192000">
+<title>Prophets of Science Fiction: Philip K Dick</title>
+<desc>Philip K Dick inspired &apos;Blade Runner&apos; and his work confronts readers with the question: &apos;What is reality?&apos; Hollywood notables and scientists explore his lasting influence.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113192000" stop="20131113201000">
+<title>Stephen Hawking&apos;s Grand Design: The Meaning of Life</title>
+<desc>Is there a meaning to life? Is there a purpose to our existence? Hawking investigates what the laws of physics can reveal about humanity and reality.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113201000" stop="20131113203500">
+<title>The Gadget Show: Episode 84</title>
+<desc>Jason and Suzi compete to make the best cinema trailer using the latest technology. And Pollyanna travels to Singapore with Jon Bentley, to find the top five in-ear headphones.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113203500" stop="20131113210000">
+<title>The Tech Show: Episode 26</title>
+<desc>Hosted by Dr Jack Lewis, this magazine-style show features news about breakthroughs in technology, research, inventions and mysteries of the scientific world.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113210000" stop="20131113215000">
+<title>Prophets of Science Fiction: Philip K Dick</title>
+<desc>Philip K Dick inspired &apos;Blade Runner&apos; and his work confronts readers with the question: &apos;What is reality?&apos; Hollywood notables and scientists explore his lasting influence.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113215000" stop="20131113224000">
+<title>Stephen Hawking&apos;s Grand Design: The Meaning of Life</title>
+<desc>Is there a meaning to life? Is there a purpose to our existence? Hawking investigates what the laws of physics can reveal about humanity and reality.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113224000" stop="20131113233000">
+<title>Dark Matters: Twisted but True: Episode 12</title>
+<desc>How were Pavlov’s findings applied to orphans; why was radioactive radium used to illuminate soldier’s watches; and what produced red rain in the Indian state of Kerala?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131113233000" stop="20131114000000">
+<title>Weird Connections: The Vomitator</title>
+<desc>Psychologist Frederick Bonato observes the effects of sensory confusion by putting people in a spinning drum. Could his discoveries help astronauts to overcome space sickness?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114000000" stop="20131114002500">
+<title>The Gadget Show: Episode 84</title>
+<desc>Jason and Suzi compete to make the best cinema trailer using the latest technology. And Pollyanna travels to Singapore with Jon Bentley, to find the top five in-ear headphones.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114002500" stop="20131114005000">
+<title>The Tech Show: Episode 26</title>
+<desc>Hosted by Dr Jack Lewis, this magazine-style show features news about breakthroughs in technology, research, inventions and mysteries of the scientific world.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114005000" stop="20131114014500">
+<title>Prophets of Science Fiction: Philip K Dick</title>
+<desc>Philip K Dick inspired &apos;Blade Runner&apos; and his work confronts readers with the question: &apos;What is reality?&apos; Hollywood notables and scientists explore his lasting influence.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114014500" stop="20131114023500">
+<title>Stephen Hawking&apos;s Grand Design: The Meaning of Life</title>
+<desc>Is there a meaning to life? Is there a purpose to our existence? Hawking investigates what the laws of physics can reveal about humanity and reality.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114023500" stop="20131114030000">
+<title>Junk Men: Hot Air Hale</title>
+<desc>It’s all hands on deck to create a huge new sign for the yard out of recycled junk. Later, the guys play a prank on Hale, and Jimmy has a near death experience.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114030000" stop="20131114032500">
+<title>Junk Men: Junkin&apos; Chunkin&apos;</title>
+<desc>A team of pumpkin throwers need Jimmy’s help to improve their trebuchet, and the guys turn an old treadmill into a power-generating windmill for the yard.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114032500" stop="20131114041500">
+<title>Moon Machines: Command Module</title>
+<desc>The story of the engineers who built the Apollo Command Module that provided three men with food, water, air and, above all, protection, on their way to the moon and back.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114041500" stop="20131114044000">
+<title>The Gadget Show: Episode 84</title>
+<desc>Jason and Suzi compete to make the best cinema trailer using the latest technology. And Pollyanna travels to Singapore with Jon Bentley, to find the top five in-ear headphones.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114044000" stop="20131114050500">
+<title>The Tech Show: Episode 26</title>
+<desc>Hosted by Dr Jack Lewis, this magazine-style show features news about breakthroughs in technology, research, inventions and mysteries of the scientific world.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114050500" stop="20131114060000">
+<title>X-Machines: Blade, Mammoth, Slashbuster</title>
+<desc>A helicopter saves a Colorado town, a team of engineers harnesses the world&apos;s biggest mobile cranes and loggers fight to save Louisiana&apos;s Gulf Coast. Thursday</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114060000" stop="20131114065000">
+<title>Junkyard Wars: Car Dozer</title>
+<desc>The two teams have just ten hours to build car dozers and race them on a course, ramming the other team&apos;s car out of the way.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114065000" stop="20131114071500">
+<title>Rocket City Rednecks: Junkyard Iron Man</title>
+<desc>The Rocket City Rednecks construct a bullet-resistant exoskeleton suit using only spare parts and junkyard materials. But will it actually perform under fire?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114071500" stop="20131114074000">
+<title>Rocket City Rednecks: Hillbilly Moonbuggy</title>
+<desc>The guys compete in NASA&apos;s Great Moonbuggy Race, an international competition to create a human-powered lunar vehicle designed to fit aboard a space capsule.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114074000" stop="20131114080500">
+<title>The Gadget Show: Episode 83</title>
+<desc>Suzi challenges Ortis to an outdoor race using technology. Plus, Jon Bentley is joined by new gadget girl Pollyanna Woodward to test out the best coffee-making machines.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114080500" stop="20131114083000">
+<title>The Tech Show: Episode 25</title>
+<desc>Hosted by Dr Jack Lewis, this magazine-style show features news about breakthroughs in technology, research, inventions and mysteries of the scientific world.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114083000" stop="20131114092500">
+<title>James May&apos;s Man Lab: Episode 5</title>
+<desc>In the Man Lab, James invents a Christmas tree decorating gun, discovers the easiest way to wrap gifts and attempts to transform the Christmas cracker.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114092500" stop="20131114102000">
+<title>X-Machines: Blade, Mammoth, Slashbuster</title>
+<desc>A helicopter saves a Colorado town, a team of engineers harnesses the world&apos;s biggest mobile cranes and loggers fight to save Louisiana&apos;s Gulf Coast.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114102000" stop="20131114104500">
+<title>Junk Men: Hot Air Hale</title>
+<desc>It’s all hands on deck to create a huge new sign for the yard out of recycled junk. Later, the guys play a prank on Hale, and Jimmy has a near death experience.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114104500" stop="20131114111000">
+<title>Junk Men: Junkin&apos; Chunkin&apos;</title>
+<desc>A team of pumpkin throwers need Jimmy’s help to improve their trebuchet, and the guys turn an old treadmill into a power-generating windmill for the yard.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114111000" stop="20131114120000">
+<title>Moon Machines: Command Module</title>
+<desc>The story of the engineers who built the Apollo Command Module that provided three men with food, water, air and, above all, protection, on their way to the moon and back.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114120000" stop="20131114125000">
+<title>Stephen Hawking&apos;s Grand Design: The Meaning of Life</title>
+<desc>Is there a meaning to life? Is there a purpose to our existence? Hawking investigates what the laws of physics can reveal about humanity and reality.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114125000" stop="20131114132000">
+<title>Weird Connections: The Mosquito Banquet</title>
+<desc>Examine scientists&apos; attempts to find out why mosquitoes bite certain people more than others, and how their findings relate to new techniques for detecting cancer.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114132000" stop="20131114134500">
+<title>The Gadget Show: Episode 84</title>
+<desc>Jason and Suzi compete to make the best cinema trailer using the latest technology. And Pollyanna travels to Singapore with Jon Bentley, to find the top five in-ear headphones.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114134500" stop="20131114141000">
+<title>The Tech Show: Episode 26</title>
+<desc>Hosted by Dr Jack Lewis, this magazine-style show features news about breakthroughs in technology, research, inventions and mysteries of the scientific world.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114141000" stop="20131114150000">
+<title>Prophets of Science Fiction: Philip K Dick</title>
+<desc>Philip K Dick inspired &apos;Blade Runner&apos; and his work confronts readers with the question: &apos;What is reality?&apos; Hollywood notables and scientists explore his lasting influence.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114150000" stop="20131114155500">
+<title>James May&apos;s Man Lab: Episode 1</title>
+<desc>James leads a team of lost male souls as they face an array of inventive practical tests, learn how to deal with the mysteries of romance and reclaim the notion of teamwork.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114155500" stop="20131114164500">
+<title>X-Machines: Beluga, Icehammer, Goliath</title>
+<desc>The world&apos;s largest mining machine digs for coal in Canada, mobile ice hammers save a town from flooding and an air transporter battles extreme conditions to deliver its cargo.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114164500" stop="20131114173500">
+<title>Unchained Reaction: Fire and Ice</title>
+<desc>Judges Adam and Jamie of &apos;Mythbusters&apos; challenge a team of rocket scientists and a family of special effects artists to build a &apos;Fire and Ice&apos;-themed multi-step machine.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114173500" stop="20131114183000">
+<title>Moon Machines: Navigation</title>
+<desc>A look at how a group of computer scientists grappled with the challenge of a round trip to the Moon in the days when computer code and software hadn&apos;t been invented.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114183000" stop="20131114192000">
+<title>Weird Or What?: Medical Mysteries</title>
+<desc>Medical mysteries seemingly beyond the realm of science, including the tale of medics at a California hospital who fall gravely ill after treating a mysteriously ailing patient.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114192000" stop="20131114194500">
+<title>Prank Science: Episode 1</title>
+<desc>A health supplement isn&apos;t what is seems; a sandcastle competition is rigged with waterproof sand; the Crash Test Scientist has a leg wax; and a man is accidentally set on fire.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114194500" stop="20131114201000">
+<title>Prank Science: Episode 2</title>
+<desc>A stress study goes wrong; a demonstration of the theory of change blindness; the Crash Test Scientist becomes a battering ram and a plot to save the planet with non-dairy creamer!</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114201000" stop="20131114203500">
+<title>The Gadget Show: Episode 85</title>
+<desc>Jason and Ortis compete to build and race their own speedboat. And Jon investigates the best method for drying out your gadgets - with the help of a synchronised swimming team.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114203500" stop="20131114210000">
+<title>Tech Toys 360: Lamborghini Aventador and Aventador J</title>
+<desc>A show featuring the most progressive and inspiring innovations from around the globe. Meet the creators, designers and engineers behind these revolutionary technologies.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114210000" stop="20131114215000">
+<title>Weird Or What?: Premonitions</title>
+<desc>Three incredible stories about the predictive power of the sub- conscious, including a man who warns of a plane crash before it happens following a series of vivid nightmares.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114215000" stop="20131114221500">
+<title>Prank Science: Episode 1</title>
+<desc>A health supplement isn&apos;t what is seems; a sandcastle competition is rigged with waterproof sand; the Crash Test Scientist has a leg wax; and a man is accidentally set on fire.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114221500" stop="20131114224000">
+<title>Prank Science: Episode 2</title>
+<desc>A stress study goes wrong; a demonstration of the theory of change blindness; the Crash Test Scientist becomes a battering ram and a plot to save the planet with non-dairy creamer!</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114224000" stop="20131114233000">
+<title>Dark Matters: Twisted but True: Episode 13</title>
+<desc>How did Typhoid Mary reveal that asymptomatic carriers can unwittingly spread disease, and why is Parsons’ obsession with the occult credited with keeping the Cold War peaceful?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131114233000" stop="20131115000000">
+<title>Weird Connections: The Mosquito Banquet</title>
+<desc>Examine scientists&apos; attempts to find out why mosquitoes bite certain people more than others, and how their findings relate to new techniques for detecting cancer.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115000000" stop="20131115002500">
+<title>The Gadget Show: Episode 85</title>
+<desc>Jason and Ortis compete to build and race their own speedboat. And Jon investigates the best method for drying out your gadgets - with the help of a synchronised swimming team.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115002500" stop="20131115005000">
+<title>Tech Toys 360: Lamborghini Aventador and Aventador J</title>
+<desc>A show featuring the most progressive and inspiring innovations from around the globe. Meet the creators, designers and engineers behind these revolutionary technologies.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115005000" stop="20131115014500">
+<title>Weird Or What?: Premonitions</title>
+<desc>Three incredible stories about the predictive power of the sub- conscious, including a man who warns of a plane crash before it happens following a series of vivid nightmares.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115014500" stop="20131115021000">
+<title>Prank Science: Episode 1</title>
+<desc>A health supplement isn&apos;t what is seems; a sandcastle competition is rigged with waterproof sand; the Crash Test Scientist has a leg wax; and a man is accidentally set on fire.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115021000" stop="20131115023500">
+<title>Prank Science: Episode 2</title>
+<desc>A stress study goes wrong; a demonstration of the theory of change blindness; the Crash Test Scientist becomes a battering ram and a plot to save the planet with non-dairy creamer!</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115023500" stop="20131115032500">
+<title>Unchained Reaction: Fire and Ice</title>
+<desc>Judges Adam and Jamie of &apos;Mythbusters&apos; challenge a team of rocket scientists and a family of special effects artists to build a &apos;Fire and Ice&apos;-themed multi-step machine.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115032500" stop="20131115041500">
+<title>Moon Machines: Navigation</title>
+<desc>A look at how a group of computer scientists grappled with the challenge of a round trip to the Moon in the days when computer code and software hadn&apos;t been invented.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115041500" stop="20131115044000">
+<title>The Gadget Show: Episode 85</title>
+<desc>Jason and Ortis compete to build and race their own speedboat. And Jon investigates the best method for drying out your gadgets - with the help of a synchronised swimming team.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115044000" stop="20131115050500">
+<title>Tech Toys 360: Lamborghini Aventador and Aventador J</title>
+<desc>A show featuring the most progressive and inspiring innovations from around the globe. Meet the creators, designers and engineers behind these revolutionary technologies.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115050500" stop="20131115060000">
+<title>X-Machines: Beluga, Icehammer, Goliath</title>
+<desc>The world&apos;s largest mining machine digs for coal in Canada, mobile ice hammers save a town from flooding and an air transporter battles extreme conditions to deliver its cargo. Friday</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115060000" stop="20131115065000">
+<title>Stephen Hawking&apos;s Grand Design: The Meaning of Life</title>
+<desc>Is there a meaning to life? Is there a purpose to our existence? Hawking investigates what the laws of physics can reveal about humanity and reality.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115065000" stop="20131115074000">
+<title>Prophets of Science Fiction: Philip K Dick</title>
+<desc>Philip K Dick inspired &apos;Blade Runner&apos; and his work confronts readers with the question: &apos;What is reality?&apos; Hollywood notables and scientists explore his lasting influence.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115074000" stop="20131115080500">
+<title>The Gadget Show: Episode 84</title>
+<desc>Jason and Suzi compete to make the best cinema trailer using the latest technology. And Pollyanna travels to Singapore with Jon Bentley, to find the top five in-ear headphones.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115080500" stop="20131115083000">
+<title>The Tech Show: Episode 26</title>
+<desc>Hosted by Dr Jack Lewis, this magazine-style show features news about breakthroughs in technology, research, inventions and mysteries of the scientific world.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115083000" stop="20131115092500">
+<title>James May&apos;s Man Lab: Episode 1</title>
+<desc>James leads a team of lost male souls as they face an array of inventive practical tests, learn how to deal with the mysteries of romance and reclaim the notion of teamwork.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115092500" stop="20131115102000">
+<title>X-Machines: Beluga, Icehammer, Goliath</title>
+<desc>The world&apos;s largest mining machine digs for coal in Canada, mobile ice hammers save a town from flooding and an air transporter battles extreme conditions to deliver its cargo.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115102000" stop="20131115111000">
+<title>Unchained Reaction: Fire and Ice</title>
+<desc>Judges Adam and Jamie of &apos;Mythbusters&apos; challenge a team of rocket scientists and a family of special effects artists to build a &apos;Fire and Ice&apos;-themed multi-step machine.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115111000" stop="20131115120000">
+<title>Moon Machines: Navigation</title>
+<desc>A look at how a group of computer scientists grappled with the challenge of a round trip to the Moon in the days when computer code and software hadn&apos;t been invented.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115120000" stop="20131115122500">
+<title>Prank Science: Episode 1</title>
+<desc>A health supplement isn&apos;t what is seems; a sandcastle competition is rigged with waterproof sand; the Crash Test Scientist has a leg wax; and a man is accidentally set on fire.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115122500" stop="20131115125000">
+<title>Prank Science: Episode 2</title>
+<desc>A stress study goes wrong; a demonstration of the theory of change blindness; the Crash Test Scientist becomes a battering ram and a plot to save the planet with non-dairy creamer!</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115125000" stop="20131115132000">
+<title>Weird Connections: The Invisible Gorilla</title>
+<desc>Follow experiments into inattentional blindness and find out how these could help in the development of aircraft computer systems designed to reduce pilot error.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115132000" stop="20131115134500">
+<title>The Gadget Show: Episode 85</title>
+<desc>Jason and Ortis compete to build and race their own speedboat. And Jon investigates the best method for drying out your gadgets - with the help of a synchronised swimming team.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115134500" stop="20131115141000">
+<title>Tech Toys 360: Lamborghini Aventador and Aventador J</title>
+<desc>A show featuring the most progressive and inspiring innovations from around the globe. Meet the creators, designers and engineers behind these revolutionary technologies.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115141000" stop="20131115150000">
+<title>Weird Or What?: Medical Mysteries</title>
+<desc>Medical mysteries seemingly beyond the realm of science, including the tale of medics at a California hospital who fall gravely ill after treating a mysteriously ailing patient.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115150000" stop="20131115155500">
+<title>James May&apos;s Man Lab: Episode 2</title>
+<desc>James May and the team learn how to navigate the high seas the old fashioned way, using only a compass and a dog as navigational tools.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115155500" stop="20131115164500">
+<title>X-Machines: Thunder, Wheels, Nemo</title>
+<desc>A helicopter must dodge power lines as it transports an Arctic oil tank and a million-dollar sub hunts for warning signs of an impending tsunami on Lake Tahoe.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115164500" stop="20131115173500">
+<title>Unchained Reaction: Take Flight</title>
+<desc>Judges Adam and Jamie pit a team of engineers against a group of artists to build multi-step machines with this week&apos;s theme: flight. Will their machines get off of the ground?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115173500" stop="20131115183000">
+<title>Moon Machines: Lunar Module</title>
+<desc>The story of the engineers who built one of the greatest engineering feats in history - the Lunar Bug - and how they dealt with demanding weight restrictions.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115183000" stop="20131115192000">
+<title>Nextworld: Future Home</title>
+<desc>In the future our homes could come equipped with virtual reality entertainment complexes, 3D printers that concoct elaborate gourmet meals and android personal assistants.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115192000" stop="20131115201000">
+<title>FutureCar: The Body</title>
+<desc>Take a look into the future of automobile technology. With the help of those at the forefront of car design, we discover what cars will look like in the year 2030.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115201000" stop="20131115203500">
+<title>The Gadget Show: Episode 86</title>
+<desc>Suzi and Ortis turn a traditional seaside hotel into an automated one, packed with gadgetry. Pollyanna heads to Singapore for the annual spectacular River Festival.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115203500" stop="20131115210000">
+<title>Tech Toys 360: Ducati Panigale 1199 Pal-v One Flying Car</title>
+<desc>More progressive and inspiring innovations from around the globe. Meet the creators, designers and engineers behind these revolutionary technologies.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115210000" stop="20131115215000">
+<title>Nextworld: Future Home</title>
+<desc>In the future our homes could come equipped with virtual reality entertainment complexes, 3D printers that concoct elaborate gourmet meals and android personal assistants.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115215000" stop="20131115224000">
+<title>FutureCar: The Body</title>
+<desc>Take a look into the future of automobile technology. With the help of those at the forefront of car design, we discover what cars will look like in the year 2030.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115224000" stop="20131115233000">
+<title>Dark Matters: Twisted but True: Episode 1</title>
+<desc>John Noble explores the questions some say should not be asked, including why scientists were so keen to get their hands on the body of Alexis St Martin whilst he was alive.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131115233000" stop="20131116000000">
+<title>Weird Connections: The Invisible Gorilla</title>
+<desc>Follow experiments into inattentional blindness and find out how these could help in the development of aircraft computer systems designed to reduce pilot error.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116000000" stop="20131116002500">
+<title>The Gadget Show: Episode 86</title>
+<desc>Suzi and Ortis turn a traditional seaside hotel into an automated one, packed with gadgetry. Pollyanna heads to Singapore for the annual spectacular River Festival.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116002500" stop="20131116005000">
+<title>Tech Toys 360: Ducati Panigale 1199 Pal-v One Flying Car</title>
+<desc>More progressive and inspiring innovations from around the globe. Meet the creators, designers and engineers behind these revolutionary technologies.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116005000" stop="20131116014500">
+<title>Nextworld: Future Home</title>
+<desc>In the future our homes could come equipped with virtual reality entertainment complexes, 3D printers that concoct elaborate gourmet meals and android personal assistants.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116014500" stop="20131116023500">
+<title>FutureCar: The Body</title>
+<desc>Take a look into the future of automobile technology. With the help of those at the forefront of car design, we discover what cars will look like in the year 2030.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116023500" stop="20131116032500">
+<title>Unchained Reaction: Take Flight</title>
+<desc>Judges Adam and Jamie pit a team of engineers against a group of artists to build multi-step machines with this week&apos;s theme: flight. Will their machines get off of the ground?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116032500" stop="20131116041500">
+<title>Moon Machines: Lunar Module</title>
+<desc>The story of the engineers who built one of the greatest engineering feats in history - the Lunar Bug - and how they dealt with demanding weight restrictions.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116041500" stop="20131116044000">
+<title>The Gadget Show: Episode 86</title>
+<desc>Suzi and Ortis turn a traditional seaside hotel into an automated one, packed with gadgetry. Pollyanna heads to Singapore for the annual spectacular River Festival.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116044000" stop="20131116050500">
+<title>Tech Toys 360: Ducati Panigale 1199 Pal-v One Flying Car</title>
+<desc>More progressive and inspiring innovations from around the globe. Meet the creators, designers and engineers behind these revolutionary technologies.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116050500" stop="20131116060000">
+<title>X-Machines: Thunder, Wheels, Nemo</title>
+<desc>A helicopter must dodge power lines as it transports an Arctic oil tank and a million-dollar sub hunts for warning signs of an impending tsunami on Lake Tahoe. Saturday</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116060000" stop="20131116065000">
+<title>Mighty Ships: Episode 1</title>
+<desc>Explore the world&apos;s most impressive working ships, from cargo containers, to ice-breakers and livestock carriers. What makes each vessel and every journey unique?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116065000" stop="20131116074000">
+<title>Through the Wormhole with Morgan Freeman: Can Our Minds Be Hacked?</title>
+<desc>Our minds store our entire lives, memories and desires, like biological computers. Could brain hackers someday be able to rewrite our thoughts?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116074000" stop="20131116080500">
+<title>The Gadget Show: Episode 85</title>
+<desc>Jason and Ortis compete to build and race their own speedboat. And Jon investigates the best method for drying out your gadgets - with the help of a synchronised swimming team.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116080500" stop="20131116083000">
+<title>Tech Toys 360: Lamborghini Aventador and Aventador J</title>
+<desc>A show featuring the most progressive and inspiring innovations from around the globe. Meet the creators, designers and engineers behind these revolutionary technologies.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116083000" stop="20131116092500">
+<title>Mega World: Hawaii</title>
+<desc>Find out how scientists in Hawaii are tackling beach erosion and erupting volcanoes as host Kevin Brauch investigates developments in geology, marine biology and construction.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116092500" stop="20131116102000">
+<title>Mega World: Canada</title>
+<desc>Presenter Kevin Brauch investigates engineering and technological innovations in Canada, including underground laboratories and off-road vehicles.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116102000" stop="20131116111000">
+<title>X-Machines: Blade, Mammoth, Slashbuster</title>
+<desc>A helicopter saves a Colorado town, a team of engineers harnesses the world&apos;s biggest mobile cranes and loggers fight to save Louisiana&apos;s Gulf Coast.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116111000" stop="20131116120000">
+<title>X-Machines: Beluga, Icehammer, Goliath</title>
+<desc>The world&apos;s largest mining machine digs for coal in Canada, mobile ice hammers save a town from flooding and an air transporter battles extreme conditions to deliver its cargo.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116120000" stop="20131116125000">
+<title>X-Machines: Thunder, Wheels, Nemo</title>
+<desc>A helicopter must dodge power lines as it transports an Arctic oil tank and a million-dollar sub hunts for warning signs of an impending tsunami on Lake Tahoe.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116125000" stop="20131116132000">
+<title>Weird Connections: Facial Recognition</title>
+<desc>Examine an experiment to investigate the recognition abilities of pigeons, and follow attempts to develop intelligent cameras and improved systems of criminal identification.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116132000" stop="20131116134500">
+<title>The Gadget Show: Episode 86</title>
+<desc>Suzi and Ortis turn a traditional seaside hotel into an automated one, packed with gadgetry. Pollyanna heads to Singapore for the annual spectacular River Festival.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116134500" stop="20131116141000">
+<title>Tech Toys 360: Ducati Panigale 1199 Pal-v One Flying Car</title>
+<desc>More progressive and inspiring innovations from around the globe. Meet the creators, designers and engineers behind these revolutionary technologies.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116141000" stop="20131116150000">
+<title>Nextworld: Future Home</title>
+<desc>In the future our homes could come equipped with virtual reality entertainment complexes, 3D printers that concoct elaborate gourmet meals and android personal assistants.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116150000" stop="20131116155500">
+<title>Stephen Hawking&apos;s Grand Design: The Meaning of Life</title>
+<desc>Is there a meaning to life? Is there a purpose to our existence? Hawking investigates what the laws of physics can reveal about humanity and reality.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116155500" stop="20131116164500">
+<title>Prophets of Science Fiction: Philip K Dick</title>
+<desc>Philip K Dick inspired &apos;Blade Runner&apos; and his work confronts readers with the question: &apos;What is reality?&apos; Hollywood notables and scientists explore his lasting influence.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116164500" stop="20131116173500">
+<title>Mighty Planes: Martin Mars</title>
+<desc>Fly with the crew of the Martin Mars water bomber, the world&apos;s biggest seaplane, as they fight the wildfires that threaten to destroy vast swathes of Mexican wilderness.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116173500" stop="20131116183000">
+<title>Mighty Ships: Episode 2</title>
+<desc>Explore the world&apos;s most impressive working ships, from cargo containers, to ice-breakers and livestock carriers. What makes each vessel and every journey unique?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116183000" stop="20131116192000">
+<title>Meteorite Men: Episode 6</title>
+<desc>The guys are in Canada to survey the Whitecourt Crater site and collect its extraterrestrial wonders before their scientific information is poached by illegal meteorite hunters.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116192000" stop="20131116201000">
+<title>Dark Matters: Twisted but True: Episode 12</title>
+<desc>How were Pavlov’s findings applied to orphans; why was radioactive radium used to illuminate soldier’s watches; and what produced red rain in the Indian state of Kerala?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116201000" stop="20131116203500">
+<title>The Gadget Show: Episode 87</title>
+<desc>The team sets out to destroy some of the world’s toughest gadgets. And Ortis jets off to Toronto, Canada to check out an off-road skateboard called DTV Shredder.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116203500" stop="20131116210000">
+<title>Tech Toys 360: Porsche 911 Carrera and Williamswarn Personal Brewery</title>
+<desc>More progressive and inspiring innovations from around the globe. Meet the creators, designers and engineers behind these revolutionary technologies.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116210000" stop="20131116212500">
+<title>Rocket City Rednecks: Junkyard Iron Man</title>
+<desc>The Rocket City Rednecks construct a bullet-resistant exoskeleton suit using only spare parts and junkyard materials. But will it actually perform under fire?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116212500" stop="20131116215000">
+<title>Rocket City Rednecks: Hillbilly Moonbuggy</title>
+<desc>The guys compete in NASA&apos;s Great Moonbuggy Race, an international competition to create a human-powered lunar vehicle designed to fit aboard a space capsule.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116215000" stop="20131116224000">
+<title>Mighty Planes: Martin Mars</title>
+<desc>Fly with the crew of the Martin Mars water bomber, the world&apos;s biggest seaplane, as they fight the wildfires that threaten to destroy vast swathes of Mexican wilderness.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116224000" stop="20131116233000">
+<title>Dark Matters: Twisted but True: Episode 1</title>
+<desc>John Noble explores the questions some say should not be asked, including why scientists were so keen to get their hands on the body of Alexis St Martin whilst he was alive.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131116233000" stop="20131117000000">
+<title>Weird Connections: Facial Recognition</title>
+<desc>Examine an experiment to investigate the recognition abilities of pigeons, and follow attempts to develop intelligent cameras and improved systems of criminal identification.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131117000000" stop="20131117002500">
+<title>Junk Men: The Rocket Ride</title>
+<desc>At Jimmy’s Junk, inventors look for parts for their jet-propelled merry- go-round. Plus, shop regular Hale Storm tries to sell Jimmy an African birthing chair.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131117002500" stop="20131117005000">
+<title>Junk Men: Surf Cycle</title>
+<desc>At Jimmy&apos;s Junk, an inventor needs a replacement engine for his surf cycle, and two students look for parts to add firepower to their solar- powered tank.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131117005000" stop="20131117011500">
+<title>Junk Men: Fire Ballers</title>
+<desc>Jimmy feels the heat when two inventors seek help with their rapid fire flame cannon. Plus, a lawnmower-racing team need a new transmission before their big race.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131117011500" stop="20131117014500">
+<title>Junk Men: Hovercrash</title>
+<desc>Jimmy helps two inventors turn a fridge into a beer can launcher, and a student looks for a thrust engine to finish his class’s hovercraft. But will it survive the test drive?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131117014500" stop="20131117021000">
+<title>Junk Men: Hot Air Hale</title>
+<desc>It’s all hands on deck to create a huge new sign for the yard out of recycled junk. Later, the guys play a prank on Hale, and Jimmy has a near death experience.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131117021000" stop="20131117023500">
+<title>Junk Men: Junkin&apos; Chunkin&apos;</title>
+<desc>A team of pumpkin throwers need Jimmy’s help to improve their trebuchet, and the guys turn an old treadmill into a power-generating windmill for the yard.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131117023500" stop="20131117032500">
+<title>Unchained Reaction: Fire and Ice</title>
+<desc>Judges Adam and Jamie of &apos;Mythbusters&apos; challenge a team of rocket scientists and a family of special effects artists to build a &apos;Fire and Ice&apos;-themed multi-step machine.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131117032500" stop="20131117041500">
+<title>Unchained Reaction: Take Flight</title>
+<desc>Judges Adam and Jamie pit a team of engineers against a group of artists to build multi-step machines with this week&apos;s theme: flight. Will their machines get off of the ground?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131117041500" stop="20131117044000">
+<title>The Gadget Show: Episode 87</title>
+<desc>The team sets out to destroy some of the world’s toughest gadgets. And Ortis jets off to Toronto, Canada to check out an off-road skateboard called DTV Shredder.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131117044000" stop="20131117050500">
+<title>Tech Toys 360: Porsche 911 Carrera and Williamswarn Personal Brewery</title>
+<desc>More progressive and inspiring innovations from around the globe. Meet the creators, designers and engineers behind these revolutionary technologies.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131117050500" stop="20131117053000">
+<title>Weird Connections: Tripping Up Grannies</title>
+<desc>Follow leading scientists as they try to learn more about human balance by tripping up elderly women, and meet an architect who wants to create buildings that think for themselves.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-science.doc" start="20131117053000" stop="20131117060000">
+<title>Weird Connections: Quack Science</title>
+<desc>Acoustics researcher Jonathan Hargreaves wanted to find out if a duck&apos;s quack echoes. How could the discoveries he made help to save the lives of fighter pilots? Sunday</desc>
+<premiere />
+</programme>
+</tv>

@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tv source-data-url="http://tvprofil.net/xmltv/" source-info-name="Phazer XML servis 4.5" source-info-url="http://tvprofil.net">
+<channel id="vox.de">
+<display-name>VOX</display-name>
+<url>http://www.vox.de</url>
+<icon src="http://phazer.info/img/kanali/vox.jpg" />
+</channel>
+<programme channel="vox.de" start="20131113064000" stop="20131113084000">
+<title>Verklag mich doch! Das Schreckgespenst</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131113084000" stop="20131113094500">
+<title>Verklag mich doch! Anwalts Liebling</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131113094500" stop="20131113105000">
+<title>Hilf mir doch! Eine harte Hand</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131113105000" stop="20131113115000">
+<title>mieten, kaufen, wohnen</title>
+<desc>Zu den wichtigsten Dingen im Leben zählen die eigenen vier Wände. Ob zur Miete oder im Eigenheim -...</desc>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131113115000" stop="20131113120000">
+<title>vox nachrichten</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131113120000" stop="20131113130000">
+<title>Shopping Queen</title>
+<desc>Motto in Bremen: Blusenwunder - Erfinde den Klassiker neu und überzeuge in einer trendigen Bluse!</desc>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131113130000" stop="20131113140000">
+<title>Verklag mich doch! Ein Miststück kommt selten allein</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131113140000" stop="20131113150000">
+<title>Date my Style, Tag 3</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131113150000" stop="20131113160000">
+<title>Shopping Queen</title>
+<desc>Motto in Bremen: Blusenwunder - Erfinde den Klassiker neu und überzeuge in einer trendigen Bluse!</desc>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131113160000" stop="20131113170000">
+<title>4 Hochzeiten und eine Traumreise, Tag 3: Frances &amp; Björn/ Nürnberg</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131113170000" stop="20131113180000">
+<title>mieten, kaufen, wohnen</title>
+<desc>Zu den wichtigsten Dingen im Leben zählen die eigenen vier Wände. Ob zur Miete oder im Eigenheim -...</desc>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131113180000" stop="20131113190000">
+<title>mieten, kaufen, wohnen</title>
+<desc>Zu den wichtigsten Dingen im Leben zählen die eigenen vier Wände. Ob zur Miete oder im Eigenheim -...</desc>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131113190000" stop="20131113200000">
+<title>Das perfekte Dinner - Wer ist der Profi? Tag 3: Karin/ Deutschland</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131113200000" stop="20131113201500">
+<title>Prominent!</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131113201500" stop="20131113211500">
+<title>Djevojke na zadatku, Verstrickungen(Love the Way You Lie) Folge 37 Staffel: III</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131113211500" stop="20131113221000">
+<title>Pošteno i prema zakonu, Land unter(Bridges) Folge 10 Staffel: I</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131113221000" stop="20131113230500">
+<title>Završni udarac, Todesfahrt(Road Block) Folge 102 Staffel: VII</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131113230500" stop="20131114000000">
+<title>Završni udarac, Strippenzieher(Silent Partner) Folge 103 Staffel: VII</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131114000000" stop="20131114005000">
+<title>Missing, Blutopfer(Answers) Folge 8 Staffel: I</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131114005000" stop="20131114011500">
+<title>vox nachrichten</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131114011500" stop="20131114015000">
+<title>Djevojke na zadatku, Verstrickungen(Love the Way You Lie) Folge 37 Staffel: III</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131114015000" stop="20131114024000">
+<title>Pošteno i prema zakonu, Land unter(Bridges) Folge 10 Staffel: I</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131114024000" stop="20131114032500">
+<title>Osveta, Hinter Gittern(The Jailhouse Job) Folge 29 Staffel: III</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131114032500" stop="20131114040500">
+<title>Osveta, Klassentreffen(The Reunion Job) Folge 30 Staffel: III</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131114040500" stop="20131114044500">
+<title>Osveta, Solo für Parker(The Inside Job) Folge 31 Staffel: III</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131114044500" stop="20131114054000">
+<title>Date my Style, Tag 4</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131114054000" stop="20131114064000">
+<title>mieten, kaufen, wohnen</title>
+<desc>Bitte beachten Sie, dass in Österreich stattdessen eine Dauerwerbesendung ausgestrahlt wird. Zu...</desc>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131114064000" stop="20131114084000">
+<title>Verklag mich doch! Die Insolvenzverschleppung</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131114084000" stop="20131114094500">
+<title>Verklag mich doch! Ein Miststück kommt selten allein</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131114094500" stop="20131114105000">
+<title>Hilf mir doch! Eiskalter Engel</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131114105000" stop="20131114105500">
+<title>vox nachrichten</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131114105500" stop="20131114120000">
+<title>mieten, kaufen, wohnen</title>
+<desc>Zu den wichtigsten Dingen im Leben zählen die eigenen vier Wände. Ob zur Miete oder im Eigenheim -...</desc>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131114120000" stop="20131114130000">
+<title>Shopping Queen</title>
+<desc>Motto in Bremen: Blusenwunder - Erfinde den Klassiker neu und überzeuge in einer trendigen Bluse!</desc>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131114130000" stop="20131114140000">
+<title>Verklag mich doch! Hochzeit ohne Ja-Wort</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131114140000" stop="20131114150000">
+<title>Date my Style, Tag 4</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131114150000" stop="20131114160000">
+<title>Shopping Queen</title>
+<desc>Motto in Bremen: Blusenwunder - Erfinde den Klassiker neu und überzeuge in einer trendigen Bluse!</desc>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131114160000" stop="20131114170000">
+<title>4 Hochzeiten und eine Traumreise, Tag 4: Veronika &amp; Maik/ Leer</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131114170000" stop="20131114180000">
+<title>mieten, kaufen, wohnen</title>
+<desc>Zu den wichtigsten Dingen im Leben zählen die eigenen vier Wände. Ob zur Miete oder im Eigenheim -...</desc>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131114180000" stop="20131114190000">
+<title>mieten, kaufen, wohnen</title>
+<desc>Zu den wichtigsten Dingen im Leben zählen die eigenen vier Wände. Ob zur Miete oder im Eigenheim -...</desc>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131114190000" stop="20131114200000">
+<title>Das perfekte Dinner - Wer ist der Profi? Tag 4: Bernd/ Deutschland</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131114200000" stop="20131114201500">
+<title>Prominent!</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131114201500" stop="20131115000500">
+<title>Der Herr der Ringe - Die Rückkehr des Königs</title>
+<desc>Die Hobbits Frodo und Sam kämpfen sich gemeinsam mit der Kreatur Gollum nach Gondor ins schwarze...</desc>
+<category>film</category>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131115000500" stop="20131115002500">
+<title>vox nachrichten</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131115002500" stop="20131115011500">
+<title>Missing, Jäger und Gejagte(Promise) Folge 9 Staffel: I</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131115011500" stop="20131115043000">
+<title>Der Herr der Ringe - Die Rückkehr des Königs</title>
+<desc>Die Hobbits Frodo und Sam kämpfen sich gemeinsam mit der Kreatur Gollum nach Gondor ins schwarze...</desc>
+<category>film</category>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131115043000" stop="20131115045000">
+<title>Making of...</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131115045000" stop="20131115050000">
+<title>Menschen, Tiere &amp; Doktoren, Wenn Schlangen Schluckauf haben, Nashörner niesen und Hamster humpeln</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131115050000" stop="20131115054000">
+<title>auto mobil, Gebrauchtwagencheck Skoda Octavia</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131115054000" stop="20131115064000">
+<title>mieten, kaufen, wohnen</title>
+<desc>Bitte beachten Sie, dass in Österreich stattdessen eine Dauerwerbesendung ausgestrahlt wird.</desc>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131115064000" stop="20131115084000">
+<title>Verklag mich doch! Liebe mit Hindernissen</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131115084000" stop="20131115094500">
+<title>Verklag mich doch! Hochzeit ohne Ja-Wort</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131115094500" stop="20131115105000">
+<title>Hilf mir doch! Liebe auf Bewährung</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131115105000" stop="20131115105500">
+<title>vox nachrichten</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131115105500" stop="20131115120000">
+<title>mieten, kaufen, wohnen</title>
+<desc>Zu den wichtigsten Dingen im Leben zählen die eigenen vier Wände. Ob zur Miete oder im Eigenheim -...</desc>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131115120000" stop="20131115130000">
+<title>Shopping Queen</title>
+<desc>Motto in Bremen: Blusenwunder - Erfinde den Klassiker neu und überzeuge in einer trendigen Bluse!</desc>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131115130000" stop="20131115140000">
+<title>Verklag mich doch! Aussichtslos</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131115140000" stop="20131115150000">
+<title>Date my Style, Finale</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131115150000" stop="20131115160000">
+<title>Shopping Queen</title>
+<desc>Motto in Bremen: Blusenwunder - Erfinde den Klassiker neu und überzeuge in einer trendigen Bluse!</desc>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131115160000" stop="20131115170000">
+<title>4 Hochzeiten und eine Traumreise, Tag 5: Finale</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131115170000" stop="20131115180000">
+<title>mieten, kaufen, wohnen</title>
+<desc>Zu den wichtigsten Dingen im Leben zählen die eigenen vier Wände. Ob zur Miete oder im Eigenheim -...</desc>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131115180000" stop="20131115190000">
+<title>mieten, kaufen, wohnen</title>
+<desc>Zu den wichtigsten Dingen im Leben zählen die eigenen vier Wände. Ob zur Miete oder im Eigenheim -...</desc>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131115190000" stop="20131115200000">
+<title>Das perfekte Dinner - Wer ist der Profi? Tag 5: Tom/ Deutschland</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131115200000" stop="20131115201500">
+<title>Prominent!</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131115201500" stop="20131115221000">
+<title>Zakon i red: Odjel za žrtve</title>
+<desc>Böses Erwachen + 297/ XIV Falsches Spiel(Lost Reputation + Above Suspicion) Folge 296 Staffel 14 / Folge 296</desc>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131115221000" stop="20131115230500">
+<title>Criminal Intent - Verbrechen im Visier, Vergiftet (30) Folge 127 Staffel: VI</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131115230500" stop="20131116000000">
+<title>Criminal Intent - Verbrechen im Visier, Feine Freunde(Players) Folge 128 Staffel: VI</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131116000000" stop="20131116005000">
+<title>Missing, Showdown(Rain on the Evil and on the Good) Folge 10 Letzte Folge!</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131116005000" stop="20131116011000">
+<title>vox nachrichten</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131116011000" stop="20131116023500">
+<title>Zakon i red: Odjel za žrtve</title>
+<desc>Böses Erwachen + 297/ XIV Falsches Spiel(Lost Reputation + Above Suspicion) Folge 296 Staffel 14 / Folge 296</desc>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131116023500" stop="20131116032000">
+<title>Criminal Intent - Verbrechen im Visier, Vergiftet (30) Folge 127 Staffel: VI</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131116032000" stop="20131116041000">
+<title>Criminal Intent - Verbrechen im Visier, Feine Freunde(Players) Folge 128 Staffel: VI</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131116041000" stop="20131116055500">
+<title>CSI: New York</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131116055500" stop="20131116074500">
+<title>Meine Freundin, ihr Hund und ich</title>
+<desc>Als sich der Coffee-Shop-Besitzer und Hundehasser Charlie Hals über Kopf in die reizende Daphne...</desc>
+<category>film</category>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131116074500" stop="20131116084000">
+<title>McLeodove kćeri, Geständnisse(Put to the Test) Folge 49 Staffel: III</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131116084000" stop="20131116093500">
+<title>McLeodove kćeri, Die Braut, die sich nicht traut(The Wedding) Folge 59 Staffel: III</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131116093500" stop="20131116120500">
+<title>Das perfekte Promi Dinner, Mit Tommi Piper, Katja Ebstein, Ralph Morgenstern und Thomas Anders</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131116120500" stop="20131116130000">
+<title>Shopping Queen, Motto in Essen: Grell, greller, Neon. Style dich im angesagten Farbtrend!</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131116130000" stop="20131116140000">
+<title>Shopping Queen, Motto in Essen: Grell, greller, Neon. Style dich im angesagten Farbtrend!</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131116140000" stop="20131116150000">
+<title>Shopping Queen, Motto in Essen: Grell, greller, Neon. Style dich im angesagten Farbtrend!</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131116150000" stop="20131116160000">
+<title>Shopping Queen, Motto in Essen: Grell, greller, Neon. Style dich im angesagten Farbtrend!</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131116160000" stop="20131116170000">
+<title>Shopping Queen, Motto in Essen: Grell, greller, Neon. Style dich im angesagten Farbtrend!</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131116170000" stop="20131116180000">
+<title>Tortenschlacht - Wer backt am besten? Folge 3</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131116180000" stop="20131116191000">
+<title>hundkatzemaus, Wenn Katzen sich nicht riechen können</title>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131116191000" stop="20131116201500">
+<title>Der V.I.P. Hundeprofi</title>
+<desc>Hier müssen auch die Promis gehorchen: In der VOX-Coaching-Doku &apos;Der V.I.P. Hundeprofi&apos; gehen nicht... Neue Folge!</desc>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131116201500" stop="20131117002000">
+<title>50 Jahre Kennedy-Attentat - Geheimnisse einer amerikanischen Dynastie</title>
+<desc>Schein und Sein, Glamour und Schattenseiten: SPIEGEL TV dokumentiert den Aufstieg von John F....</desc>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131117002000" stop="20131117011500">
+<title>Criminal Intent - Verbrechen im Visier, Leichentausch(Cadaver) Folge 193 Staffel 10 / Folge 193</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131117011500" stop="20131117015500">
+<title>Criminal Intent - Verbrechen im Visier, Ikarus(Icarus) Folge 194 Staffel 10 / Folge 194</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131117015500" stop="20131117024000">
+<title>CSI: New York</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131117024000" stop="20131117032000">
+<title>CSI: New York</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131117032000" stop="20131117040500">
+<title>Criminal Intent - Verbrechen im Visier, Leichentausch(Cadaver) Folge 193 Staffel 10 / Folge 193</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131117040500" stop="20131117045000">
+<title>CSI: New York</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="vox.de" start="20131117045000" stop="20131117065000">
+<title>CSI: New York</title>
+<category>serija</category>
+<premiere />
+</programme>
+</tv>

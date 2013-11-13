@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/video">
+        <file alias="video.mp4">clipcanvas_14348_offline.mp4</file>
+    </qresource>
+    <qresource prefix="/channel">
+        <file>data/3sat.de.xml</file>
+        <file>data/arte.de.xml</file>
+        <file>data/bbc-world.info.xml</file>
+        <file>data/cnn.info.xml</file>
+        <file>data/discovery-animal.doc.xml</file>
+        <file>data/discovery-civilization.doc.xml</file>
+        <file>data/discovery-europe.doc.xml</file>
+        <file>data/discovery-science.doc.xml</file>
+        <file>data/discovery-tlc.doc.xml</file>
+        <file>data/dsf.sport.xml</file>
+        <file>data/history-channel.doc.xml</file>
+        <file>data/kabel-1.de.xml</file>
+        <file>data/national-geographic-wild.doc.xml</file>
+        <file>data/national-geographic.doc.xml</file>
+        <file>data/pro-7.de.xml</file>
+        <file>data/rtl.de.de.xml</file>
+        <file>data/sat-1.de.xml</file>
+        <file>data/vox.de.xml</file>
+        <file>data/zdf.de.xml</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>qml/videoDemo/ChannelOverview.qml</file>
+        <file>qml/videoDemo/Content.qml</file>
+        <file>qml/videoDemo/ContentVideo.qml</file>
+        <file>qml/videoDemo/Background.qml</file>
+        <file>qml/videoDemo/main.qml</file>
+        <file>qml/videoDemo/ChannelIcon.qml</file>
+        <file>qml/videoDemo/ChannelInfo.qml</file>
+        <file>qml/videoDemo/ChannelLabel.qml</file>
+        <file>qml/videoDemo/ChannelListItem.qml</file>
+        <file>qml/videoDemo/ChannelListItemDetails.qml</file>
+        <file>qml/videoDemo/ProgramInfo.qml</file>
+    </qresource>
+</RCC>

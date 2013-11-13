@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tv source-data-url="http://tvprofil.net/xmltv/" source-info-name="Phazer XML servis 4.5" source-info-url="http://tvprofil.net">
+<channel id="pro-7.de">
+<display-name>PRO 7</display-name>
+<url>http://www.prosieben.de/</url>
+<icon src="http://phazer.info/img/kanali/pro7.jpg" />
+</channel>
+<programme channel="pro-7.de" start="20131113061500" stop="20131113064000">
+<title>Malcolm u sredini, Der Whirlpool (Hot Tub)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131113064000" stop="20131113071000">
+<title>Malcolm u sredini, Idas Freund (Ida&apos;s Boyfriend)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131113071000" stop="20131113073500">
+<title>What&apos;s up, Dad? Scheinchen für den Prof (Study Buddy)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131113073500" stop="20131113080500">
+<title>What&apos;s up, Dad? Schätzchen-Tag (Sweetheart&apos;s Day)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131113080500" stop="20131113083000">
+<title>Stažist, Mein großer Fehler(My Brother, Where Art Thou?)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131113083000" stop="20131113085500">
+<title>Stažist, Mein Handtaschentrick(My Advice to You)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131113085500" stop="20131113092000">
+<title>Dva i pol muškarca, Arm, aber schön(Something My Gynecologist Said)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131113092000" stop="20131113095000">
+<title>Dva i pol muškarca, Die Paparazzi-Falle(I Scream When I Pee)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131113095000" stop="20131113102000">
+<title>Teorija velikog praska, 31 Liebhaber, aufgerundet (The Robotic Manipulation)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131113102000" stop="20131113104500">
+<title>Teorija velikog praska, Der sicherste Ort der Welt (The Cruciferous Vegetable Amplification)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131113104500" stop="20131113111500">
+<title>Teorija velikog praska, Paradoxe Psychologie (The Zazzy Substitution)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131113111500" stop="20131113114000">
+<title>Kako sam upoznao vašu majku, Der Durchhänger(The Rough Patch)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131113114000" stop="20131113120500">
+<title>Kako sam upoznao vašu majku, Der Sporttaucher(The Playbook)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131113120500" stop="20131113123500">
+<title>Kako sam upoznao vašu majku, Klapsgiving 2 - Die Rache der Ohrfeige(Slapsgiving 2 - Revenge of the Slap)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131113123500" stop="20131113130000">
+<title>Stažist, Meine fünfzehn Sekunden(My Fifteen Seconds)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131113130000" stop="20131113133000">
+<title>Stažist, Meine Kollegin(My Friend the Doctor)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131113133000" stop="20131113135500">
+<title>Dva i pol muškarca, Ein-Ei-Johnson(One Nut Johnson)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131113135500" stop="20131113142000">
+<title>Dva i pol muškarca, Der Baumverkäufer(Give Santa a Tail-Hole)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131113142000" stop="20131113145000">
+<title>Teorija velikog praska, Und jetzt mit Zunge (The Hot Troll Deviation)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131113145000" stop="20131113151500">
+<title>Teorija velikog praska, Der Gestank der Verzweiflung (The Desperation Emanation)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131113151500" stop="20131113154000">
+<title>Teorija velikog praska, Finger weg von meiner Schwester (The Irish Pub Formulation)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131113154000" stop="20131113160500">
+<title>Kako sam upoznao vašu majku, Das Fenster(The Window)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131113160500" stop="20131113163000">
+<title>Kako sam upoznao vašu majku, Die letzte Zigarette(Last Cigarette Ever)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131113163000" stop="20131113170000">
+<title>Kako sam upoznao vašu majku, Anzug aus!(Girls Vs. Suits)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131113170000" stop="20131113180000">
+<title>taff Brennpunktstreife Alexanderplatz</title>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131113180000" stop="20131113181000">
+<title>NEWSTIME</title>
+<desc>Nachrichten live aus Berlin: &quot;NEWSTIME&quot; präsentiert das Neuste vom Tage mit verständlich...</desc>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131113181000" stop="20131113184000">
+<title>Simpsoni, Lebewohl, Mona(Mona Leaves-a)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131113184000" stop="20131113190500">
+<title>Simpsoni, Alles über Lisa(All about Lisa)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131113190500" stop="20131113201500">
+<title>Galileo, Mission Wissen Weltweit: Die schnellsten Weltrekorde</title>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131113201500" stop="20131113222000">
+<title>Shopaholic - Die Schnäppchenjägerin</title>
+<category>film</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131113222000" stop="20131113232000">
+<title>Fashion Hero</title>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131113232000" stop="20131114002000">
+<title>TV total</title>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114002000" stop="20131114005000">
+<title>2 Broke Girls, Die große Eröffnung (And the Big Opening)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114005000" stop="20131114011500">
+<title>2 Broke Girls, Die Geschäftspartnerin (And the Silent Partner)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114011500" stop="20131114020500">
+<title>Stargate, Prometheus(Prometheus)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114020500" stop="20131114025000">
+<title>Stargate, Unnatürliche Auslese(Unnatural Selection)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114025000" stop="20131114025500">
+<title>ProSieben Spätnachrichten</title>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114025500" stop="20131114033500">
+<title>Lost, Der Nachtfalter(The Moth)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114033500" stop="20131114041500">
+<title>Lost, Der Betrüger(Confidence Man)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114041500" stop="20131114052500">
+<title>Galileo, Mission Wissen Weltweit: Die schnellsten Weltrekorde</title>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114052500" stop="20131114054500">
+<title>Malcolm u sredini, Der Whirlpool (Hot Tub)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114054500" stop="20131114060500">
+<title>Malcolm u sredini, Idas Freund (Ida&apos;s Boyfriend)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114060500" stop="20131114063500">
+<title>Malcolm u sredini, Softball (Softball)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114063500" stop="20131114070500">
+<title>Malcolm u sredini, Lois&apos; Schwester (Lois&apos; Sister)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114070500" stop="20131114073000">
+<title>What&apos;s up, Dad? Verloren auf den Bahamas (1) (The Bahamas (1))</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114073000" stop="20131114080500">
+<title>What&apos;s up, Dad? Verloren auf den Bahamas (2) (The Bahamas (2))</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114080500" stop="20131114083000">
+<title>Stažist, Meine fünfzehn Sekunden(My Fifteen Seconds)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114083000" stop="20131114085500">
+<title>Stažist, Meine Kollegin(My Friend the Doctor)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114085500" stop="20131114092500">
+<title>Dva i pol muškarca, Ein-Ei-Johnson(One Nut Johnson)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114092500" stop="20131114095000">
+<title>Dva i pol muškarca, Der Baumverkäufer(Give Santa a Tail-Hole)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114095000" stop="20131114101500">
+<title>Teorija velikog praska, Und jetzt mit Zunge (The Hot Troll Deviation)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114101500" stop="20131114104000">
+<title>Teorija velikog praska, Der Gestank der Verzweiflung (The Desperation Emanation)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114104000" stop="20131114111000">
+<title>Teorija velikog praska, Finger weg von meiner Schwester (The Irish Pub Formulation)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114111000" stop="20131114114000">
+<title>Kako sam upoznao vašu majku, Das Fenster(The Window)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114114000" stop="20131114120500">
+<title>Kako sam upoznao vašu majku, Die letzte Zigarette(Last Cigarette Ever)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114120500" stop="20131114123000">
+<title>Kako sam upoznao vašu majku, Anzug aus!(Girls Vs. Suits)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114123000" stop="20131114130000">
+<title>Stažist, Mein Verzicht(My Dirty Secret)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114130000" stop="20131114132500">
+<title>Stažist, Meine Regeln(My Rule of Thumb)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114132500" stop="20131114135500">
+<title>Dva i pol muškarca, Willkommen auf Alancrest(Welcome to Alancrest)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114135500" stop="20131114142000">
+<title>Dva i pol muškarca, Das Leben ist kein Musical(Grab a Feather and Get in Line)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114142000" stop="20131114144500">
+<title>Teorija velikog praska, Besuch vom FBI(The Apology Insufficiency)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114144500" stop="20131114151000">
+<title>Teorija velikog praska, 21 Sekunden(The 21-Second Excitation)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114151000" stop="20131114154000">
+<title>Teorija velikog praska, Der falsche richtige Freund(The Boyfriend Complexity)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114154000" stop="20131114160500">
+<title>Kako sam upoznao vašu majku, Jenkins(Jenkins)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114160500" stop="20131114163000">
+<title>Kako sam upoznao vašu majku, Die perfekte Woche(Perfect Week)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114163000" stop="20131114170000">
+<title>Kako sam upoznao vašu majku, Ente oder Kaninchen(Rabbit or Duck)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114170000" stop="20131114180000">
+<title>taff Thema u. a.: Damit muss du nicht leben (3)</title>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114180000" stop="20131114181000">
+<title>NEWSTIME</title>
+<desc>Nachrichten live aus Berlin: &quot;NEWSTIME&quot; präsentiert das Neuste vom Tage mit verständlich...</desc>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114181000" stop="20131114184000">
+<title>Simpsoni, Kuchen, Kopfgeld und Kautionen(Sex, Pies and Idiot Scrapes)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114184000" stop="20131114190500">
+<title>Simpsoni, Jäger des verlorenen Handys(Lost Verizon)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114190500" stop="20131114201500">
+<title>Galileo, Wildes Fleisch</title>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114201500" stop="20131114223000">
+<title>The Voice of Germany</title>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114223000" stop="20131114233500">
+<title>red! Stars, Lifestyle &amp; More</title>
+<desc>In &quot;red!&quot; präsentieren Annemarie Carpendale und Lena Gercke Stars und ihren Lifestyle. Die...</desc>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131114233500" stop="20131115003500">
+<title>TV total</title>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115003500" stop="20131115010500">
+<title>Are You There, Chelsea? Traumhafte Stiefel(Boots)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115010500" stop="20131115013000">
+<title>Are You There, Chelsea? Überraschung (Surprise)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115013000" stop="20131115021500">
+<title>Stargate, Die Unsichtbaren(Sight Unseen)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115021500" stop="20131115025500">
+<title>Stargate, Das Machtkartell(Smoke &amp; Mirrors)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115025500" stop="20131115030000">
+<title>ProSieben Spätnachrichten</title>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115030000" stop="20131115034000">
+<title>Lost, Einzelhaft(Solitary)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115034000" stop="20131115042500">
+<title>Lost, Volkszählung(Raised by Another)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115042500" stop="20131115050000">
+<title>CIRCUS HALLIGALLI</title>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115050000" stop="20131115052500">
+<title>What&apos;s up, Dad? Verloren auf den Bahamas (2) (The Bahamas (2))</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115052500" stop="20131115055000">
+<title>Malcolm u sredini, Softball (Softball)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115055000" stop="20131115061000">
+<title>Malcolm u sredini, Lois&apos; Schwester (Lois&apos; Sister)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115061000" stop="20131115063500">
+<title>Malcolm u sredini, Verliebt in eine Familie (Malcolm Dates a Family)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115063500" stop="20131115070500">
+<title>Malcolm u sredini, Reese und das Apartment (Reese&apos;s Apartment)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115070500" stop="20131115073000">
+<title>What&apos;s up, Dad? Stilles Wochenende (Silence Is Golden)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115073000" stop="20131115075500">
+<title>What&apos;s up, Dad? Selbst gemacht (The Remodel)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115075500" stop="20131115082500">
+<title>Stažist, Mein Verzicht(My Dirty Secret)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115082500" stop="20131115085000">
+<title>Stažist, Meine Regeln(My Rule of Thumb)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115085000" stop="20131115092000">
+<title>Dva i pol muškarca, Willkommen auf Alancrest(Welcome to Alancrest)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115092000" stop="20131115094500">
+<title>Dva i pol muškarca, Das Leben ist kein Musical(Grab a Feather and Get in Line)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115094500" stop="20131115101500">
+<title>Teorija velikog praska, Besuch vom FBI(The Apology Insufficiency)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115101500" stop="20131115104000">
+<title>Teorija velikog praska, 21 Sekunden(The 21-Second Excitation)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115104000" stop="20131115110500">
+<title>Teorija velikog praska, Der falsche richtige Freund(The Boyfriend Complexity)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115110500" stop="20131115113500">
+<title>Kako sam upoznao vašu majku, Jenkins(Jenkins)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115113500" stop="20131115120000">
+<title>Kako sam upoznao vašu majku, Die perfekte Woche(Perfect Week)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115120000" stop="20131115122500">
+<title>Kako sam upoznao vašu majku, Ente oder Kaninchen(Rabbit or Duck)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115122500" stop="20131115125500">
+<title>Stažist, Mein sauberer Abgang(My Clean Break)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115125500" stop="20131115132500">
+<title>Stažist, Mein Katalysator(My Catalyst)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115132500" stop="20131115135000">
+<title>Dva i pol muškarca, Wer hat in meinen Busch gepinkelt?(Run, Steven Staven! Run!)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115135000" stop="20131115141500">
+<title>Dva i pol muškarca, Tattoo-Tata(Paint It, Pierce It or Plug It)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115141500" stop="20131115144500">
+<title>Teorija velikog praska, Die animalische Amy(The Alien Parasite Hypothesis)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115144500" stop="20131115151000">
+<title>Teorija velikog praska, Der peinliche Kuss(The Justice League Recombination)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115151000" stop="20131115153500">
+<title>Teorija velikog praska, Die Bushose(The Bus Pants Utilization)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115153500" stop="20131115160500">
+<title>Kako sam upoznao vašu majku, Am Haken(Hooked)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115160500" stop="20131115163000">
+<title>Kako sam upoznao vašu majku, Sag einfach nein(Of Course)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115163000" stop="20131115170000">
+<title>Kako sam upoznao vašu majku, Bitte lächeln!(Say Cheese)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115170000" stop="20131115180000">
+<title>taff Markencheck &quot;Sexy Vamp&quot;</title>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115180000" stop="20131115181000">
+<title>NEWSTIME</title>
+<desc>Nachrichten live aus Berlin: &quot;NEWSTIME&quot; präsentiert das Neuste vom Tage mit verständlich...</desc>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115181000" stop="20131115184000">
+<title>Simpsoni, Gemischtes Doppel(Double, Double, Boy in Trouble)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115184000" stop="20131115190500">
+<title>Simpsoni, Der Tod kommt dreimal(Treehouse of Horror XIX)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115190500" stop="20131115201500">
+<title>Galileo, Kryoniks</title>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115201500" stop="20131115223500">
+<title>Deep Impact</title>
+<category>film</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115223500" stop="20131115234000">
+<title>Spartacus: Blood and Sand, Die rote Schlange(The Red Serpent) START Staffel I 13 Folgen</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131115234000" stop="20131116004000">
+<title>Spartacus: Blood and Sand, Sacramentum Gladiatorum (Sacramentum Gladiatorum)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116004000" stop="20131116014500">
+<title>Spartacus: Blood and Sand, Legenden (Legends)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116014500" stop="20131116024000">
+<title>Spartacus: Blood and Sand, Die Höhle (The Thing in the Pit)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116024000" stop="20131116025000">
+<title>Steven liebt Kino -Spezial: Last Vegas</title>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116025000" stop="20131116025500">
+<title>ProSieben Spätnachrichten</title>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116025500" stop="20131116034500">
+<title>Spartacus: Blood and Sand, Die rote Schlange (The Red Serpent)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116034500" stop="20131116045000">
+<title>Spartacus: Blood and Sand, Sacramentum Gladiatorum (Sacramentum Gladiatorum)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116045000" stop="20131116053000">
+<title>Spartacus: Blood and Sand, Legenden (Legends)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116053000" stop="20131116055000">
+<title>Dating Alex, Die Luxusdusche(The Perfect Couple)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116055000" stop="20131116061000">
+<title>Dating Alex, Der Triumphtanz(You Compete Me)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116061000" stop="20131116063000">
+<title>Dating Alex, Stephen und Valerie(Alex Looks Out for Stephen)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116063000" stop="20131116065000">
+<title>Dating Alex, Die perfekte Wohnung(A Moving Story)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116065000" stop="20131116072000">
+<title>Malcolm u sredini, Reese und das Apartment (Reese&apos;s Apartment)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116072000" stop="20131116074500">
+<title>Stažist, Mein sauberer Abgang(My Clean Break)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116074500" stop="20131116081500">
+<title>Stažist, Mein Katalysator(My Catalyst)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116081500" stop="20131116084500">
+<title>Dva i pol muškarca, Wer hat in meinen Busch gepinkelt?(Run, Steven Staven! Run!)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116084500" stop="20131116091000">
+<title>Dva i pol muškarca, Tattoo-Tata(Paint It, Pierce It or Plug It)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116091000" stop="20131116093500">
+<title>Teorija velikog praska, Die animalische Amy(The Alien Parasite Hypothesis)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116093500" stop="20131116100000">
+<title>Teorija velikog praska, Der peinliche Kuss(The Justice League Recombination)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116100000" stop="20131116103000">
+<title>Teorija velikog praska, Die Bushose(The Bus Pants Utilization)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116103000" stop="20131116105500">
+<title>Kako sam upoznao vašu majku, Am Haken(Hooked)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116105500" stop="20131116112500">
+<title>Kako sam upoznao vašu majku, Sag einfach nein(Of Course)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116112500" stop="20131116115000">
+<title>Kako sam upoznao vašu majku, Bitte lächeln!(Say Cheese)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116115000" stop="20131116122000">
+<title>Obiteljski čovjek, Pariser Affäre(Foreign Affairs)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116122000" stop="20131116125000">
+<title>Futurama, Viva Mars Vegas(Viva Mars Vegas)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116125000" stop="20131116132000">
+<title>Simpsoni, Lisas Pony(Lisa&apos;s Pony)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116132000" stop="20131116134500">
+<title>Malcolm u sredini, Reese bei der Army (2) (Reese Joins the Army (2))</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116134500" stop="20131116141500">
+<title>Malcolm u sredini, Reese kommt nach Hause (Reese Comes Home)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116141500" stop="20131116144500">
+<title>Stažist, Mein verliebter Anwalt (My Lawyers in Love)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116144500" stop="20131116151000">
+<title>Stažist, Meine Handy-Stimme(My Absence)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116151000" stop="20131116154000">
+<title>Dva i pol muškarca, Das wird kein gutes Ende nehmen(This Is Not Gonna End Well)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116154000" stop="20131116161000">
+<title>Dva i pol muškarca, Stur, zwanghaft und unflexibel(Pilot)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116161000" stop="20131116163500">
+<title>Teorija velikog praska, Spaß mit Flaggen(The Beta Test Initiation)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116163500" stop="20131116170000">
+<title>Teorija velikog praska, Die Mitbewohnervereinbarung(The Friendship Contraction)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116170000" stop="20131116173000">
+<title>Kako sam upoznao vašu majku, Zum Affen gemacht(Zoo or False)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116173000" stop="20131116180000">
+<title>Kako sam upoznao vašu majku, Heimvorteil(Home Wreckers)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116180000" stop="20131116181000">
+<title>NEWSTIME</title>
+<desc>Nachrichten live aus Berlin: &quot;NEWSTIME&quot; präsentiert das Neuste vom Tage mit verständlich...</desc>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116181000" stop="20131116184000">
+<title>Simpsoni, Gefährliche Kurven(Dangerous Curves)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116184000" stop="20131116190500">
+<title>Simpsoni, Das Kreuz mit den Worträtseln(Homer and Lisa Exchange Cross Words)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116190500" stop="20131116201500">
+<title>Galileo</title>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131116201500" stop="20131117001500">
+<title>Schlag den Raab</title>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131117001500" stop="20131117021000">
+<title>The Voice of Germany</title>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131117021000" stop="20131117041500">
+<title>Drachenläufer</title>
+<category>film</category>
+<premiere />
+</programme>
+<programme channel="pro-7.de" start="20131117041500" stop="20131117061500">
+<title>Force of Impact - Tödlicher Asteroid</title>
+<category>film</category>
+<premiere />
+</programme>
+</tv>

@@ -1,0 +1,1301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tv source-data-url="http://tvprofil.net/xmltv/" source-info-name="Phazer XML servis 4.5" source-info-url="http://tvprofil.net">
+<channel id="bbc-world.info">
+<display-name>BBC World</display-name>
+<url>http://www.bbcworld.com</url>
+<icon src="http://phazer.info/img/kanali/bbc-world.jpg" />
+</channel>
+<programme channel="bbc-world.info" start="20131111060000" stop="20131111063000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111063000" stop="20131111064500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111064500" stop="20131111070000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111070000" stop="20131111073000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111073000" stop="20131111074500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111074500" stop="20131111080000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111080000" stop="20131111083000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111083000" stop="20131111084500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111084500" stop="20131111090000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111090000" stop="20131111093000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111093000" stop="20131111100000">
+<title>HARDtalk, Stephen Sackur talks to newsmakers and personalities from across the globe.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111100000" stop="20131111103000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111103000" stop="20131111104500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111104500" stop="20131111110000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111110000" stop="20131111113000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111113000" stop="20131111120000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111120000" stop="20131111123000">
+<title lang="en">GMT with George Alagiah</title>
+<category lang="en">vijesti</category>
+<desc lang="en">The journalist presents a bulletin of international news and analysis, with reports from correspondents based around the world, as well as updates on global business developments.</desc>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111123000" stop="20131111130000">
+<title lang="en">GMT with George Alagiah</title>
+<category lang="en">vijesti</category>
+<desc lang="en">The journalist presents a bulletin of international news and analysis, with reports from correspondents based around the world, as well as updates on global business developments.</desc>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111130000" stop="20131111133000">
+<title lang="en">Impact</title>
+<category lang="en">vijesti</category>
+<desc lang="en">Global news as it affects audiences in Asia. With breaking news, debate and analysis, using the full range of BBC Correspondents from the Asia Pacific nations and across the world.</desc>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111133000" stop="20131111140000">
+<title lang="en">Impact</title>
+<category lang="en">vijesti</category>
+<desc lang="en">Global news as it affects audiences in Asia. With breaking news, debate and analysis, using the full range of BBC Correspondents from the Asia Pacific nations and across the world.</desc>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111140000" stop="20131111143000">
+<title lang="en">Impact</title>
+<category lang="en">vijesti</category>
+<desc lang="en">Global news as it affects audiences in Asia. With breaking news, debate and analysis, using the full range of BBC Correspondents from the Asia Pacific nations and across the world.</desc>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111143000" stop="20131111144500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111144500" stop="20131111150000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111150000" stop="20131111153000">
+<title lang="en">Global With Jon Sopel</title>
+<desc lang="en">Jon Sopel explains the day&apos;s global news and what it means to you - with reports from the BBC&apos;s network of correspondents around the world, and behind the scenes from the World&apos;s Newsroom in London.</desc>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111153000" stop="20131111160000">
+<title lang="en">Global With Jon Sopel</title>
+<desc lang="en">Jon Sopel explains the day&apos;s global news and what it means to you - with reports from the BBC&apos;s network of correspondents around the world, and behind the scenes from the World&apos;s Newsroom in London.</desc>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111160000" stop="20131111163000">
+<title lang="en">Global With Jon Sopel</title>
+<desc lang="en">Jon Sopel explains the day&apos;s global news and what it means to you - with reports from the BBC&apos;s network of correspondents around the world, and behind the scenes from the World&apos;s Newsroom in London.</desc>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111163000" stop="20131111170000">
+<title>HARDtalk, Stephen Sackur talks to newsmakers and personalities from across the globe.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111170000" stop="20131111173000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111173000" stop="20131111180000">
+<title>Focus on Africa, The biggest African and international stories from the BBC. With Komla Dumor.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111180000" stop="20131111183000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111183000" stop="20131111184500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111184500" stop="20131111190000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111190000" stop="20131111193000">
+<title lang="en">World News Today with Zeinab Badawi</title>
+<desc lang="en">The news programme for audiences who want more depth to their daily coverage. With a focus on Europe, Middle East and Africa, Zeinab brings context and understanding to the most complex of event.</desc>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111193000" stop="20131111200000">
+<title lang="en">World News Today with Zeinab Badawi</title>
+<desc lang="en">The news programme for audiences who want more depth to their daily coverage. With a focus on Europe, Middle East and Africa, Zeinab brings context and understanding to the most complex of event.</desc>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111200000" stop="20131111203000">
+<title lang="en">World News Today with Zeinab Badawi</title>
+<desc lang="en">The news programme for audiences who want more depth to their daily coverage. With a focus on Europe, Middle East and Africa, Zeinab brings context and understanding to the most complex of event.</desc>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111203000" stop="20131111204500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111204500" stop="20131111210000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111210000" stop="20131111213000">
+<title lang="en">Business Edition with Tanya Beckett</title>
+<desc lang="en">Combining the day&apos;s main business stories with the most significant global news. Tanya Beckett is one of the BBCs most respected business journalists, with extensive experience of global journalis.</desc>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111213000" stop="20131111220000">
+<title>HARDtalk, Stephen Sackur talks to newsmakers and personalities from across the globe.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111220000" stop="20131111223000">
+<title>BBC World News America, In-depth reports on the major international and US news of the day with Katty Kay.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111223000" stop="20131111230000">
+<title>BBC World News America, In-depth reports on the major international and US news of the day with Katty Kay.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111230000" stop="20131111233000">
+<title>Newsday, Live from London and Singapore the latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111233000" stop="20131111234500">
+<title lang="en">Asia Business Report</title>
+<category lang="en">vijesti</category>
+<desc lang="en">Live from Singapore the essential business news as it breaks and a look ahead to the news that will shape the business day.</desc>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131111234500" stop="20131112000000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112000000" stop="20131112003000">
+<title>Newsday, Live from London and Singapore the latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112003000" stop="20131112004500">
+<title lang="en">Asia Business Report</title>
+<category lang="en">vijesti</category>
+<desc lang="en">Live from Singapore the essential business news as it breaks and a look ahead to the news that will shape the business day.</desc>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112004500" stop="20131112010000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112010000" stop="20131112013000">
+<title>Newsday, Live from London and Singapore the latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112013000" stop="20131112014500">
+<title lang="en">Asia Business Report</title>
+<category lang="en">vijesti</category>
+<desc lang="en">Live from Singapore the essential business news as it breaks and a look ahead to the news that will shape the business day.</desc>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112014500" stop="20131112020000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112020000" stop="20131112023000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112023000" stop="20131112024500">
+<title lang="en">Asia Business Report</title>
+<category lang="en">vijesti</category>
+<desc lang="en">Live from Singapore the essential business news as it breaks and a look ahead to the news that will shape the business day.</desc>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112024500" stop="20131112030000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112030000" stop="20131112033000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112033000" stop="20131112034500">
+<title lang="en">Asia Business Report</title>
+<category lang="en">vijesti</category>
+<desc lang="en">Live from Singapore the essential business news as it breaks and a look ahead to the news that will shape the business day.</desc>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112034500" stop="20131112040000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112040000" stop="20131112043000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112043000" stop="20131112050000">
+<title>HARDtalk, Stephen Sackur talks to newsmakers and personalities from across the globe.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112050000" stop="20131112053000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112053000" stop="20131112054500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112054500" stop="20131112060000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112060000" stop="20131112063000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112063000" stop="20131112064500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112064500" stop="20131112070000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112070000" stop="20131112073000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112073000" stop="20131112074500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112074500" stop="20131112080000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112080000" stop="20131112083000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112083000" stop="20131112084500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112084500" stop="20131112090000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112090000" stop="20131112093000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112093000" stop="20131112100000">
+<title>HARDtalk, Stephen Sackur talks to newsmakers and personalities from across the globe.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112100000" stop="20131112103000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112103000" stop="20131112104500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112104500" stop="20131112110000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112110000" stop="20131112113000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112113000" stop="20131112120000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112120000" stop="20131112123000">
+<title>GMT with George Alagiah</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112123000" stop="20131112130000">
+<title>GMT with George Alagiah</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112130000" stop="20131112133000">
+<title>Impact</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112133000" stop="20131112140000">
+<title>Impact</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112140000" stop="20131112143000">
+<title>Impact</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112143000" stop="20131112144500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112144500" stop="20131112150000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112150000" stop="20131112153000">
+<title>Global With Jon Sopel</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112153000" stop="20131112160000">
+<title>Global With Jon Sopel</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112160000" stop="20131112163000">
+<title>Global With Jon Sopel</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112163000" stop="20131112170000">
+<title>HARDtalk, Stephen Sackur talks to newsmakers and personalities from across the globe.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112170000" stop="20131112173000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112173000" stop="20131112180000">
+<title>Focus on Africa, The biggest African and international stories from the BBC. With Komla Dumor.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112180000" stop="20131112183000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112183000" stop="20131112184500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112184500" stop="20131112190000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112190000" stop="20131112193000">
+<title>World News Today with Zeinab Badawi</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112193000" stop="20131112200000">
+<title>World News Today with Zeinab Badawi</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112200000" stop="20131112203000">
+<title>World News Today with Zeinab Badawi</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112203000" stop="20131112204500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112204500" stop="20131112210000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112210000" stop="20131112213000">
+<title>Business Edition with Tanya Beckett</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112213000" stop="20131112220000">
+<title>HARDtalk, Stephen Sackur talks to newsmakers and personalities from across the globe.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112220000" stop="20131112223000">
+<title>BBC World News America, In-depth reports on the major international and US news of the day with Katty Kay.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112223000" stop="20131112230000">
+<title>BBC World News America, In-depth reports on the major international and US news of the day with Katty Kay.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112230000" stop="20131112233000">
+<title>Newsday, Live from London and Singapore the latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112233000" stop="20131112234500">
+<title>Asia Business Report</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131112234500" stop="20131113000000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113000000" stop="20131113003000">
+<title>Newsday, Live from London and Singapore the latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113003000" stop="20131113004500">
+<title>Asia Business Report</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113004500" stop="20131113010000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113010000" stop="20131113013000">
+<title>Newsday, Live from London and Singapore the latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113013000" stop="20131113014500">
+<title>Asia Business Report</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113014500" stop="20131113020000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113020000" stop="20131113023000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113023000" stop="20131113024500">
+<title>Asia Business Report</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113024500" stop="20131113030000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113030000" stop="20131113033000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113033000" stop="20131113034500">
+<title>Asia Business Report</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113034500" stop="20131113040000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113040000" stop="20131113043000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113043000" stop="20131113050000">
+<title>HARDtalk, Stephen Sackur talks to newsmakers and personalities from across the globe.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113050000" stop="20131113053000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113053000" stop="20131113054500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113054500" stop="20131113060000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113060000" stop="20131113063000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113063000" stop="20131113064500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113064500" stop="20131113070000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113070000" stop="20131113073000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113073000" stop="20131113074500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113074500" stop="20131113080000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113080000" stop="20131113083000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113083000" stop="20131113084500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113084500" stop="20131113090000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113090000" stop="20131113093000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113093000" stop="20131113100000">
+<title>HARDtalk, Stephen Sackur talks to newsmakers and personalities from across the globe.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113100000" stop="20131113103000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113103000" stop="20131113104500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113104500" stop="20131113110000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113110000" stop="20131113113000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113113000" stop="20131113120000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113120000" stop="20131113123000">
+<title>GMT with George Alagiah</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113123000" stop="20131113130000">
+<title>GMT with George Alagiah</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113130000" stop="20131113133000">
+<title>Impact</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113133000" stop="20131113140000">
+<title>Impact</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113140000" stop="20131113143000">
+<title>Impact</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113143000" stop="20131113144500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113144500" stop="20131113150000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113150000" stop="20131113153000">
+<title>Global With Jon Sopel</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113153000" stop="20131113160000">
+<title>Global With Jon Sopel</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113160000" stop="20131113163000">
+<title>Global With Jon Sopel</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113163000" stop="20131113170000">
+<title>HARDtalk, Stephen Sackur talks to newsmakers and personalities from across the globe.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113170000" stop="20131113173000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113173000" stop="20131113180000">
+<title>Focus on Africa, The biggest African and international stories from the BBC. With Komla Dumor.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113180000" stop="20131113183000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113183000" stop="20131113184500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113184500" stop="20131113190000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113190000" stop="20131113193000">
+<title>World News Today with Zeinab Badawi</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113193000" stop="20131113200000">
+<title>World News Today with Zeinab Badawi</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113200000" stop="20131113203000">
+<title>World News Today with Zeinab Badawi</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113203000" stop="20131113204500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113204500" stop="20131113210000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113210000" stop="20131113213000">
+<title>Business Edition with Tanya Beckett</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113213000" stop="20131113220000">
+<title>HARDtalk, Stephen Sackur talks to newsmakers and personalities from across the globe.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113220000" stop="20131113223000">
+<title>BBC World News America, In-depth reports on the major international and US news of the day with Katty Kay.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113223000" stop="20131113230000">
+<title>BBC World News America, In-depth reports on the major international and US news of the day with Katty Kay.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113230000" stop="20131113233000">
+<title>Newsday, Live from London and Singapore the latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113233000" stop="20131113234500">
+<title>Asia Business Report</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131113234500" stop="20131114000000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114000000" stop="20131114003000">
+<title>Newsday, Live from London and Singapore the latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114003000" stop="20131114004500">
+<title>Asia Business Report</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114004500" stop="20131114010000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114010000" stop="20131114013000">
+<title>Newsday, Live from London and Singapore the latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114013000" stop="20131114014500">
+<title>Asia Business Report</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114014500" stop="20131114020000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114020000" stop="20131114023000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114023000" stop="20131114024500">
+<title>Asia Business Report</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114024500" stop="20131114030000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114030000" stop="20131114033000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114033000" stop="20131114034500">
+<title>Asia Business Report</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114034500" stop="20131114040000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114040000" stop="20131114043000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114043000" stop="20131114050000">
+<title>HARDtalk, Stephen Sackur talks to newsmakers and personalities from across the globe.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114050000" stop="20131114053000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114053000" stop="20131114054500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114054500" stop="20131114060000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114060000" stop="20131114063000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114063000" stop="20131114064500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114064500" stop="20131114070000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114070000" stop="20131114073000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114073000" stop="20131114074500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114074500" stop="20131114080000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114080000" stop="20131114083000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114083000" stop="20131114084500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114084500" stop="20131114090000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114090000" stop="20131114093000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114093000" stop="20131114100000">
+<title>HARDtalk, Stephen Sackur talks to newsmakers and personalities from across the globe.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114100000" stop="20131114103000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114103000" stop="20131114104500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114104500" stop="20131114110000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114110000" stop="20131114113000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114113000" stop="20131114120000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114120000" stop="20131114123000">
+<title>GMT with George Alagiah</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114123000" stop="20131114130000">
+<title>GMT with George Alagiah</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114130000" stop="20131114133000">
+<title>Impact</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114133000" stop="20131114140000">
+<title>Impact</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114140000" stop="20131114143000">
+<title>Impact</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114143000" stop="20131114144500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114144500" stop="20131114150000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114150000" stop="20131114153000">
+<title>Global With Jon Sopel</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114153000" stop="20131114160000">
+<title>Global With Jon Sopel</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114160000" stop="20131114163000">
+<title>Global With Jon Sopel</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114163000" stop="20131114170000">
+<title>HARDtalk, Stephen Sackur talks to newsmakers and personalities from across the globe.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114170000" stop="20131114173000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114173000" stop="20131114180000">
+<title>Focus on Africa, The biggest African and international stories from the BBC. With Komla Dumor.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114180000" stop="20131114183000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114183000" stop="20131114184500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114184500" stop="20131114190000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114190000" stop="20131114193000">
+<title>World News Today with Zeinab Badawi</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114193000" stop="20131114200000">
+<title>World News Today with Zeinab Badawi</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114200000" stop="20131114203000">
+<title>World News Today with Zeinab Badawi</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114203000" stop="20131114204500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114204500" stop="20131114210000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114210000" stop="20131114213000">
+<title>Business Edition with Tanya Beckett</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114213000" stop="20131114220000">
+<title>HARDtalk, Stephen Sackur talks to newsmakers and personalities from across the globe.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114220000" stop="20131114223000">
+<title>BBC World News America, In-depth reports on the major international and US news of the day with Katty Kay.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114223000" stop="20131114230000">
+<title>BBC World News America, In-depth reports on the major international and US news of the day with Katty Kay.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114230000" stop="20131114233000">
+<title>Newsday, Live from London and Singapore the latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114233000" stop="20131114234500">
+<title>Asia Business Report</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131114234500" stop="20131115000000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115000000" stop="20131115003000">
+<title>Newsday, Live from London and Singapore the latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115003000" stop="20131115004500">
+<title>Asia Business Report</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115004500" stop="20131115010000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115010000" stop="20131115013000">
+<title>Newsday, Live from London and Singapore the latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115013000" stop="20131115014500">
+<title>Asia Business Report</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115014500" stop="20131115020000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115020000" stop="20131115023000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115023000" stop="20131115024500">
+<title>Asia Business Report</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115024500" stop="20131115030000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115030000" stop="20131115033000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115033000" stop="20131115034500">
+<title>Asia Business Report</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115034500" stop="20131115040000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115040000" stop="20131115043000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115043000" stop="20131115050000">
+<title>The Bottom Line</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115050000" stop="20131115053000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115053000" stop="20131115054500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115054500" stop="20131115060000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115060000" stop="20131115063000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115063000" stop="20131115064500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115064500" stop="20131115070000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115070000" stop="20131115073000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115073000" stop="20131115074500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115074500" stop="20131115080000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115080000" stop="20131115083000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115083000" stop="20131115084500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115084500" stop="20131115090000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115090000" stop="20131115093000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115093000" stop="20131115100000">
+<title>The Bottom Line</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115100000" stop="20131115103000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115103000" stop="20131115104500">
+<title>World Business Report, The latest business news with informed analysis from the world&apos;s financial centres.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115104500" stop="20131115110000">
+<title>Sport Today, All the latest sports news and results from around the globe.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115110000" stop="20131115113000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115113000" stop="20131115120000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115120000" stop="20131115123000">
+<title>GMT with George Alagiah</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115123000" stop="20131115130000">
+<title>GMT with George Alagiah</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115130000" stop="20131115133000">
+<title>Impact</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115133000" stop="20131115140000">
+<title>Impact</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115140000" stop="20131115143000">
+<title>Impact</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115143000" stop="20131115150000">
+<title>Talking Business with Linda Yueh</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115150000" stop="20131115153000">
+<title>World Have Your Say</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115153000" stop="20131115160000">
+<title>World Have Your Say</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115160000" stop="20131115163000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115163000" stop="20131115164000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115164000" stop="20131115170000">
+<title>Weekend World</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115170000" stop="20131115173000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115173000" stop="20131115180000">
+<title>Focus on Africa, The biggest African and international stories from the BBC. With Komla Dumor.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115180000" stop="20131115183000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115183000" stop="20131115190000">
+<title>Middle East Business Report</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115190000" stop="20131115193000">
+<title>World News Today with Zeinab Badawi</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115193000" stop="20131115194000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115194000" stop="20131115200000">
+<title>Africa Business Report</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115200000" stop="20131115203000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115203000" stop="20131115210000">
+<title>Our World, BBC journalism at its best with programmes that expose and evaluate global topics. (12+).</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115210000" stop="20131115213000">
+<title>Business Edition with Tanya Beckett</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115213000" stop="20131115220000">
+<title>Football Focus</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115220000" stop="20131115223000">
+<title>BBC World News America, In-depth reports on the major international and US news of the day with Katty Kay.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115223000" stop="20131115230000">
+<title>BBC World News America, In-depth reports on the major international and US news of the day with Katty Kay.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115230000" stop="20131115233000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131115233000" stop="20131116000000">
+<title>Newsnight, Jeremy Paxman looks back at the best of the week&apos;s films and discussions from Newsnight.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131116000000" stop="20131116001000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131116001000" stop="20131116003000">
+<title>Weekend World</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131116003000" stop="20131116010000">
+<title>Talking Business with Linda Yueh</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131116010000" stop="20131116011000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131116011000" stop="20131116020000">
+<title>Bankers</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131116020000" stop="20131116023000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131116023000" stop="20131116030000">
+<title>Horizons</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131116030000" stop="20131116033000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131116033000" stop="20131116040000">
+<title>The Culture Show</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131116040000" stop="20131116043000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131116043000" stop="20131116050000">
+<title>Fast Track, The latest travel news, with current information on late deals, destinations and flights.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131116050000" stop="20131116053000">
+<title>BBC World News, The latest international news from the BBC.</title>
+<premiere />
+</programme>
+<programme channel="bbc-world.info" start="20131116053000" stop="20131116060000">
+<title>Middle East Business Report</title>
+<premiere />
+</programme>
+</tv>

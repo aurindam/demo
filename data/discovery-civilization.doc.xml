@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tv source-data-url="http://tvprofil.net/xmltv/" source-info-name="Phazer XML servis 4.5" source-info-url="http://tvprofil.net">
+<channel id="discovery-civilization.doc">
+<display-name>Discovery World</display-name>
+<url>http://www.discoverychannel.co.uk</url>
+<icon src="http://phazer.info/img/kanali/discovery_world.jpg" />
+</channel>
+<programme channel="discovery-civilization.doc" start="20131111060000" stop="20131111065000">
+<title>I Shouldn&apos;t Be Alive: Dive of Terror</title>
+<desc>Whilst on a diving day trip, Navy diver Rob gets caught in a vicious rip current and is dragged out to sea. Stranded in the middle of the ocean, how does he manage to survive?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131111065000" stop="20131111071500">
+<title>The Aviators: Episode 7</title>
+<desc>Explore the T-28 Trojan training aircraft used by the air force and navy during the Vietnam War, and investigate the rising trend in high- end single pilot flying.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131111071500" stop="20131111074500">
+<title>The Aviators: Episode 8</title>
+<desc>Anthony investigates ways to make a living in the world of aviation besides being an airline pilot. Also, discover how a 75-year-old DC-3 is being converted into a modern marvel.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131111074500" stop="20131111083500">
+<title>Trashopolis: Rome</title>
+<desc>A timeless struggle between beauty and filth inspires the Eternal City to find new ways to get rid of its trash.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131111083500" stop="20131111093000">
+<title>Daredevils: The Ice Man</title>
+<desc>This episode shadows a daredevil who is attempting to run a marathon in sub-zero temperatures 200 miles north of the Arctic Circle.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131111093000" stop="20131111102000">
+<title>Ultimate Warfare: Bulge: Holding The Line</title>
+<desc>The US army meets an overwhelming German force in thick snow in the Ardennes forest. What follows is the bloodiest battle of WW2: The Battle of the Bulge.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131111102000" stop="20131111111000">
+<title>Timewatch: Crowning a Queen</title>
+<desc>The coronation of Queen Elizabeth II was the greatest spectacle ever staged in Britain. Timewatch celebrates the coronation that was to mark the birth of a new Elizabethan Age.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131111111000" stop="20131111113500">
+<title>The Aviators: Episode 9</title>
+<desc>Sara and Anthony demonstrate how to start-up and run-up an aeroplane. Later, the Aerostars - a precision aerobatic team that fly Yak 52s - perform a captivating aerial show.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131111113500" stop="20131111120500">
+<title>The Aviators: Episode 10</title>
+<desc>Discover the plane that introduces fighter pilots to carrier landings: the T-45 Goshawk. And, learn the skills needed to fly the oldest form of human aircraft, the hot air balloon.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131111120500" stop="20131111125500">
+<title>Trashopolis: Cairo</title>
+<desc>From the Pharaohs to the warrior Mamelukes and the modern-day Zabaleen garbage people: this is the epic story of Cairo’s Trash.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131111125500" stop="20131111135000">
+<title>Danger Hunters: Deadly Waves</title>
+<desc>Gethin Jones goes on the trail of the most treacherous natural phenomena on the planet. This time, he joins a group of the world&apos;s bravest surfers as they pursue the ultimate wave.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131111135000" stop="20131111144500">
+<title>Crime Scene Wild: Bears</title>
+<desc>Steve Galster is in California at a poaching hotspot, as he and armed game wardens are on the trail of hunters killing bears for their bile.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131111144500" stop="20131111154000">
+<title>The Real Inglorious Bastards</title>
+<desc>Discover the incredible true story behind Quentin Tarantino’s film &apos;Inglourious Basterds&apos;: a group of Jewish-American refugees who boldly went behind enemy lines for vengeance.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131111154000" stop="20131111163500">
+<title>Timewatch: D-Day Bloody Omaha</title>
+<desc>The story of D-Day has been retold many times, but what really happened on Omaha Beach in June 1944? What was it like for the men who fought and how did they manage to win?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131111163500" stop="20131111172500">
+<title>I Shouldn&apos;t Be Alive: Perfect Storm</title>
+<desc>A helicopter crew on a mission get caught in the perfect storm. Forced to evacuate in the Atlantic, the men battle 30 metre waves and 150kph winds in their fight to stay alive.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131111172500" stop="20131111182000">
+<title>Altered Statesmen: Kennedy</title>
+<desc>Explore the truth behind Kennedy&apos;s rise to presidency as he grappled with both physical and mental hurdles.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131111182000" stop="20131111191000">
+<title>World&apos;s Busiest: Airport</title>
+<desc>Explores the incredible stories of the busiest places on Earth. Hong Kong airport has half a billion tonnes of cargo and 50 million people pass through it annually.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131111191000" stop="20131111193500">
+<title>The Aviators: Episode 11</title>
+<desc>Sara flies the MU-2 and learns why it has such a loyal following. Later, the Air National Guard add a jet-powered punch to the end of the national anthem at a Nascar race.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131111193500" stop="20131111200500">
+<title>The Aviators: Episode 12</title>
+<desc>The world&apos;s most-advanced stealth fighter jet, the F-22 Raptor, is profiled. Later, join Motley Crue&apos;s lead singer Vince Neil, as he starts taking flying lessons.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131111200500" stop="20131111210000">
+<title>World&apos;s Toughest Expeditions with James Cracknell: The Lost City of Z</title>
+<desc>James heads to the Amazon to investigate the mysterious disappearance of jungle explorer, Colonel Percy Fawcett, in a quest that becomes more dangerous than he ever imagined.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131111210000" stop="20131111215500">
+<title>Altered Statesmen: Kennedy</title>
+<desc>Explore the truth behind Kennedy&apos;s rise to presidency as he grappled with both physical and mental hurdles.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131111215500" stop="20131111225000">
+<title>The Fight: The Rules Of The Ring</title>
+<desc>This is the ultimate story of boxing told by its greatest fighters, trainers and promoters. How did boxing become a spectator sport, and who are its heroes?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131111225000" stop="20131111234500">
+<title>Most Evil: Murderous Women</title>
+<desc>Dr Stone examines why women are driven to kill when 90% of murders are committed by men and also why these murderesses tend to kill the people closest to them.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131111234500" stop="20131112003500">
+<title>World&apos;s Toughest Expeditions with James Cracknell: The Lost City of Z</title>
+<desc>James heads to the Amazon to investigate the mysterious disappearance of jungle explorer, Colonel Percy Fawcett, in a quest that becomes more dangerous than he ever imagined.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131112003500" stop="20131112013000">
+<title>Altered Statesmen: Kennedy</title>
+<desc>Explore the truth behind Kennedy&apos;s rise to presidency as he grappled with both physical and mental hurdles.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131112013000" stop="20131112022500">
+<title>The Fight: The Rules Of The Ring</title>
+<desc>This is the ultimate story of boxing told by its greatest fighters, trainers and promoters. How did boxing become a spectator sport, and who are its heroes?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131112022500" stop="20131112032000">
+<title>I Shouldn&apos;t Be Alive: Perfect Storm</title>
+<desc>A helicopter crew on a mission get caught in the perfect storm. Forced to evacuate in the Atlantic, the men battle 30 metre waves and 150kph winds in their fight to stay alive.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131112032000" stop="20131112034500">
+<title>The Aviators: Episode 11</title>
+<desc>Sara flies the MU-2 and learns why it has such a loyal following. Later, the Air National Guard add a jet-powered punch to the end of the national anthem at a Nascar race.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131112034500" stop="20131112041500">
+<title>The Aviators: Episode 12</title>
+<desc>The world&apos;s most-advanced stealth fighter jet, the F-22 Raptor, is profiled. Later, join Motley Crue&apos;s lead singer Vince Neil, as he starts taking flying lessons.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131112041500" stop="20131112050500">
+<title>Danger Hunters: Deadly Waves</title>
+<desc>Gethin Jones goes on the trail of the most treacherous natural phenomena on the planet. This time, he joins a group of the world&apos;s bravest surfers as they pursue the ultimate wave.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131112050500" stop="20131112060000">
+<title>Timewatch: D-Day Bloody Omaha</title>
+<desc>The story of D-Day has been retold many times, but what really happened on Omaha Beach in June 1944? What was it like for the men who fought and how did they manage to win? Tuesday</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131112060000" stop="20131112065000">
+<title>I Shouldn&apos;t Be Alive: Perfect Storm</title>
+<desc>A helicopter crew on a mission get caught in the perfect storm. Forced to evacuate in the Atlantic, the men battle 30 metre waves and 150kph winds in their fight to stay alive.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131112065000" stop="20131112071500">
+<title>The Aviators: Episode 9</title>
+<desc>Sara and Anthony demonstrate how to start-up and run-up an aeroplane. Later, the Aerostars - a precision aerobatic team that fly Yak 52s - perform a captivating aerial show.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131112071500" stop="20131112074500">
+<title>The Aviators: Episode 10</title>
+<desc>Discover the plane that introduces fighter pilots to carrier landings: the T-45 Goshawk. And, learn the skills needed to fly the oldest form of human aircraft, the hot air balloon.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131112074500" stop="20131112083500">
+<title>Trashopolis: Cairo</title>
+<desc>From the Pharaohs to the warrior Mamelukes and the modern-day Zabaleen garbage people: this is the epic story of Cairo’s Trash.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131112083500" stop="20131112093000">
+<title>Crime Scene Wild: Bears</title>
+<desc>Steve Galster is in California at a poaching hotspot, as he and armed game wardens are on the trail of hunters killing bears for their bile.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131112093000" stop="20131112102000">
+<title>The Real Inglorious Bastards</title>
+<desc>Discover the incredible true story behind Quentin Tarantino’s film &apos;Inglourious Basterds&apos;: a group of Jewish-American refugees who boldly went behind enemy lines for vengeance.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131112102000" stop="20131112111000">
+<title>Timewatch: D-Day Bloody Omaha</title>
+<desc>The story of D-Day has been retold many times, but what really happened on Omaha Beach in June 1944? What was it like for the men who fought and how did they manage to win?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131112111000" stop="20131112113500">
+<title>The Aviators: Episode 11</title>
+<desc>Sara flies the MU-2 and learns why it has such a loyal following. Later, the Air National Guard add a jet-powered punch to the end of the national anthem at a Nascar race.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131112113500" stop="20131112120500">
+<title>The Aviators: Episode 12</title>
+<desc>The world&apos;s most-advanced stealth fighter jet, the F-22 Raptor, is profiled. Later, join Motley Crue&apos;s lead singer Vince Neil, as he starts taking flying lessons.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131112120500" stop="20131112125500">
+<title>World&apos;s Busiest: Airport</title>
+<desc>Explores the incredible stories of the busiest places on Earth. Hong Kong airport has half a billion tonnes of cargo and 50 million people pass through it annually.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131112125500" stop="20131112135000">
+<title>Chernobyl: Life in the Dead Zone</title>
+<desc>Investigating the aftermath of the nuclear disaster of Chernobyl, this film explores how nature has survived in this radioactive ghost town.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131112135000" stop="20131112144500">
+<title>Altered Statesmen: Kennedy</title>
+<desc>Explore the truth behind Kennedy&apos;s rise to presidency as he grappled with both physical and mental hurdles.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131112144500" stop="20131112154000">
+<title>World&apos;s Toughest Expeditions with James Cracknell: The Lost City of Z</title>
+<desc>James heads to the Amazon to investigate the mysterious disappearance of jungle explorer, Colonel Percy Fawcett, in a quest that becomes more dangerous than he ever imagined.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131112154000" stop="20131112163500">
+<title>Timewatch: Hidden Children</title>
+<desc>Four Jewish survivors tell their emotional stories of being hidden as children in Nazi-occupied France and their emotional return to their families.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131112163500" stop="20131112172500">
+<title>I Escaped Death: Hurricane at Sea</title>
+<desc>The year is 1983 and Tami Ashcraft is lost at sea with her boyfriend after crossing paths with a category four storm en route to San Diego. Can these treacherous waters be escaped?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131112172500" stop="20131112182000">
+<title>Richard III: the Unseen Story</title>
+<desc>We follow the scientists and archaeologists who took up tools to reveal what they hoped to be the most unlikely discovery of modern times - England&apos;s long lost king, Richard III.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131112182000" stop="20131112191000">
+<title>World&apos;s Busiest: Border Crossing</title>
+<desc>Explores the incredible stories of the busiest places on Earth. San Ysidro, between Mexico and the USA, processes over 50 million people a year through its borders.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131112191000" stop="20131112193500">
+<title>The Aviators: Episode 13</title>
+<desc>The team join former fighter pilots to dogfight other aircraft in air combat. Later, Motley Crue&apos;s Vince Neil continues his training, where he’s asked to land for the first time.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131112193500" stop="20131112200500">
+<title>The Aviators: Episode 2</title>
+<desc>Kurtis takes the controls of the legendary World War II P-51 Mustang fighter jet. Plus, find out what happens to your bags once they are checked in at an airport.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131112200500" stop="20131112210000">
+<title>World&apos;s Toughest Expeditions with James Cracknell: Livingstone in</title>
+<desc>Africa James travels to Southern Africa to follow in the footsteps of celebrated explorer, Dr David Livingstone, and encountered some of Africa&apos;s most dangerous animals along the way.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131112210000" stop="20131112215500">
+<title>Richard III: the Unseen Story</title>
+<desc>We follow the scientists and archaeologists who took up tools to reveal what they hoped to be the most unlikely discovery of modern times - England&apos;s long lost king, Richard III.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131112215500" stop="20131112225000">
+<title>The Fight: Black And White</title>
+<desc>In 1938 US fighter Louis fought German boxer Schmeling, pitting black against white in Nazi Germany. How did this match affect the struggle for racial equality?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131112225000" stop="20131112234500">
+<title>Most Evil: Partners in Crime</title>
+<desc>Dr Stone looks into the physiology of love and the power of authority as he delves into the motives and methods of accomplice killers and their evil partnerships.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131112234500" stop="20131113003500">
+<title>World&apos;s Toughest Expeditions with James Cracknell: Livingstone in</title>
+<desc>Africa James travels to Southern Africa to follow in the footsteps of celebrated explorer, Dr David Livingstone, and encountered some of Africa&apos;s most dangerous animals along the way.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131113003500" stop="20131113013000">
+<title>Richard III: the Unseen Story</title>
+<desc>We follow the scientists and archaeologists who took up tools to reveal what they hoped to be the most unlikely discovery of modern times - England&apos;s long lost king, Richard III.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131113013000" stop="20131113022500">
+<title>The Fight: Black And White</title>
+<desc>In 1938 US fighter Louis fought German boxer Schmeling, pitting black against white in Nazi Germany. How did this match affect the struggle for racial equality?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131113022500" stop="20131113032000">
+<title>I Escaped Death: Hurricane at Sea</title>
+<desc>The year is 1983 and Tami Ashcraft is lost at sea with her boyfriend after crossing paths with a category four storm en route to San Diego. Can these treacherous waters be escaped?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131113032000" stop="20131113034500">
+<title>The Aviators: Episode 13</title>
+<desc>The team join former fighter pilots to dogfight other aircraft in air combat. Later, Motley Crue&apos;s Vince Neil continues his training, where he’s asked to land for the first time.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131113034500" stop="20131113041500">
+<title>The Aviators: Episode 2</title>
+<desc>Kurtis takes the controls of the legendary World War II P-51 Mustang fighter jet. Plus, find out what happens to your bags once they are checked in at an airport.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131113041500" stop="20131113050500">
+<title>Chernobyl: Life in the Dead Zone</title>
+<desc>Investigating the aftermath of the nuclear disaster of Chernobyl, this film explores how nature has survived in this radioactive ghost town.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131113050500" stop="20131113060000">
+<title>Timewatch: Hidden Children</title>
+<desc>Four Jewish survivors tell their emotional stories of being hidden as children in Nazi-occupied France and their emotional return to their families. Wednesday</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131113060000" stop="20131113065000">
+<title>I Escaped Death: Hurricane at Sea</title>
+<desc>The year is 1983 and Tami Ashcraft is lost at sea with her boyfriend after crossing paths with a category four storm en route to San Diego. Can these treacherous waters be escaped?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131113065000" stop="20131113071500">
+<title>The Aviators: Episode 11</title>
+<desc>Sara flies the MU-2 and learns why it has such a loyal following. Later, the Air National Guard add a jet-powered punch to the end of the national anthem at a Nascar race.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131113071500" stop="20131113074500">
+<title>The Aviators: Episode 12</title>
+<desc>The world&apos;s most-advanced stealth fighter jet, the F-22 Raptor, is profiled. Later, join Motley Crue&apos;s lead singer Vince Neil, as he starts taking flying lessons.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131113074500" stop="20131113083500">
+<title>World&apos;s Busiest: Airport</title>
+<desc>Explores the incredible stories of the busiest places on Earth. Hong Kong airport has half a billion tonnes of cargo and 50 million people pass through it annually.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131113083500" stop="20131113093000">
+<title>Altered Statesmen: Kennedy</title>
+<desc>Explore the truth behind Kennedy&apos;s rise to presidency as he grappled with both physical and mental hurdles.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131113093000" stop="20131113102000">
+<title>World&apos;s Toughest Expeditions with James Cracknell: The Lost City of Z</title>
+<desc>James heads to the Amazon to investigate the mysterious disappearance of jungle explorer, Colonel Percy Fawcett, in a quest that becomes more dangerous than he ever imagined.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131113102000" stop="20131113111000">
+<title>Timewatch: Hidden Children</title>
+<desc>Four Jewish survivors tell their emotional stories of being hidden as children in Nazi-occupied France and their emotional return to their families.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131113111000" stop="20131113113500">
+<title>The Aviators: Episode 13</title>
+<desc>The team join former fighter pilots to dogfight other aircraft in air combat. Later, Motley Crue&apos;s Vince Neil continues his training, where he’s asked to land for the first time.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131113113500" stop="20131113120500">
+<title>The Aviators: Episode 2</title>
+<desc>Kurtis takes the controls of the legendary World War II P-51 Mustang fighter jet. Plus, find out what happens to your bags once they are checked in at an airport.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131113120500" stop="20131113125500">
+<title>World&apos;s Busiest: Border Crossing</title>
+<desc>Explores the incredible stories of the busiest places on Earth. San Ysidro, between Mexico and the USA, processes over 50 million people a year through its borders.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131113125500" stop="20131113135000">
+<title>Europe&apos;s Secret Earthquakes</title>
+<desc>The closest most of us will get to an earthquake is by watching a disaster movie - or so we might think. Scientists discuss a secret history of terrifying quakes throughout Europe.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131113135000" stop="20131113144500">
+<title>Richard III: the Unseen Story</title>
+<desc>We follow the scientists and archaeologists who took up tools to reveal what they hoped to be the most unlikely discovery of modern times - England&apos;s long lost king, Richard III.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131113144500" stop="20131113154000">
+<title>World&apos;s Toughest Expeditions with James Cracknell: Livingstone in</title>
+<desc>Africa James travels to Southern Africa to follow in the footsteps of celebrated explorer, Dr David Livingstone, and encountered some of Africa&apos;s most dangerous animals along the way.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131113154000" stop="20131113163500">
+<title>Timewatch: Killer Cloud</title>
+<desc>Documentary about an environmental disaster of 1783 which killed thousands of Britons. Victims of a volcanic eruption in Iceland, they choked on the gases that enveloped Europe.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131113163500" stop="20131113172500">
+<title>I Escaped Death: Backcountry Blizzard</title>
+<desc>Former Olympic hockey player Eric Le Marque finds himself lost after a snowboarding trip to the mountains goes awry. He must do battle with Mother Nature if he hopes to survive.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131113172500" stop="20131113182000">
+<title>Commander in Chief: The Gulf War</title>
+<desc>Explore how President George H W Bush’s combination of skills as a diplomat, spy and politician were vital in the first modern war in the post-Cold War world.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131113182000" stop="20131113191000">
+<title>World&apos;s Busiest: Train Station</title>
+<desc>Explores the incredible stories of the busiest places on Earth. Tokyo’s Shinjuku Station single-handedly carries over two thirds as many commuters as the NYC subway.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131113191000" stop="20131113200500">
+<title>Victory by Design: Episode 1</title>
+<desc>Alain De Cadenet presents this landmark series profiling significant examples of iconic motoring marques, including Maserati, Alfa Romeo, Aston Martin, Porsche, Ferrari and Lotus.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131113200500" stop="20131113210000">
+<title>World&apos;s Toughest Expeditions with James Cracknell: Gold Rush</title>
+<desc>James Cracknell takes on one of the hottest, most extreme terrains in the world as he investigates what the early pioneers of America&apos;s Gold Rush went through in pursuit of riches.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131113210000" stop="20131113215500">
+<title>Commander in Chief: The Gulf War</title>
+<desc>Explore how President George H W Bush’s combination of skills as a diplomat, spy and politician were vital in the first modern war in the post-Cold War world.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131113215500" stop="20131113225000">
+<title>The Fight: A Dirty Business</title>
+<desc>How did the Mafia take control of boxing in the 1940s? Plus, see how Muhammed Ali beat the Mob&apos;s fighter.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131113225000" stop="20131113234500">
+<title>Most Evil: Psychotic Killers</title>
+<desc>What act of violence is the most evil? Dr Stone looks into the science of psychosis to learn what happens in the mind of a psychotic killer to make him commit terrible murders.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131113234500" stop="20131114003500">
+<title>World&apos;s Toughest Expeditions with James Cracknell: Gold Rush</title>
+<desc>James Cracknell takes on one of the hottest, most extreme terrains in the world as he investigates what the early pioneers of America&apos;s Gold Rush went through in pursuit of riches.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131114003500" stop="20131114013000">
+<title>Commander in Chief: The Gulf War</title>
+<desc>Explore how President George H W Bush’s combination of skills as a diplomat, spy and politician were vital in the first modern war in the post-Cold War world.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131114013000" stop="20131114022500">
+<title>The Fight: A Dirty Business</title>
+<desc>How did the Mafia take control of boxing in the 1940s? Plus, see how Muhammed Ali beat the Mob&apos;s fighter.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131114022500" stop="20131114032000">
+<title>I Escaped Death: Backcountry Blizzard</title>
+<desc>Former Olympic hockey player Eric Le Marque finds himself lost after a snowboarding trip to the mountains goes awry. He must do battle with Mother Nature if he hopes to survive.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131114032000" stop="20131114041500">
+<title>Victory by Design: Episode 1</title>
+<desc>Alain De Cadenet presents this landmark series profiling significant examples of iconic motoring marques, including Maserati, Alfa Romeo, Aston Martin, Porsche, Ferrari and Lotus.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131114041500" stop="20131114050500">
+<title>Europe&apos;s Secret Earthquakes</title>
+<desc>The closest most of us will get to an earthquake is by watching a disaster movie - or so we might think. Scientists discuss a secret history of terrifying quakes throughout Europe.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131114050500" stop="20131114060000">
+<title>Timewatch: Killer Cloud</title>
+<desc>Documentary about an environmental disaster of 1783 which killed thousands of Britons. Victims of a volcanic eruption in Iceland, they choked on the gases that enveloped Europe. Thursday</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131114060000" stop="20131114065000">
+<title>I Escaped Death: Backcountry Blizzard</title>
+<desc>Former Olympic hockey player Eric Le Marque finds himself lost after a snowboarding trip to the mountains goes awry. He must do battle with Mother Nature if he hopes to survive.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131114065000" stop="20131114071500">
+<title>The Aviators: Episode 13</title>
+<desc>The team join former fighter pilots to dogfight other aircraft in air combat. Later, Motley Crue&apos;s Vince Neil continues his training, where he’s asked to land for the first time.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131114071500" stop="20131114074500">
+<title>The Aviators: Episode 2</title>
+<desc>Kurtis takes the controls of the legendary World War II P-51 Mustang fighter jet. Plus, find out what happens to your bags once they are checked in at an airport.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131114074500" stop="20131114083500">
+<title>World&apos;s Busiest: Border Crossing</title>
+<desc>Explores the incredible stories of the busiest places on Earth. San Ysidro, between Mexico and the USA, processes over 50 million people a year through its borders.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131114083500" stop="20131114093000">
+<title>Richard III: the Unseen Story</title>
+<desc>We follow the scientists and archaeologists who took up tools to reveal what they hoped to be the most unlikely discovery of modern times - England&apos;s long lost king, Richard III.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131114093000" stop="20131114102000">
+<title>World&apos;s Toughest Expeditions with James Cracknell: Livingstone in</title>
+<desc>Africa James travels to Southern Africa to follow in the footsteps of celebrated explorer, Dr David Livingstone, and encountered some of Africa&apos;s most dangerous animals along the way.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131114102000" stop="20131114111000">
+<title>Timewatch: Killer Cloud</title>
+<desc>Documentary about an environmental disaster of 1783 which killed thousands of Britons. Victims of a volcanic eruption in Iceland, they choked on the gases that enveloped Europe.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131114111000" stop="20131114120500">
+<title>Victory by Design: Episode 1</title>
+<desc>Alain De Cadenet presents this landmark series profiling significant examples of iconic motoring marques, including Maserati, Alfa Romeo, Aston Martin, Porsche, Ferrari and Lotus.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131114120500" stop="20131114125500">
+<title>World&apos;s Busiest: Train Station</title>
+<desc>Explores the incredible stories of the busiest places on Earth. Tokyo’s Shinjuku Station single-handedly carries over two thirds as many commuters as the NYC subway.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131114125500" stop="20131114135000">
+<title>Life on Fire: Phoenix Temple</title>
+<desc>Explore the destructive and productive power of the active Masaya volcano in Nicaragua and discover how it has shaped the surrounding landscape over its 30,000 year history.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131114135000" stop="20131114144500">
+<title>Commander in Chief: The Gulf War</title>
+<desc>Explore how President George H W Bush’s combination of skills as a diplomat, spy and politician were vital in the first modern war in the post-Cold War world.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131114144500" stop="20131114154000">
+<title>World&apos;s Toughest Expeditions with James Cracknell: Gold Rush</title>
+<desc>James Cracknell takes on one of the hottest, most extreme terrains in the world as he investigates what the early pioneers of America&apos;s Gold Rush went through in pursuit of riches.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131114154000" stop="20131114163500">
+<title>Timewatch: Killer Flood</title>
+<desc>A killer wave struck the counties of the Bristol Channel in 1607. Timewatch follows the research of 2 scientists who are increasingly convinced that the wave was a British tsunami.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131114163500" stop="20131114172500">
+<title>Marine Corps Survival School: Episode 1</title>
+<desc>Follow one of the toughest US Marine Corps training schools, which turns out troops that are able to fight in virtually any environment on Earth.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131114172500" stop="20131114182000">
+<title>Daredevils: The Human Bird</title>
+<desc>This episode shadows a daredevil who is attempting to fly down the face of the Matterhorn in a winged Teflon suit.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131114182000" stop="20131114191000">
+<title>World&apos;s Busiest: Hotel</title>
+<desc>Explore the incredible stories of the busiest places on Earth. The Venetian Palazzo hotel in Las Vegas is a $1.5 billion replica of Venice and the world’s busiest hotel.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131114191000" stop="20131114200500">
+<title>Victory by Design: Episode 2</title>
+<desc>Alain De Cadenet presents this landmark series profiling significant examples of iconic motoring marques, including Maserati, Alfa Romeo, Aston Martin, Porsche, Ferrari and Lotus.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131114200500" stop="20131114210000">
+<title>World&apos;s Toughest Expeditions with James Cracknell: Shipwrecked</title>
+<desc>James is washed up on a remote island in the shark-infested waters of the South Pacific, as he explores how the marooned crews of some of the worst shipping disasters survived.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131114210000" stop="20131114215500">
+<title>Daredevils: The Human Bird</title>
+<desc>This episode shadows a daredevil who is attempting to fly down the face of the Matterhorn in a winged Teflon suit.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131114215500" stop="20131114225000">
+<title>The Fight: The Closest Thing To Dying</title>
+<desc>The Thrilla in Manila between Ali and Frazier was watched around the globe. But the battle left both men permanently injured. Is boxing a moral fight?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131114225000" stop="20131114234500">
+<title>Most Evil: Deadly Desires</title>
+<desc>Dr Stone puts his scale of evil to the test as he explores how the desire to kill forms in the most deviant killers, and what drives them to carry out their deadly fantasies.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131114234500" stop="20131115003500">
+<title>World&apos;s Toughest Expeditions with James Cracknell: Shipwrecked</title>
+<desc>James is washed up on a remote island in the shark-infested waters of the South Pacific, as he explores how the marooned crews of some of the worst shipping disasters survived.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131115003500" stop="20131115013000">
+<title>Daredevils: The Human Bird</title>
+<desc>This episode shadows a daredevil who is attempting to fly down the face of the Matterhorn in a winged Teflon suit.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131115013000" stop="20131115022500">
+<title>The Fight: The Closest Thing To Dying</title>
+<desc>The Thrilla in Manila between Ali and Frazier was watched around the globe. But the battle left both men permanently injured. Is boxing a moral fight?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131115022500" stop="20131115032000">
+<title>Marine Corps Survival School: Episode 1</title>
+<desc>Follow one of the toughest US Marine Corps training schools, which turns out troops that are able to fight in virtually any environment on Earth.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131115032000" stop="20131115041500">
+<title>Victory by Design: Episode 2</title>
+<desc>Alain De Cadenet presents this landmark series profiling significant examples of iconic motoring marques, including Maserati, Alfa Romeo, Aston Martin, Porsche, Ferrari and Lotus.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131115041500" stop="20131115050500">
+<title>Life on Fire: Phoenix Temple</title>
+<desc>Explore the destructive and productive power of the active Masaya volcano in Nicaragua and discover how it has shaped the surrounding landscape over its 30,000 year history.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131115050500" stop="20131115060000">
+<title>Timewatch: Killer Flood</title>
+<desc>A killer wave struck the counties of the Bristol Channel in 1607. Timewatch follows the research of 2 scientists who are increasingly convinced that the wave was a British tsunami. Friday</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131115060000" stop="20131115065000">
+<title>Marine Corps Survival School: Episode 1</title>
+<desc>Follow one of the toughest US Marine Corps training schools, which turns out troops that are able to fight in virtually any environment on Earth.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131115065000" stop="20131115074500">
+<title>Victory by Design: Episode 1</title>
+<desc>Alain De Cadenet presents this landmark series profiling significant examples of iconic motoring marques, including Maserati, Alfa Romeo, Aston Martin, Porsche, Ferrari and Lotus.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131115074500" stop="20131115083500">
+<title>World&apos;s Busiest: Train Station</title>
+<desc>Explores the incredible stories of the busiest places on Earth. Tokyo’s Shinjuku Station single-handedly carries over two thirds as many commuters as the NYC subway.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131115083500" stop="20131115093000">
+<title>Commander in Chief: The Gulf War</title>
+<desc>Explore how President George H W Bush’s combination of skills as a diplomat, spy and politician were vital in the first modern war in the post-Cold War world.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131115093000" stop="20131115102000">
+<title>World&apos;s Toughest Expeditions with James Cracknell: Gold Rush</title>
+<desc>James Cracknell takes on one of the hottest, most extreme terrains in the world as he investigates what the early pioneers of America&apos;s Gold Rush went through in pursuit of riches.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131115102000" stop="20131115111000">
+<title>Timewatch: Killer Flood</title>
+<desc>A killer wave struck the counties of the Bristol Channel in 1607. Timewatch follows the research of 2 scientists who are increasingly convinced that the wave was a British tsunami.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131115111000" stop="20131115120500">
+<title>Victory by Design: Episode 2</title>
+<desc>Alain De Cadenet presents this landmark series profiling significant examples of iconic motoring marques, including Maserati, Alfa Romeo, Aston Martin, Porsche, Ferrari and Lotus.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131115120500" stop="20131115125500">
+<title>World&apos;s Busiest: Hotel</title>
+<desc>Explore the incredible stories of the busiest places on Earth. The Venetian Palazzo hotel in Las Vegas is a $1.5 billion replica of Venice and the world’s busiest hotel.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131115125500" stop="20131115135000">
+<title>Life on Fire: The Surprise Salmon</title>
+<desc>Scientists explore the fate of a breed of salmon that faced extinction when a North American volcano erupted, poisoning their rivers, 2000 years ago. How did they survive?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131115135000" stop="20131115144500">
+<title>Daredevils: The Human Bird</title>
+<desc>This episode shadows a daredevil who is attempting to fly down the face of the Matterhorn in a winged Teflon suit.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131115144500" stop="20131115154000">
+<title>World&apos;s Toughest Expeditions with James Cracknell: Shipwrecked</title>
+<desc>James is washed up on a remote island in the shark-infested waters of the South Pacific, as he explores how the marooned crews of some of the worst shipping disasters survived.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131115154000" stop="20131115163500">
+<title>Timewatch: Mystery of the Headless Romans</title>
+<desc>Timewatch investigates the skeletal remains of 30 decapitated bodies found in a garden in Roman York.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131115163500" stop="20131115172500">
+<title>Marine Corps Survival School: Episode 2</title>
+<desc>Follow one of the toughest US Marine Corps training schools, which turns out troops that are able to fight in virtually any environment on Earth.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131115172500" stop="20131115182000">
+<title>Feral Children: Monkey Boy of Uganda</title>
+<desc>Exploring the stories of the feral children who have been raised by animals with unseen footage and newly discovered images of recent stories that have not yet been told.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131115182000" stop="20131115191000">
+<title>Extreme Engineering: Arizona Cardinals</title>
+<desc>From its &apos;Starchitect&apos; design to North America&apos;s first slide-out field, the showcase stadium of American football team the Arizona Cardinals could be the future of design.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131115191000" stop="20131115200500">
+<title>Victory by Design: Episode 3</title>
+<desc>Alain De Cadenet presents this landmark series profiling significant examples of iconic motoring marques, including Maserati, Alfa Romeo, Aston Martin, Porsche, Ferrari and Lotus.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131115200500" stop="20131115210000">
+<title>Marley Africa Road Trip: Episode 1</title>
+<desc>Thirty years after Bob Marley’s landmark freedom concert, his sons, Ziggy, Rohan and Robbie, have returned to Africa to continue his legacy and embark upon their own journey.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131115210000" stop="20131115215500">
+<title>Feral Children: Monkey Boy of Uganda</title>
+<desc>Exploring the stories of the feral children who have been raised by animals with unseen footage and newly discovered images of recent stories that have not yet been told.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131115215500" stop="20131115234500">
+<title>Titanic: The Aftermath</title>
+<desc>Told through the eyes of descendants, this is the untold story of the Titanic. The film mixes documentary and drama to draw together the stories that unfolded after the disaster.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131115234500" stop="20131116003500">
+<title>Marley Africa Road Trip: Episode 1</title>
+<desc>Thirty years after Bob Marley’s landmark freedom concert, his sons, Ziggy, Rohan and Robbie, have returned to Africa to continue his legacy and embark upon their own journey.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131116003500" stop="20131116013000">
+<title>Feral Children: Monkey Boy of Uganda</title>
+<desc>Exploring the stories of the feral children who have been raised by animals with unseen footage and newly discovered images of recent stories that have not yet been told.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131116013000" stop="20131116032000">
+<title>Titanic: The Aftermath</title>
+<desc>Told through the eyes of descendants, this is the untold story of the Titanic. The film mixes documentary and drama to draw together the stories that unfolded after the disaster.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131116032000" stop="20131116041500">
+<title>Victory by Design: Episode 3</title>
+<desc>Alain De Cadenet presents this landmark series profiling significant examples of iconic motoring marques, including Maserati, Alfa Romeo, Aston Martin, Porsche, Ferrari and Lotus.</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131116041500" stop="20131116050500">
+<title>Life on Fire: The Surprise Salmon</title>
+<desc>Scientists explore the fate of a breed of salmon that faced extinction when a North American volcano erupted, poisoning their rivers, 2000 years ago. How did they survive?</desc>
+<premiere />
+</programme>
+<programme channel="discovery-civilization.doc" start="20131116050500" stop="20131116060000">
+<title>Timewatch: Mystery of the Headless Romans</title>
+<desc>Timewatch investigates the skeletal remains of 30 decapitated bodies found in a garden in Roman York. Saturday</desc>
+<premiere />
+</programme>
+</tv>

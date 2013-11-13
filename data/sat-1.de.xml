@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tv source-data-url="http://tvprofil.net/xmltv/" source-info-name="Phazer XML servis 4.5" source-info-url="http://tvprofil.net">
+<channel id="sat-1.de">
+<display-name>SAT 1</display-name>
+<url>http://www.sat1.de</url>
+<icon src="http://phazer.info/img/kanali/sat1.jpg" />
+</channel>
+<programme channel="sat-1.de" start="20131113100000" stop="20131113110000">
+<title>Richterin Barbara Salesch</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131113110000" stop="20131113120000">
+<title>Richterin Barbara Salesch</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131113120000" stop="20131113130000">
+<title>Richter Alexander Hold</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131113130000" stop="20131113140000">
+<title>Richter Alexander Hold</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131113140000" stop="20131113150000">
+<title>Auf Streife</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131113150000" stop="20131113160000">
+<title>Im Namen der Gerechtigkeit - Wir kämpfen für Sie!</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131113160000" stop="20131113170000">
+<title>Anwälte im Einsatz</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131113170000" stop="20131113173000">
+<title>Schicksale - und plötzlich ist alles anders, Der Albtraum</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131113173000" stop="20131113180000">
+<title>Schicksale - und plötzlich ist alles anders, Wie gewonnen, so zerronnen</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131113180000" stop="20131113190000">
+<title>Navy CIS, Der Maulwurf (The Bone Yard)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131113190000" stop="20131113195500">
+<title>Navy CIS, Schatten der Angst (Terminal Leave)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131113195500" stop="20131113201500">
+<title>SAT.1 Nachrichten</title>
+<desc>&quot;SAT.1 Nachrichten&quot; - aktuelle und kompetente Informationen live aus Berlin-Mitte. Moderiert werden...</desc>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131113201500" stop="20131113231500">
+<title>THE TASTE</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131113231500" stop="20131114001500">
+<title>24 Stunden, Fett getäuscht - Was taugen unsere Lightprodukte?</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131114001500" stop="20131114025500">
+<title>THE TASTE</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131114025500" stop="20131114034000">
+<title>Navy CIS, Der Maulwurf (The Bone Yard)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131114034000" stop="20131114042000">
+<title>Navy CIS, Schatten der Angst (Terminal Leave)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131114042000" stop="20131114044500">
+<title>Schicksale - und plötzlich ist alles anders, Wie gewonnen, so zerronnen</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131114044500" stop="20131114053000">
+<title>Im Namen der Gerechtigkeit - Wir kämpfen für Sie!</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131114053000" stop="20131114100000">
+<title>SAT.1-Frühstücksfernsehen</title>
+<desc>Aktuelle Information, entspannter Talk, kontroverse Diskussionen, Service, Prominente und viel gute...</desc>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131114100000" stop="20131114110000">
+<title>Richterin Barbara Salesch</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131114110000" stop="20131114120000">
+<title>Richterin Barbara Salesch</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131114120000" stop="20131114130000">
+<title>Richter Alexander Hold</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131114130000" stop="20131114140000">
+<title>Richter Alexander Hold</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131114140000" stop="20131114150000">
+<title>Auf Streife</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131114150000" stop="20131114160000">
+<title>Im Namen der Gerechtigkeit - Wir kämpfen für Sie!</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131114160000" stop="20131114170000">
+<title>Anwälte im Einsatz</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131114170000" stop="20131114173000">
+<title>Schicksale - und plötzlich ist alles anders, Krieg der Mädchen</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131114173000" stop="20131114180000">
+<title>Schicksale - und plötzlich ist alles anders, Der Chef und Deine Köchin</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131114180000" stop="20131114190000">
+<title>Navy CIS, Der Held von Iwo Jima (Call of Silence)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131114190000" stop="20131114195500">
+<title>Navy CIS, Herzenssachen (Heart Break)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131114195500" stop="20131114201500">
+<title>SAT.1 Nachrichten</title>
+<desc>&quot;SAT.1 Nachrichten&quot; - aktuelle und kompetente Informationen live aus Berlin-Mitte. Moderiert werden...</desc>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131114201500" stop="20131114211500">
+<title>Zločinački umovi, In die Wälder(Into the Woods)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131114211500" stop="20131114221500">
+<title>Zločinački umovi, Der beste Tag seines Lebens(What Happens at Home...)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131114221500" stop="20131114231500">
+<title>Zločinački umovi, Alte Spuren(25 to Life)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131114231500" stop="20131115001500">
+<title>Hannibal, Alles Fleisch(Sorbet)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131115001500" stop="20131115011000">
+<title>Zločinački umovi, In die Wälder(Into the Woods)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131115011000" stop="20131115015500">
+<title>Zločinački umovi, Der beste Tag seines Lebens(What Happens at Home...)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131115015500" stop="20131115024000">
+<title>Zločinački umovi, Alte Spuren(25 to Life)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131115024000" stop="20131115032000">
+<title>Hannibal, Alles Fleisch(Sorbet)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131115032000" stop="20131115040500">
+<title>Navy CIS, Der Held von Iwo Jima (Call of Silence)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131115040500" stop="20131115044500">
+<title>Navy CIS, Herzenssachen (Heart Break)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131115044500" stop="20131115053000">
+<title>Im Namen der Gerechtigkeit - Wir kämpfen für Sie!</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131115053000" stop="20131115100000">
+<title>SAT.1-Frühstücksfernsehen</title>
+<desc>Aktuelle Information, entspannter Talk, kontroverse Diskussionen, Service, Prominente und viel gute...</desc>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131115100000" stop="20131115110000">
+<title>Richterin Barbara Salesch</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131115110000" stop="20131115120000">
+<title>Richterin Barbara Salesch</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131115120000" stop="20131115130000">
+<title>Richter Alexander Hold</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131115130000" stop="20131115140000">
+<title>Richter Alexander Hold</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131115140000" stop="20131115150000">
+<title>Auf Streife</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131115150000" stop="20131115160000">
+<title>Im Namen der Gerechtigkeit - Wir kämpfen für Sie!</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131115160000" stop="20131115170000">
+<title>Anwälte im Einsatz</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131115170000" stop="20131115173000">
+<title>Schicksale - und plötzlich ist alles anders</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131115173000" stop="20131115180000">
+<title>Schicksale - und plötzlich ist alles anders</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131115180000" stop="20131115190000">
+<title>Navy CIS, Die Zeugin (Witness)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131115190000" stop="20131115195500">
+<title>Navy CIS, Männer und Frauen (Caught on Tape)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131115195500" stop="20131115201500">
+<title>SAT.1 Nachrichten</title>
+<desc>&quot;SAT.1 Nachrichten&quot; - aktuelle und kompetente Informationen live aus Berlin-Mitte. Moderiert werden...</desc>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131115201500" stop="20131115223000">
+<title>The Voice of Germany</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131115223000" stop="20131115233000">
+<title>Bezaubernde Cindy - Jetzt werden Wünsche wahr</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131115233000" stop="20131116013000">
+<title>The Voice of Germany</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116013000" stop="20131116015500">
+<title>DIE DREISTEN DREI - DIE COMEDY WG</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116015500" stop="20131116022000">
+<title>DIE DREISTEN DREI - DIE COMEDY WG</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116022000" stop="20131116024000">
+<title>DIE DREISTEN DREI - DIE COMEDY WG</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116024000" stop="20131116030500">
+<title>Mensch Markus, Sketch-Comedy mit Markus Maria Profitlich</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116030500" stop="20131116032500">
+<title>Mensch Markus, Sketch-Comedy mit Markus Maria Profitlich</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116032500" stop="20131116034500">
+<title>WAS GUCKST DU?!</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116034500" stop="20131116040500">
+<title>WAS GUCKST DU?!</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116040500" stop="20131116043000">
+<title>DIE DREISTEN DREI - DIE COMEDY WG</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116043000" stop="20131116045500">
+<title>DIE DREISTEN DREI - DIE COMEDY WG</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116045500" stop="20131116051000">
+<title>DIE DREISTEN DREI - DIE COMEDY WG</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116051000" stop="20131116053000">
+<title>WAS GUCKST DU?!</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116053000" stop="20131116055500">
+<title>WAS GUCKST DU?!</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116055500" stop="20131116062500">
+<title>Two Funny - Die Sketch Comedy</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116062500" stop="20131116065500">
+<title>Two Funny - Die Sketch Comedy</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116065500" stop="20131116072500">
+<title>Mensch Markus, Sketch-Comedy mit Markus Maria Profitlich</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116072500" stop="20131116075500">
+<title>Mensch Markus, Sketch-Comedy mit Markus Maria Profitlich</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116075500" stop="20131116082000">
+<title>DIE DREISTEN DREI - DIE COMEDY WG</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116082000" stop="20131116085000">
+<title>DIE DREISTEN DREI - DIE COMEDY WG</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116085000" stop="20131116092000">
+<title>Sechserpack, Feste Feiern</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116092000" stop="20131116095000">
+<title>Sechserpack, Freunde &amp; Feinde</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116095000" stop="20131116115500">
+<title>The Voice of Germany</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116115500" stop="20131116140000">
+<title>The Voice of Germany</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116140000" stop="20131116150000">
+<title>Familien-Fälle</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116150000" stop="20131116160000">
+<title>Familien-Fälle</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116160000" stop="20131116165900">
+<title>Familien-Fälle</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116165900" stop="20131116170000">
+<title>So gesehen</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116170000" stop="20131116173000">
+<title>Mein dunkles Geheimnis</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116173000" stop="20131116180000">
+<title>Mein dunkles Geheimnis</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116180000" stop="20131116183000">
+<title>K 11 - Kommissare im Einsatz</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116183000" stop="20131116190000">
+<title>K 11 - Kommissare im Einsatz</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116190000" stop="20131116193000">
+<title>K 11 - Kommissare im Einsatz</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116193000" stop="20131116195500">
+<title>K 11 - Kommissare im Einsatz</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116195500" stop="20131116201500">
+<title>SAT.1 Nachrichten</title>
+<desc>&quot;SAT.1 Nachrichten&quot; - aktuelle und kompetente Informationen live aus Berlin-Mitte. Moderiert werden...</desc>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116201500" stop="20131116223500">
+<title>Prince of Persia: Der Sand der Zeit</title>
+<category>film</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116223500" stop="20131116230500">
+<title>Knallerfrauen</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116230500" stop="20131116233500">
+<title>Knallerfrauen</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131116233500" stop="20131117000000">
+<title>DIE DREISTEN DREI - jetzt noch dreister</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131117000000" stop="20131117003500">
+<title>DIE DREISTEN DREI - jetzt noch dreister</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131117003500" stop="20131117010500">
+<title>Hausmeister Krause - Ordnung muss sein, Dieter Balboa - Eine Frage der Ehre</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131117010500" stop="20131117013500">
+<title>Hausmeister Krause - Ordnung muss sein, Der Triebtäter</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131117013500" stop="20131117015500">
+<title>Knallerfrauen</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131117015500" stop="20131117022000">
+<title>Knallerfrauen</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131117022000" stop="20131117024500">
+<title>DIE DREISTEN DREI - jetzt noch dreister</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131117024500" stop="20131117030500">
+<title>DIE DREISTEN DREI - jetzt noch dreister</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131117030500" stop="20131117033000">
+<title>Sechserpack, Feste Feiern</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131117033000" stop="20131117035000">
+<title>Sechserpack, Freunde &amp; Feinde</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131117035000" stop="20131117041000">
+<title>Zack! Comedy nach Maß</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131117041000" stop="20131117043500">
+<title>Zack! Comedy nach Maß</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131117043500" stop="20131117044500">
+<title>Two Funny - Die Sketch Comedy</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131117044500" stop="20131117053000">
+<title>Im Namen der Gerechtigkeit - Wir kämpfen für Sie!</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131117053000" stop="20131117100000">
+<title>SAT.1-Frühstücksfernsehen</title>
+<desc>Aktuelle Information, entspannter Talk, kontroverse Diskussionen, Service, Prominente und viel gute...</desc>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131117100000" stop="20131117110000">
+<title>Richterin Barbara Salesch</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131117110000" stop="20131117120000">
+<title>Richterin Barbara Salesch</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131117120000" stop="20131117130000">
+<title>Richter Alexander Hold</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131117130000" stop="20131117140000">
+<title>Richter Alexander Hold</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131117140000" stop="20131117150000">
+<title>Auf Streife</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131117150000" stop="20131117160000">
+<title>Im Namen der Gerechtigkeit - Wir kämpfen für Sie!</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131117160000" stop="20131117170000">
+<title>Anwälte im Einsatz</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131117170000" stop="20131117173000">
+<title>Schicksale - und plötzlich ist alles anders</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131117173000" stop="20131117180000">
+<title>Schicksale - und plötzlich ist alles anders</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131117180000" stop="20131117190000">
+<title>Navy CIS, Die Zeugin (Witness)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131117190000" stop="20131117195500">
+<title>Navy CIS, Männer und Frauen (Caught on Tape)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131117195500" stop="20131117201500">
+<title>SAT.1 Nachrichten</title>
+<desc>&quot;SAT.1 Nachrichten&quot; - aktuelle und kompetente Informationen live aus Berlin-Mitte. Moderiert werden...</desc>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131117201500" stop="20131117223000">
+<title>The Voice of Germany</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131117223000" stop="20131117233000">
+<title>Bezaubernde Cindy - Jetzt werden Wünsche wahr</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131117233000" stop="20131118013000">
+<title>The Voice of Germany</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131118013000" stop="20131118015500">
+<title>DIE DREISTEN DREI - DIE COMEDY WG</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131118015500" stop="20131118022000">
+<title>DIE DREISTEN DREI - DIE COMEDY WG</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131118022000" stop="20131118024000">
+<title>DIE DREISTEN DREI - DIE COMEDY WG</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131118024000" stop="20131118030500">
+<title>Mensch Markus, Sketch-Comedy mit Markus Maria Profitlich</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131118030500" stop="20131118032500">
+<title>Mensch Markus, Sketch-Comedy mit Markus Maria Profitlich</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131118032500" stop="20131118034500">
+<title>WAS GUCKST DU?!</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131118034500" stop="20131118040500">
+<title>WAS GUCKST DU?!</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131118040500" stop="20131118043000">
+<title>DIE DREISTEN DREI - DIE COMEDY WG</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131118043000" stop="20131118045500">
+<title>DIE DREISTEN DREI - DIE COMEDY WG</title>
+<premiere />
+</programme>
+<programme channel="sat-1.de" start="20131118045500" stop="20131118065500">
+<title>DIE DREISTEN DREI - DIE COMEDY WG</title>
+<premiere />
+</programme>
+</tv>

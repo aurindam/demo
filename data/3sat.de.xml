@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tv source-data-url="http://tvprofil.net/xmltv/" source-info-name="Phazer XML servis 4.5" source-info-url="http://tvprofil.net">
+<channel id="3sat.de">
+<display-name>3SAT</display-name>
+<url>http://www.3sat.de/</url>
+<icon src="http://phazer.info/img/kanali/3sat.jpg" />
+</channel>
+<programme channel="3sat.de" start="20131113062000" stop="20131113070000">
+<title>Kulturzeit</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131113070000" stop="20131113073000">
+<title>nano</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131113073000" stop="20131113090000">
+<title>Alpenpanorama</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131113090000" stop="20131113090500">
+<title>ZIB</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131113090500" stop="20131113094500">
+<title>Kulturzeit</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131113094500" stop="20131113101500">
+<title>nano</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131113101500" stop="20131113113000">
+<title>Markus Lanz</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131113113000" stop="20131113120000">
+<title>SCHWEIZWEIT</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131113120000" stop="20131113122500">
+<title>Newton</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131113122500" stop="20131113130000">
+<title>Natur im Garten (6/10)</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131113130000" stop="20131113131500">
+<title>ZIB</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131113131500" stop="20131113132500">
+<title>Unterwegs am Mekong</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131113132500" stop="20131113141000">
+<title>Die Donau - Reise in ein unbekanntes Europa (1/6)</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131113141000" stop="20131113145000">
+<title>Die Donau - Reise in ein unbekanntes Europa (2/6)</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131113145000" stop="20131113153500">
+<title>Die Donau - Reise in ein unbekanntes Europa (3/6)</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131113153500" stop="20131113161500">
+<title>Die Donau - Reise in ein unbekanntes Europa (4/6)</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131113161500" stop="20131113170000">
+<title>Die Donau - Reise in ein unbekanntes Europa (5/6)</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131113170000" stop="20131113174500">
+<title>Die Donau - Reise in ein unbekanntes Europa (6/6)</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131113174500" stop="20131113183000">
+<title>mare TV - Das Magazin der Meere</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131113183000" stop="20131113190000">
+<title>nano</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131113190000" stop="20131113192000">
+<title>heute</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131113192000" stop="20131113200000">
+<title>Kulturzeit</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131113200000" stop="20131113201500">
+<title>Tagesschau</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131113201500" stop="20131113210500">
+<title>Dschungelcamp für Homöopathen</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131113210500" stop="20131113220000">
+<title>Tradition des Heilens</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131113220000" stop="20131113222500">
+<title>ZIB 2</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131113222500" stop="20131114000500">
+<title>Gods and Monsters</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114000500" stop="20131114003500">
+<title>Eco</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114003500" stop="20131114010500">
+<title>Nachrichtenmagazin von Schweizer Radio und Fernsehen, 10 vor 10</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114010500" stop="20131114013500">
+<title>zdf.kulturpalast</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114013500" stop="20131114021500">
+<title>Die Donau - Reise in ein unbekanntes Europa (1/6)</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114021500" stop="20131114030000">
+<title>Die Donau - Reise in ein unbekanntes Europa (2/6)</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114030000" stop="20131114034000">
+<title>Die Donau - Reise in ein unbekanntes Europa (3/6)</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114034000" stop="20131114042500">
+<title>Die Donau - Reise in ein unbekanntes Europa (4/6)</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114042500" stop="20131114050500">
+<title>Die Donau - Reise in ein unbekanntes Europa (5/6)</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114050500" stop="20131114055000">
+<title>Die Donau - Reise in ein unbekanntes Europa (6/6)</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114055000" stop="20131114062000">
+<title>3satTextVision</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114062000" stop="20131114070000">
+<title>Kulturzeit</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114070000" stop="20131114073000">
+<title>nano</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114073000" stop="20131114090000">
+<title>Alpenpanorama</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114090000" stop="20131114090500">
+<title>ZIB</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114090500" stop="20131114094500">
+<title>Kulturzeit</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114094500" stop="20131114101500">
+<title>nano</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114101500" stop="20131114114500">
+<title>Kölner Treff</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114114500" stop="20131114123000">
+<title>Die Bären sind los</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114123000" stop="20131114130000">
+<title>Eco</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114130000" stop="20131114132000">
+<title>ZIB</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114132000" stop="20131114140500">
+<title>Am großen Strom (1/2)</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114140500" stop="20131114144500">
+<title>Am großen Strom (2/2)</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114144500" stop="20131114153000">
+<title>Hafenwelten (1/5)</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114153000" stop="20131114161500">
+<title>Hafenwelten (2/5)</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114161500" stop="20131114170000">
+<title>Hafenwelten (3/5)</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114170000" stop="20131114174500">
+<title>Hafenwelten (4/5)</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114174500" stop="20131114183000">
+<title>Hafenwelten (5/5)</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114183000" stop="20131114190000">
+<title>nano</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114190000" stop="20131114192000">
+<title>heute</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114192000" stop="20131114200000">
+<title>Kulturzeit</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114200000" stop="20131114201500">
+<title>Tagesschau</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114201500" stop="20131114210000">
+<title>Wie 3D-Druck unsere Welt verändert</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114210000" stop="20131114220000">
+<title>scobel - Internet der Dinge</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114220000" stop="20131114222500">
+<title>ZIB 2</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131114222500" stop="20131115000000">
+<title>Das Ende der Welt</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115000000" stop="20131115003000">
+<title>Nachrichtenmagazin von Schweizer Radio und Fernsehen, 10 vor 10</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115003000" stop="20131115011500">
+<title>Rundschau</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115011500" stop="20131115014000">
+<title>Kurt ist jetzt ein Diamant</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115014000" stop="20131115021000">
+<title>Hessenreporter</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115021000" stop="20131115035000">
+<title>Gods and Monsters</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115035000" stop="20131115045000">
+<title>La Siesta de la Vida</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115045000" stop="20131115055000">
+<title>Stöckl</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115055000" stop="20131115062000">
+<title>3satTextVision</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115062000" stop="20131115070000">
+<title>Kulturzeit</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115070000" stop="20131115073000">
+<title>nano</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115073000" stop="20131115090000">
+<title>Alpenpanorama</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115090000" stop="20131115090500">
+<title>ZIB</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115090500" stop="20131115094500">
+<title>Kulturzeit</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115094500" stop="20131115101500">
+<title>nano</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115101500" stop="20131115113000">
+<title>Beckmann</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115113000" stop="20131115120000">
+<title>selbstbestimmt!</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115120000" stop="20131115124500">
+<title>Baha&apos;i - Religion für eine neue Zeit</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115124500" stop="20131115130000">
+<title>Streifzug durch Istrien: Pula</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115130000" stop="20131115131500">
+<title>ZIB</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115131500" stop="20131115140500">
+<title>&quot;Krebs ist doof&quot;</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115140500" stop="20131115145000">
+<title>Tradition des Heilens</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115145000" stop="20131115152000">
+<title>Sylt, da will ich hin!</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115152000" stop="20131115160000">
+<title>unterwegs - Brasilien</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115160000" stop="20131115174500">
+<title>Alle Tage ist kein Sonntag</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115174500" stop="20131115183000">
+<title>ZDF-History</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115183000" stop="20131115190000">
+<title>nano</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115190000" stop="20131115192000">
+<title>heute</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115192000" stop="20131115200000">
+<title>Kulturzeit</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115200000" stop="20131115201500">
+<title>Tagesschau</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115201500" stop="20131115210000">
+<title>Zeitbombe Zucker</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115210000" stop="20131115213000">
+<title>makro: Japans Comeback?</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115213000" stop="20131115221000">
+<title>auslandsjournal extra</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115221000" stop="20131115223500">
+<title>ZIB 2</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131115223500" stop="20131116000500">
+<title>Der letzte schöne Tag</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116000500" stop="20131116003500">
+<title>extra 3</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116003500" stop="20131116010500">
+<title>Nachrichtenmagazin von Schweizer Radio und Fernsehen, 10 vor 10</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116010500" stop="20131116015500">
+<title>Willkommen Österreich</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116015500" stop="20131116024000">
+<title>Intensiv-Station</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116024000" stop="20131116032500">
+<title>Spätschicht</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116032500" stop="20131116041000">
+<title>Spätschicht</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116041000" stop="20131116045500">
+<title>Krömer - Die internationale Show</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116045500" stop="20131116054000">
+<title>Karneval in New Orleans</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116054000" stop="20131116062000">
+<title>Sylt, da will ich hin!</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116062000" stop="20131116070000">
+<title>Kulturzeit</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116070000" stop="20131116073000">
+<title>nano</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116073000" stop="20131116090000">
+<title>Alpenpanorama</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116090000" stop="20131116090500">
+<title>ZIB</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116090500" stop="20131116093500">
+<title>Kulturplatz</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116093500" stop="20131116094000">
+<title>Gesunde Küche mit Geschmack</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116094000" stop="20131116101000">
+<title>Kreuzgang, Küche, Kräutergarten</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116101000" stop="20131116105500">
+<title>Korn/Kraft/Werk</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116105500" stop="20131116114500">
+<title>Die Leute von St. Benedikt (5/13)</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116114500" stop="20131116123000">
+<title>Die Leute von St. Benedikt (6/13)</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116123000" stop="20131116130000">
+<title>Bilder aus Südtirol</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116130000" stop="20131116131000">
+<title>ZIB</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116131000" stop="20131116131500">
+<title>Notizen aus dem Ausland</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116131500" stop="20131116140000">
+<title>quer</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116140000" stop="20131116143000">
+<title>Kunst &amp; Krempel</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116143000" stop="20131116151500">
+<title>Reisewege</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116151500" stop="20131116154500">
+<title>Ländermagazin</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116154500" stop="20131116161500">
+<title>SCHWEIZWEIT</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116161500" stop="20131116163000">
+<title>Yorkshire - Land der Geister und Legenden</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116163000" stop="20131116180000">
+<title>Er kann&apos;s nicht lassen</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116180000" stop="20131116183000">
+<title>über:morgen - Arbeitsplatz Europa</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116183000" stop="20131116190000">
+<title>Zapp</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116190000" stop="20131116191500">
+<title>heute</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116191500" stop="20131116200000">
+<title>Fieber, Film</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116200000" stop="20131116201500">
+<title>Tagesschau</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116201500" stop="20131116215000">
+<title>3sat-Zuschauerpreis 2013, Im Alleingang</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116215000" stop="20131116232000">
+<title>3sat-Zuschauerpreis 2013, Tod einer Polizistin</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131116232000" stop="20131117003500">
+<title>Menschen bei Maischberger</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131117003500" stop="20131117013500">
+<title>lebens.art</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131117013500" stop="20131117030500">
+<title>Er kann&apos;s nicht lassen</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131117030500" stop="20131117043500">
+<title>Das schwarze Schaf</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131117043500" stop="20131117061500">
+<title>Broadway Familie</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131117061500" stop="20131117064500">
+<title>makro: Japans Comeback?</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131117064500" stop="20131117073000">
+<title>Tele-Akademie</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131117073000" stop="20131117090000">
+<title>Alpenpanorama</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131117090000" stop="20131117090500">
+<title>ZIB</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131117090500" stop="20131117091500">
+<title>100(0) Meisterwerke</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131117091500" stop="20131117101500">
+<title>Wahnsinnig eigensinnig: Frauenleben im jungen Bundesstaat</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131117101500" stop="20131117111500">
+<title>Christoph Franz</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131117111500" stop="20131117130000">
+<title>Small Roads</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131117130000" stop="20131117130500">
+<title>ZIB</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131117130500" stop="20131117133000">
+<title>Eingeschenkt - Weinland Österreich (10/12)</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131117133000" stop="20131117140000">
+<title>Myanmars Reise in die Zukunft</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131117140000" stop="20131117144500">
+<title>Hüttengeschichten (3/4)</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131117144500" stop="20131117153000">
+<title>Hüttengeschichten (4/4)</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131117153000" stop="20131117160000">
+<title>hitec: Impfen</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131117160000" stop="20131117163000">
+<title>Die Erben des Don Camillo</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131117163000" stop="20131117181500">
+<title>Don Camillo und Peppone</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131117181500" stop="20131117190000">
+<title>Der Deutsche Theaterpreis DER FAUST</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131117190000" stop="20131117191000">
+<title>heute</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131117191000" stop="20131117194000">
+<title>Im Rausch der Farben</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131117194000" stop="20131117200000">
+<title>Schätze der Welt - Erbe der Menschheit</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131117200000" stop="20131117201500">
+<title>Tagesschau</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131117201500" stop="20131117214500">
+<title>3sat-Zuschauerpreis 2013, Mord in Eberswalde</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131117214500" stop="20131117220000">
+<title>Close up</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131117220000" stop="20131117233000">
+<title>3sat-Zuschauerpreis 2013, Operation Zucker</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131117233000" stop="20131118010000">
+<title>Polizeiruf 110: Falscher Jasmin</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131118010000" stop="20131118023000">
+<title>Himmelfahrtskommando El Alamein</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131118023000" stop="20131118040000">
+<title>Der Garten der Finzi Contini</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131118040000" stop="20131118055500">
+<title>Himmelfahrtskommando El Alamein</title>
+<premiere />
+</programme>
+<programme channel="3sat.de" start="20131118055500" stop="20131118062000">
+<title>3satTextVision</title>
+<premiere />
+</programme>
+</tv>

@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tv source-data-url="http://tvprofil.net/xmltv/" source-info-name="Phazer XML servis 4.5" source-info-url="http://tvprofil.net">
+<channel id="national-geographic-wild.doc">
+<display-name>Nat Geo Wild</display-name>
+<url>http://www.ngwild.com</url>
+<icon src="http://phazer.info/img/kanali/nat_geo_wild.jpg" />
+</channel>
+<programme channel="national-geographic-wild.doc" start="20131112060000" stop="20131112070000">
+<title>Man V Monster: Amazon River Beast</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131112070000" stop="20131112080000">
+<title>Fish Warrior: Catfish Attack</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131112080000" stop="20131112090000">
+<title>Secret Brazil: Wet Pantanal</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131112090000" stop="20131112100000">
+<title>Night Stalkers: Hyena Gangs</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131112100000" stop="20131112110000">
+<title>American Tiger</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131112110000" stop="20131112120000">
+<title>Man V Monster: Brazilian Bigfoot</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131112120000" stop="20131112130000">
+<title>World&apos;s Deadliest Killer Three: Speed Kills</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131112130000" stop="20131112140000">
+<title>Secret Brazil: Wet Pantanal</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131112140000" stop="20131112150000">
+<title>Night Stalkers: Hyena Gangs</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131112150000" stop="20131112160000">
+<title>Quest For The Megafish of The Amazon</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131112160000" stop="20131112170000">
+<title>How Big Can It Get: Snakezilla</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131112170000" stop="20131112180000">
+<title>World&apos;s Weirdest: Freaks On Land</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131112180000" stop="20131112190000">
+<title>Secrets Of Wild India: Desert Lions</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131112190000" stop="20131112200000">
+<title>America The Wild: Stalking The Mountain Lion</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131112200000" stop="20131112210000">
+<title>Fish Tank Kings: Fish Upon A Star</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131112210000" stop="20131112220000">
+<title>Secrets Of Wild India: Desert Lions</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131112220000" stop="20131112230000">
+<title>America The Wild: Stalking The Mountain Lion</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131112230000" stop="20131113000000">
+<title>American Tiger</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131113000000" stop="20131113010000">
+<title>World&apos;s Weirdest: Freaks On Land</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131113010000" stop="20131113020000">
+<title>Secrets Of Wild India: Desert Lions</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131113020000" stop="20131113030000">
+<title>America The Wild: Stalking The Mountain Lion</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131113030000" stop="20131113040000">
+<title>Fish Tank Kings: Fish Upon A Star</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131113040000" stop="20131113050000">
+<title>How Big Can It Get: Snakezilla</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131113050000" stop="20131113060000">
+<title>Python: Invasion In The Everglades</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131113060000" stop="20131113070000">
+<title>Man V Monster: Brazilian Bigfoot</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131113070000" stop="20131113080000">
+<title>Quest For The Megafish of The Amazon</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131113080000" stop="20131113090000">
+<title>Secrets Of Wild India: Desert Lions</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131113090000" stop="20131113100000">
+<title>America The Wild: Stalking The Mountain Lion</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131113100000" stop="20131113110000">
+<title>My Life Is A Zoo: My Life Is A Zoo</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131113110000" stop="20131113120000">
+<title>Expedition Wild: Project Kodiak</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131113120000" stop="20131113130000">
+<title>World&apos;s Deadliest Killer Three: Hunger Games</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131113130000" stop="20131113140000">
+<title>Secrets Of Wild India: Desert Lions</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131113140000" stop="20131113150000">
+<title>America The Wild: Stalking The Mountain Lion</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131113150000" stop="20131113160000">
+<title>Blood River</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131113160000" stop="20131113170000">
+<title>Killer Shots: Great White Ambush</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131113170000" stop="20131113180000">
+<title>World&apos;s Weirdest: Freaks of The Sky</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131113180000" stop="20131113190000">
+<title>World&apos;s Deadliest Killer Three: Little Killers</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131113190000" stop="20131113200000">
+<title>Secret Life Of Predators: Exposed</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131113200000" stop="20131113210000">
+<title>Fish Tank Kings: Pimp My Tank</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131113210000" stop="20131113220000">
+<title>World&apos;s Deadliest Killer Three: Little Killers</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131113220000" stop="20131113230000">
+<title>Secret Life Of Predators: Exposed</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131113230000" stop="20131114000000">
+<title>My Life Is A Zoo: My Life Is A Zoo</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131114000000" stop="20131114010000">
+<title>World&apos;s Weirdest: Freaks of The Sky</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131114010000" stop="20131114020000">
+<title>World&apos;s Deadliest Killer Three: Little Killers</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131114020000" stop="20131114030000">
+<title>Secret Life Of Predators: Exposed</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131114030000" stop="20131114040000">
+<title>Fish Tank Kings: Pimp My Tank</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131114040000" stop="20131114050000">
+<title>Killer Shots: Great White Ambush</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131114050000" stop="20131114060000">
+<title>world&apos;s Deadliest Snakes</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131114060000" stop="20131114070000">
+<title>Expedition Wild: Project Kodiak</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131114070000" stop="20131114080000">
+<title>Blood River</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131114080000" stop="20131114090000">
+<title>World&apos;s Deadliest Killer Three: Little Killers</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131114090000" stop="20131114100000">
+<title>Secret Life Of Predators: Exposed</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131114100000" stop="20131114110000">
+<title>A Dog&apos;s Life</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131114110000" stop="20131114120000">
+<title>Expedition Wild: Inside The Wolf Pack</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131114120000" stop="20131114130000">
+<title>World&apos;s Deadliest: Jaws &amp; Sins: Seven Deadly Sins</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131114130000" stop="20131114140000">
+<title>World&apos;s Deadliest Killer Three: Little Killers</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131114140000" stop="20131114150000">
+<title>Secret Life Of Predators: Exposed</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131114150000" stop="20131114160000">
+<title>Croc Ganglands</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131114160000" stop="20131114170000">
+<title>Killer Shots: Lion Stalker</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131114170000" stop="20131114180000">
+<title>World&apos;s Weirdest: Strange Love</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131114180000" stop="20131114190000">
+<title>World&apos;s Weirdest: Animals Behaving Badly</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131114190000" stop="20131114200000">
+<title>Ultimate Animal Countdown: Smelliest</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131114200000" stop="20131114210000">
+<title>Fish Tank Kings: Card Sharks</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131114210000" stop="20131114220000">
+<title>World&apos;s Weirdest: Animals Behaving Badly</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131114220000" stop="20131114230000">
+<title>Ultimate Animal Countdown: Smelliest</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131114230000" stop="20131115000000">
+<title>A Dog&apos;s Life</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131115000000" stop="20131115010000">
+<title>World&apos;s Weirdest: Strange Love</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131115010000" stop="20131115020000">
+<title>World&apos;s Weirdest: Animals Behaving Badly</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131115020000" stop="20131115030000">
+<title>Ultimate Animal Countdown: Smelliest</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131115030000" stop="20131115040000">
+<title>Fish Tank Kings: Card Sharks</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131115040000" stop="20131115050000">
+<title>Killer Shots: Lion Stalker</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131115050000" stop="20131115060000">
+<title>Snake Underworld</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131115060000" stop="20131115070000">
+<title>Expedition Wild: Inside The Wolf Pack</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131115070000" stop="20131115080000">
+<title>Croc Ganglands</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131115080000" stop="20131115090000">
+<title>World&apos;s Weirdest: Animals Behaving Badly</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131115090000" stop="20131115100000">
+<title>Ultimate Animal Countdown: Smelliest</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131115100000" stop="20131115110000">
+<title>Brutal Killers</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131115110000" stop="20131115120000">
+<title>Expedition Wild: Yellowstone Winter</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131115120000" stop="20131115130000">
+<title>World&apos;s Deadliest: Jaws &amp; Sins: More Seven Deadly Sins</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131115130000" stop="20131115140000">
+<title>World&apos;s Weirdest: Animals Behaving Badly</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131115140000" stop="20131115150000">
+<title>Ultimate Animal Countdown: Smelliest</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131115150000" stop="20131115160000">
+<title>Crocodile King</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131115160000" stop="20131115170000">
+<title>Killer Shots: Tracking The Ghost Bear</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131115170000" stop="20131115180000">
+<title>World&apos;s Weirdest: Bizarre Battles</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131115180000" stop="20131115190000">
+<title>Fish Tank Kings: Desperate Housetanks</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131115190000" stop="20131115200000">
+<title>Monster Fish: Green Goliath</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131115200000" stop="20131115210000">
+<title>Fish Tank Kings: Finsanity</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131115210000" stop="20131115220000">
+<title>Fish Tank Kings: Desperate Housetanks</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131115220000" stop="20131115230000">
+<title>Monster Fish: Green Goliath</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131115230000" stop="20131116000000">
+<title>Brutal Killers</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131116000000" stop="20131116010000">
+<title>World&apos;s Weirdest: Bizarre Battles</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131116010000" stop="20131116020000">
+<title>Fish Tank Kings: Desperate Housetanks</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131116020000" stop="20131116030000">
+<title>Monster Fish: Green Goliath</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131116030000" stop="20131116040000">
+<title>Fish Tank Kings: Finsanity</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131116040000" stop="20131116050000">
+<title>Killer Shots: Tracking The Ghost Bear</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131116050000" stop="20131116060000">
+<title>Python Hunters: Snake Invasion</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131116060000" stop="20131116070000">
+<title>Expedition Wild: Yellowstone Winter</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131116070000" stop="20131116080000">
+<title>Crocodile King</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131116080000" stop="20131116083000">
+<title>Australia&apos;s Deadliest: Minutes To Kill</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131116083000" stop="20131116090000">
+<title>Australia&apos;s Deadliest: Sea Lion Attack</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131116090000" stop="20131116100000">
+<title>Secrets Of Wild India: Desert Lions</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131116100000" stop="20131116110000">
+<title>World&apos;s Weirdest: Animals Behaving Badly</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131116110000" stop="20131116120000">
+<title>Cesar Millan&apos;s Leader Of The Pack: A Friend for Amigo</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131116120000" stop="20131116130000">
+<title>Ultimate Animal Countdown: Lethal Weapons</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131116130000" stop="20131116140000">
+<title>Ultimate Animal Countdown: Venom</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131116140000" stop="20131116150000">
+<title>Ultimate Animal Countdown: Swarms</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131116150000" stop="20131116160000">
+<title>Ultimate Animal Countdown: Smelliest</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131116160000" stop="20131116170000">
+<title>Ultimate Animal Countdown: Fighters</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131116170000" stop="20131116180000">
+<title>Ultimate Animal Countdown: Sex</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131116180000" stop="20131116190000">
+<title>Cesar Millan&apos;s Leader Of The Pack: Once Bitten</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131116190000" stop="20131116200000">
+<title>The Incredible Dr Pol: The Cow Jumped Over The Moon</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131116200000" stop="20131116203000">
+<title>Australia&apos;s Deadliest: Minutes To Kill</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131116203000" stop="20131116210000">
+<title>Australia&apos;s Deadliest: Sea Lion Attack</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131116210000" stop="20131116220000">
+<title>Cesar Millan&apos;s Leader Of The Pack: Once Bitten</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131116220000" stop="20131116230000">
+<title>The Incredible Dr Pol: The Cow Jumped Over The Moon</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131116230000" stop="20131117000000">
+<title>Hunter Hunted: Danger In The Delta</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131117000000" stop="20131117010000">
+<title>Wild Case Files: Bird Apocalypse</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131117010000" stop="20131117020000">
+<title>Cesar Millan&apos;s Leader Of The Pack: Once Bitten</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131117020000" stop="20131117030000">
+<title>The Incredible Dr Pol: The Cow Jumped Over The Moon</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131117030000" stop="20131117033000">
+<title>Australia&apos;s Deadliest: Minutes To Kill</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131117033000" stop="20131117040000">
+<title>Australia&apos;s Deadliest: Sea Lion Attack</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131117040000" stop="20131117050000">
+<title>Hunter Hunted: Danger In The Delta</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+<programme channel="national-geographic-wild.doc" start="20131117050000" stop="20131117060000">
+<title>Cesar Millan&apos;s Leader Of The Pack: Once Bitten</title>
+<category>dokumentarni</category>
+<premiere />
+</programme>
+</tv>

@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tv source-data-url="http://tvprofil.net/xmltv/" source-info-name="Phazer XML servis 4.5" source-info-url="http://tvprofil.net">
+<channel id="dsf.sport">
+<display-name>Sport 1.de</display-name>
+<url>http://www.dsf.de</url>
+<icon src="http://phazer.info/img/kanali/dsf.jpg" />
+</channel>
+<programme channel="dsf.sport" start="20131113060000" stop="20131113070000">
+<title>Poker NBC Heads Up 2013, Folge 10</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131113070000" stop="20131113080000">
+<title>Poker NBC Heads Up 2013, Folge 11</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131113080000" stop="20131113083000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131113083000" stop="20131113113000">
+<title>Sport Quiz</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131113113000" stop="20131113120000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131113120000" stop="20131113130000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131113130000" stop="20131113133000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131113133000" stop="20131113140000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131113140000" stop="20131113143000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131113143000" stop="20131113151500">
+<title>Fantausch, 1. FC Kaiserslautern - FSV Frankfurt(4/ 5) Folge 4</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131113151500" stop="20131113160000">
+<title>Fantausch, 1. FC Kaiserslautern - FSV Frankfurt(5/ 5) Folge 5</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131113160000" stop="20131113163000">
+<title>Storage Wars - Die Geschäftemacher, Folge 64</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131113163000" stop="20131113170000">
+<title>Storage Wars - Die Geschäftemacher, Folge 65</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131113170000" stop="20131113173000">
+<title>Storage Wars - Die Geschäftemacher, Texas Folge 20</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131113173000" stop="20131113180000">
+<title>Storage Wars - Die Geschäftemacher, Texas Folge 21</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131113180000" stop="20131113183000">
+<title>Billy - Der Exterminator, Billy - Der Exterminator Folge 26</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131113183000" stop="20131113193000">
+<title>Bundesliga Aktuell</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131113193000" stop="20131113200000">
+<title>Laufband Quiz, Folge 54</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131113200000" stop="20131113231500">
+<title>Darts, Grand Slam of Darts 2013, 2. Runde</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131113231500" stop="20131114000000">
+<title>Wild Wanna Bees - Die Luder-WG, Wild Wanna Bees - Die Luder-WG Folge 29</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114000000" stop="20131114003000">
+<title>SPORT CLIPS, Sexy Alm - Girlfriends on Tour Folge 7</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114003000" stop="20131114004500">
+<title>SPORT CLIPS, Big Boobs Casting Folge 3</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114004500" stop="20131114010000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114010000" stop="20131114010500">
+<title>SPORT CLIPS, Lesbian Fantasies Folge 9</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114010500" stop="20131114012000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114012000" stop="20131114015000">
+<title>SPORT CLIPS, Sexy Massage Folge 9</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114015000" stop="20131114020000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114020000" stop="20131114020500">
+<title>SPORT CLIPS, Sexy Wii Sports Folge 2</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114020500" stop="20131114022000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114022000" stop="20131114030000">
+<title>SPORT CLIPS, SSC Cam Girls Folge 42</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114030000" stop="20131114030500">
+<title>SPORT CLIPS, Hot 5 - Die erotischsten Werbeclips der Welt Folge 6</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114030500" stop="20131114032000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114032000" stop="20131114032500">
+<title>SPORT CLIPS, Sexy Sport Games Folge 28</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114032500" stop="20131114033500">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114033500" stop="20131114040500">
+<title>SPORT CLIPS, Adventures Folge 5</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114040500" stop="20131114042000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114042000" stop="20131114042500">
+<title>SPORT CLIPS, Schneehasen Folge 10</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114042500" stop="20131114043500">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114043500" stop="20131114050000">
+<title>SPORT CLIPS, Real Life Folge 33</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114050000" stop="20131114053000">
+<title>SPORT CLIPS, Sexy Snowbunnies Folge 7</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114053000" stop="20131114060000">
+<title>SPORT CLIPS, Sexy Sport Clips WG 2013 Folge 5</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114060000" stop="20131114063000">
+<title>Billy - Der Exterminator, Billy - Der Exterminator Folge 20</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114063000" stop="20131114073000">
+<title>Poker NBC Heads Up 2013, Folge 12</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114073000" stop="20131114080000">
+<title>NORMAL, Folge 45</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114080000" stop="20131114083000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114083000" stop="20131114113000">
+<title>Sport Quiz</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114113000" stop="20131114120000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114120000" stop="20131114130000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114130000" stop="20131114133000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114133000" stop="20131114140000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114140000" stop="20131114143000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114143000" stop="20131114150000">
+<title>Storage Wars - Die Geschäftemacher, Folge 60</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114150000" stop="20131114153000">
+<title>Storage Wars - Die Geschäftemacher, Folge 61</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114153000" stop="20131114160000">
+<title>Storage Wars - Die Geschäftemacher, Folge 62</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114160000" stop="20131114163000">
+<title>Storage Wars - Die Geschäftemacher, Folge 66</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114163000" stop="20131114170000">
+<title>Storage Wars - Die Geschäftemacher, Folge 67</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114170000" stop="20131114173000">
+<title>Storage Wars - Die Geschäftemacher, Texas Folge 22</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114173000" stop="20131114183000">
+<title>Poker German High Roller Staffel 11, Folge 3</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114183000" stop="20131114185500">
+<title>Bundesliga Aktuell</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114185500" stop="20131114210000">
+<title>Basketball - Euroleague, Zalgiris Kaunas - Brose Baskets Bamberg, 5. Spieltag</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114210000" stop="20131114231500">
+<title>Darts, Grand Slam of Darts 2013, 2. Runde</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131114231500" stop="20131115000000">
+<title>Wild Wanna Bees - Die Luder-WG, Wild Wanna Bees - Die Luder-WG Folge 30</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115000000" stop="20131115003000">
+<title>SPORT CLIPS, Sexy Alm - Girlfriends on Tour Folge 8</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115003000" stop="20131115004500">
+<title>SPORT CLIPS, Big Boobs Casting Folge 4</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115004500" stop="20131115010000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115010000" stop="20131115010500">
+<title>SPORT CLIPS, Lesbian Fantasies Folge 10</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115010500" stop="20131115012000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115012000" stop="20131115015000">
+<title>SPORT CLIPS, Sexy Tattoo Folge 12</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115015000" stop="20131115020000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115020000" stop="20131115020500">
+<title>SPORT CLIPS, Sexy Wii Sports Folge 3</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115020500" stop="20131115022000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115022000" stop="20131115030000">
+<title>SPORT CLIPS, Sexy Junggesellenabschied Folge 5</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115030000" stop="20131115030500">
+<title>SPORT CLIPS, Hot 5 - Die erotischsten Werbeclips der Welt Folge 7</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115030500" stop="20131115032000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115032000" stop="20131115032500">
+<title>SPORT CLIPS, Sexy Sport Games Folge 29</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115032500" stop="20131115033500">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115033500" stop="20131115040500">
+<title>SPORT CLIPS, Sexy Webcam Girls Folge 7</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115040500" stop="20131115042000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115042000" stop="20131115042500">
+<title>SPORT CLIPS, Schneehasen Folge 11</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115042500" stop="20131115043500">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115043500" stop="20131115050000">
+<title>SPORT CLIPS, Sexy Neighbours Folge 12</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115050000" stop="20131115053000">
+<title>SPORT CLIPS, USA Spezial Girls gone Wild Folge 1</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115053000" stop="20131115060000">
+<title>SPORT CLIPS, Freche Mädels - Nice and Naughty Folge 1</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115060000" stop="20131115080000">
+<title>Poker German High Roller Staffel 11, Folge 1</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115080000" stop="20131115083000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115083000" stop="20131115113000">
+<title>Sport Quiz</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115113000" stop="20131115120000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115120000" stop="20131115130000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115130000" stop="20131115133000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115133000" stop="20131115140000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115140000" stop="20131115143000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115143000" stop="20131115150000">
+<title>Storage Wars - Die Geschäftemacher, Folge 63</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115150000" stop="20131115153000">
+<title>Storage Wars - Die Geschäftemacher, Folge 64</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115153000" stop="20131115160000">
+<title>Motorsport - FIA World Rally Championship, Highlights 1. Tag Rallye Großbritannien</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115160000" stop="20131115174500">
+<title>Motorsport - Formel 1 Training, 1. Freies Training GP USA in Austin</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115174500" stop="20131115183000">
+<title>Auftrag Auto, Kurzversion Folge 13</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115183000" stop="20131115192500">
+<title>Bundesliga Aktuell</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115192500" stop="20131115193000">
+<title>SPORT1GAMES, Folge 46</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115193000" stop="20131115200000">
+<title>Goooal! - Das internationale Fußball Magazin, Goooal! - Das internationale Fußball Magazin</title>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115200000" stop="20131115213500">
+<title>Motorsport - Formel 1 Training, 2. Freies Training GP USA in Austin</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115213500" stop="20131115235400">
+<title>Darts, Grand Slam of Darts 2013, Viertelfinale</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131115235400" stop="20131116004500">
+<title>Die Rene Schwuchow Show - 6 vor 12, Die Rene Schwuchow Show - 6 vor 12</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116004500" stop="20131116010000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116010000" stop="20131116010500">
+<title>SPORT CLIPS, Lesbian Fantasies Folge 11</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116010500" stop="20131116012000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116012000" stop="20131116015000">
+<title>SPORT CLIPS, Sexy Tattoo Folge 13</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116015000" stop="20131116020000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116020000" stop="20131116020500">
+<title>SPORT CLIPS, Sexy Wii Sports Folge 4</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116020500" stop="20131116022000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116022000" stop="20131116030000">
+<title>SPORT CLIPS, SSC Cam Girls Folge 43</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116030000" stop="20131116030500">
+<title>SPORT CLIPS, Ball Sport Folge 1</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116030500" stop="20131116032000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116032000" stop="20131116032500">
+<title>SPORT CLIPS, Chat Girls Folge 6</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116032500" stop="20131116033500">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116033500" stop="20131116040500">
+<title>SPORT CLIPS, Spy Cam Folge 14</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116040500" stop="20131116042000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116042000" stop="20131116042500">
+<title>SPORT CLIPS, Lesbian Fantasies Folge 5</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116042500" stop="20131116043500">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116043500" stop="20131116050000">
+<title>SPORT CLIPS, Nacktgymnastik Folge 31</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116050000" stop="20131116060000">
+<title>SPORT CLIPS, Sexy Snowbunnies Folge 5</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116060000" stop="20131116070000">
+<title>Die PS Profis - Mehr Power aus dem Pott, Die PS Profis - Mehr Power aus dem Pott Folge 48</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116070000" stop="20131116071500">
+<title>Repo Games - Der Kampf um´s Auto, Kurzversion Folge 1</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116071500" stop="20131116081500">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116081500" stop="20131116084500">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116084500" stop="20131116091500">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116091500" stop="20131116092000">
+<title>SPORT1GAMES, Folge 46</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116092000" stop="20131116093000">
+<title>Funny Breaks - Die lustigsten Werbeclips der Welt, Folge 19</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116093000" stop="20131116100000">
+<title>NORMAL, Folge 46</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116100000" stop="20131116110000">
+<title>Auftrag Auto, Folge 14</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116110000" stop="20131116120000">
+<title>Die PS Profis - Mehr Power aus dem Pott, Die PS Profis - Mehr Power aus dem Pott Folge 76</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116120000" stop="20131116121500">
+<title>Repo Games - Der Kampf um´s Auto, Kurzversion Folge 4</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116121500" stop="20131116124500">
+<title>Storage Wars - Die Geschäftemacher, Folge 65</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116124500" stop="20131116131500">
+<title>Storage Wars - Die Geschäftemacher, Texas Folge 16</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116131500" stop="20131116134500">
+<title>Storage Wars - Die Geschäftemacher, Texas Folge 17</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116134500" stop="20131116141500">
+<title>Storage Wars - Die Geschäftemacher, Texas Folge 18</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116141500" stop="20131116144000">
+<title>Storage Wars - Die Geschäftemacher, Texas Folge 19</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116144000" stop="20131116144500">
+<title>SPORT1GAMES, Folge 46</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116144500" stop="20131116151500">
+<title>Billy - Der Exterminator, Billy - Der Exterminator Folge 2</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116151500" stop="20131116154500">
+<title>Billy - Der Exterminator, Billy - Der Exterminator Folge 3</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116154500" stop="20131116161500">
+<title>Billy - Der Exterminator, Billy - Der Exterminator Folge 5</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116161500" stop="20131116170000">
+<title>Die PS Profis - Mehr Power aus dem Pott, Kurzversion Folge 74</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116170000" stop="20131116173000">
+<title>Motorsport - FIA World Rally Championship, Highlights 2. Tag Rallye Großbritannien</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116173000" stop="20131116180000">
+<title>Nitro Circus, Folge 12</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116180000" stop="20131116183000">
+<title>Nitro Circus, Folge 13</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116183000" stop="20131116190000">
+<title>Reiten Dressur, Highlights Reitturnier Oldenburg</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116190000" stop="20131116210000">
+<title>Basketball - Die Beko BBL, ALBA Berlin - ratiopharm ulm, 9. Spieltag</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131116210000" stop="20131117000000">
+<title>Darts, Grand Slam of Darts 2013, Viertelfinale</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131117000000" stop="20131117003000">
+<title>Motorsport - Formel 1 Qualifikation, Highlights GP USA in Austin</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131117003000" stop="20131117004500">
+<title>SPORT CLIPS, Lesbian Fantasies Folge 1</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131117004500" stop="20131117010000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131117010000" stop="20131117010500">
+<title>SPORT CLIPS, Schneehasen Folge 11</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131117010500" stop="20131117012000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131117012000" stop="20131117015000">
+<title>SPORT CLIPS, Big Boobs Casting Folge 1</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131117015000" stop="20131117020000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131117020000" stop="20131117020500">
+<title>SPORT CLIPS, German Spy Cam Folge 14</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131117020500" stop="20131117022000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131117022000" stop="20131117030000">
+<title>SPORT CLIPS, Sexy Polegirls Folge 5</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131117030000" stop="20131117030500">
+<title>SPORT CLIPS, Ball Sport Folge 2</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131117030500" stop="20131117032000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131117032000" stop="20131117032500">
+<title>SPORT CLIPS, Chat Girls Folge 7</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131117032500" stop="20131117033500">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131117033500" stop="20131117040500">
+<title>SPORT CLIPS, Spy Cam Folge 15</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131117040500" stop="20131117042000">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131117042000" stop="20131117042500">
+<title>SPORT CLIPS, Lesbian Fantasies Folge 6</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131117042500" stop="20131117043500">
+<title>Teleshopping</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="dsf.sport" start="20131117043500" stop="20131117063500">
+<title>SPORT CLIPS, Nacktgymnastik Folge 32</title>
+<category>sport</category>
+<premiere />
+</programme>
+</tv>

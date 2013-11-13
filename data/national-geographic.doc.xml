@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tv source-data-url="http://tvprofil.net/xmltv/" source-info-name="Phazer XML servis 4.5" source-info-url="http://tvprofil.net">
+<channel id="national-geographic.doc">
+<display-name>National Geo.</display-name>
+<url>http://www.nationalgeographic.co.uk</url>
+<icon src="http://phazer.info/img/kanali/national_geographic.jpg" />
+</channel>
+<programme channel="national-geographic.doc" start="20131112060000" stop="20131112062000">
+<title>Zagonetni dosjei</title>
+<desc>Unatoč navodnom pogubljenju 1918. ostaju sumnje u vezi s djecom cara Nikole II. Može li novootkriveno groblje ponuditi ključ zagonetke?</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131112062000" stop="20131112064500">
+<title>Priče o olujama</title>
+<desc>Do kalifornijskog grada Oaklanda stigla je oluja iz zaljeva Aljaske. U Sierra National Forest-u, Frank Horath, njegov šogor i njihova dva sina zameteni su u snijegu i moraju čekati spas.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131112064500" stop="20131112071000">
+<title>Napušteno</title>
+<desc>Ekipa traži skriveno blago u napuštenom hotelu Hot Springs, poznatom po tome što su ondje odsjeli Babe Ruth i Al Capone.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131112071000" stop="20131112080500">
+<title>AUTO SOS</title>
+<desc>Tim i Fuzz putuju zemljom u potrazi za autima koji su vidjeli bolje dane i vlasnicima koji trebaju pomoć u njihovoj restauraciji.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131112080500" stop="20131112090000">
+<title>Vitezovi kaosa</title>
+<desc>Viteški turnir prvi se put održava u Las Vegasu i privlači pozornost vitezova veterana izvan skupine Vitezova Mayhema.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131112090000" stop="20131112095500">
+<title>Upoznajte poligamiste</title>
+<desc>Mladi Centennial Parka odrastaju i pripremaju se za sljedeći veliki korak u životu: brak.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131112095500" stop="20131112102500">
+<title>Licitiraj i uništi</title>
+<desc>Ekipa odlazi rušiti tvornicu papira, ali ona ima toranj koji moraju srušiti, a da ne padne na susjedne zgrade, ili na članove ekipe.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131112102500" stop="20131112105000">
+<title>Kopači</title>
+<desc>KG i Ringy odlaze na plaže u blizini Charlestona u Južnoj Karolini, kako bi vidjeli koja je blaga otkrio uragan.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131112105000" stop="20131112115000">
+<title>Zakulisni svijet nacist</title>
+<desc>Feldmaršal Erwin Rommel bio je jedan od najbližih Hitlerovih suradnika, no poslije se okrenuo protiv njega. Je li zato natjeran na samoubojstvo?</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131112115000" stop="20131112121500">
+<title>Neuništivi</title>
+<desc>Iskusni izvjestitelj iz helikoptera Andrew Torres priča kako je dospio na naslovnice kad se njegov helikopter srušio nad New Yorkom 2004.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131112121500" stop="20131112131500">
+<title>Megatvornice</title>
+<desc>Slavan je po kombiniranju povoljne cijene i dopadljivog dizajna, saznajte kako Maseratijevi inženjeri održavaju standarde unatoč niskim cijenama.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131112131500" stop="20131112134000">
+<title>Kronike iz divljine</title>
+<desc>Otkrijte kako rastuće temperature i klimatske promjene uzrokuju dodatne prijetnje pingvinima na Antarktiku. Uz to, svjedočite čudesnom preživljavanju životinja u pustinji Sonoran.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131112134000" stop="20131112143500">
+<title>Šaptač psima</title>
+<desc>Nate Brouwer i Charnae Wright povezala je zajednička ljubav prema psima i prirodi. No njihovi svadljivi psi prijete im komadanjem.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131112143500" stop="20131112150500">
+<title>Kopači</title>
+<desc>Dvojac odlazi kopati na logorišta iz Građanskog rata u Virginiji: sjajna mjesta na kojima se mogu naći i sjevernjački i južnjački artefakti.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131112150500" stop="20131112160500">
+<title>Zakulisni svijet nacista</title>
+<desc>Otkrivamo zagonetku i intrigu koja okružuje život Hitlerova bivšeg zamjenika Rudolpha Hessa i istražujemo što je doista uzrokovalo njegovu smrt.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131112160500" stop="20131112170000">
+<title>Neukroćena Amerika</title>
+<desc>Istražite skrivena blaga američkih pustinja, od prirodnih spomenika koje je oblikovao vjetar do priča o epskoj istrajnosti.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131112170000" stop="20131112180000">
+<title>Američka kolonija: Upoznajte Huterite</title>
+<desc>Bertha i Rita ne smiju raditi, odlaziti u crkvu niti jesti s ostalima zato što njihovi sinovi pohađaju državnu srednju školu i bave se sportom.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131112180000" stop="20131112190000">
+<title>Aerodrom u Dubaiju</title>
+<desc>Više od milijun putnika prolazi kroz međunarodni aerodrom u Dubaiju svaki tjedan. Upoznajte ljude iza scene koji se brinu da sve prođe glatko.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131112190000" stop="20131112200000">
+<title>Tabu u SAD-u</title>
+<desc>Više od trećine Amerikanaca je gojazno. Posjećujemo noćni klub za debele u L.A.-u i upoznajemo ženu iz Colorada koja zarađuje na svojoj težini.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131112200000" stop="20131112205500">
+<title>Upoznajte poligamiste</title>
+<desc>Zajednica Centennial Park pokušava pomoći Rose Marie da nađe muža. Hyrum počinje stanovati sa svojom mladenkom, a Ezra traži posao.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131112205500" stop="20131112215500">
+<title>Tabu u SAD-u</title>
+<desc>Koliko biste daleko išli u potrazi za vječnom mladošću? Upoznajte njujorškog gurua, ovisnika o operacijama i čovjeka opsjednutog izgledom.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131112215500" stop="20131112230000">
+<title>Pripreme za Sudnji dan</title>
+<desc>Upoznajte dvije obitelji iz Teksasa koje moaju udružiti snage kako bi se pripremile za smak svijeta, unatoč tome što žive udaljeni 500 km.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131112230000" stop="20131113000000">
+<title>Kanadska paklena autocesta</title>
+<desc>Jamie se premišlja je li dobro postupio kad je poveo svoga sina Brandona. Za to vrijeme, Kevin napušta posao.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113000000" stop="20131113005500">
+<title>Tabu u SAD-u</title>
+<desc>Koliko biste daleko išli u potrazi za vječnom mladošću? Upoznajte njujorškog gurua, ovisnika o operacijama i čovjeka opsjednutog izgledom.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113005500" stop="20131113015500">
+<title>Pripreme za Sudnji dan</title>
+<desc>Upoznajte dvije obitelji iz Teksasa koje moaju udružiti snage kako bi se pripremile za smak svijeta, unatoč tome što žive udaljeni 500 km.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113015500" stop="20131113024500">
+<title>Kanadska paklena autocesta</title>
+<desc>Jamie se premišlja je li dobro postupio kad je poveo svoga sina Brandona. Za to vrijeme, Kevin napušta posao.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113024500" stop="20131113031000">
+<title>Priče o olujama</title>
+<desc>Do kalifornijskog grada Oaklanda stigla je oluja iz zaljeva Aljaske. U Sierra National Forest-u, Frank Horath, njegov šogor i njihova dva sina zameteni su u snijegu i moraju čekati spas.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113031000" stop="20131113033500">
+<title>Napušteno</title>
+<desc>Ekipa traži skriveno blago u napuštenom hotelu Hot Springs, poznatom po tome što su ondje odsjeli Babe Ruth i Al Capone.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113033500" stop="20131113040000">
+<title>Kopači</title>
+<desc>KG i Ringy odlaze na plaže u blizini Charlestona u Južnoj Karolini, kako bi vidjeli koja je blaga otkrio uragan.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113040000" stop="20131113042500">
+<title>Kronike iz divljine</title>
+<desc>Otkrijte kako rastuće temperature i klimatske promjene uzrokuju dodatne prijetnje pingvinima na Antarktiku. Uz to, svjedočite čudesnom preživljavanju životinja u pustinji Sonoran.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113042500" stop="20131113044500">
+<title>Priče o olujama</title>
+<desc>Do kalifornijskog grada Oaklanda stigla je oluja iz zaljeva Aljaske. U Sierra National Forest-u, Frank Horath, njegov šogor i njihova dva sina zameteni su u snijegu i moraju čekati spas.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113044500" stop="20131113051000">
+<title>Napušteno</title>
+<desc>Ekipa traži skriveno blago u napuštenom hotelu Hot Springs, poznatom po tome što su ondje odsjeli Babe Ruth i Al Capone.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113051000" stop="20131113053500">
+<title>Kopači</title>
+<desc>KG i Ringy odlaze na plaže u blizini Charlestona u Južnoj Karolini, kako bi vidjeli koja je blaga otkrio uragan.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113053500" stop="20131113060000">
+<title>Kronike iz divljine</title>
+<desc>Otkrijte kako rastuće temperature i klimatske promjene uzrokuju dodatne prijetnje pingvinima na Antarktiku. Uz to, svjedočite čudesnom preživljavanju životinja u pustinji Sonoran.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113060000" stop="20131113062000">
+<title>Zagonetni dosjei</title>
+<desc>Napredni balistički dokazi pokušavaju riješiti jednu od najvećih zagonetki 20. stoljeća: tko je ubio samozvanog mistika Grigorija Raspućina?</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113062000" stop="20131113064500">
+<title>Priče o olujama</title>
+<desc>Dana 10. listopada 2004., Međunarodna svetkovina balona u Albuquerqueu odjednom je zaustavljena. Snažan vjetar otpuhao je balon na topli zrak na radijski toranj visine 230 metara.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113064500" stop="20131113071000">
+<title>Napušteno</title>
+<desc>Ekipa dobiva pristup cijeloj tvornici mramora, gdje vlasnici potiču Jaya da pronađe skriveno sklonište u podrumu.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113071000" stop="20131113080500">
+<title>Aerodrom u Dubaiju</title>
+<desc>Novi je aerodrom na testu. Može li primiti 15 milijuna putnika i 33 moćna zrakoplova Airbus A380s vrijedna 389 milijuna dolara?</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113080500" stop="20131113090000">
+<title>Čovjek majmun</title>
+<desc>Istražite zapanjujuće sličnosti između majmuna i ljudi i otkrijte primitivne nagone koji pokreću natjecateljsko ponašanje kod jednih i drugih.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113090000" stop="20131113092500">
+<title>Brain Games</title>
+<desc>Otkrijte zašto ne treba uvijek vjerovati svojim očima kroz niz optičkih iluzija i igara koje testiraju kako naš um vidi svijet.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113092500" stop="20131113095500">
+<title>Brain Games</title>
+<desc>Otkrivamo znanost iza moći uvjeravanja te svakodnevne trikove i tehnike kojima se utječe na odluke koje donosite.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113095500" stop="20131113102500">
+<title>Licitiraj i uništi</title>
+<desc>Brian i Lee pobijede na natječaju za rušenje napuštenog pansiona. No rušenje je spriječeno kad u podrumu otkriju spremnike za naftu.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113102500" stop="20131113105000">
+<title>Kopači</title>
+<desc>KG i Ringy odlaze u kanjon Snake River u Idahu u nadi da će susresti svoga junaka, Evela Knievela, na mjestu njegove najslavnije vratolomije.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113105000" stop="20131113115000">
+<title>Zakulisni svijet nacist</title>
+<desc>Hilterova veza s Evom Braun poznata je, no ona nije bila njegova jedina obožavateljica. Upoznajte druge žene koje su se zaljubile u Führera.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113115000" stop="20131113121500">
+<title>Neuništivi</title>
+<desc>Unatoč četverotjednoj komi Scott Tegtmeyer je nekako preživio to što se našao u sendviču između dvaju automobila, potpuno zbunivši stručnjake.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113121500" stop="20131113131500">
+<title>Megatvornice</title>
+<desc>Poznat je kao klasik od nastanka prije više od 50 godina, pogledajte izuzetnu novu verziju automobila Mercedes Benz 1954. 300SL Gullwing.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113131500" stop="20131113134000">
+<title>Kronike iz divljine</title>
+<desc>U arktičkim vodama otoka Svalbard, bradati tuljani i polarni medvjedi suočavaju se s novim, neviđenim neprijateljem. Istovremeno otkrijte nove vrste na Madagaskaru, koje se ne mogu naći drugdije.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113134000" stop="20131113143500">
+<title>Šaptač psima</title>
+<desc>Viper je trenirana da locira mobitele prokrijumčarene zatvorenicima u zatvoru. No Viperin strah od ljudi sprječava je u obavljanju toga posla!</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113143500" stop="20131113150500">
+<title>Kopači</title>
+<desc>KG i Ringy odlaze u planinu Blair u Zapadnoj Virginiji, gdje pomažu arheologu u potrazi za mitraljeskim gnijezdom iz doba Građanskog rata.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113150500" stop="20131113160500">
+<title>Zakulisni svijet nacista</title>
+<desc>Otkrijte dosad nepoznatu Hitlerovu stranu kroz njegov zdravstveni karton, uključujući medicinske procjene i izvješće o zloporabi kokaina.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113160500" stop="20131113170000">
+<title>Neukroćena Amerika</title>
+<desc>Od tropskih kišnih šuma Amazonije do borealnih šuma na dalekom sjeveru, pogledajte najveću raznolikost šuma na svijetu.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113170000" stop="20131113180000">
+<title>Američka kolonija: Upoznajte Huterite</title>
+<desc>Kad im dosadi biti u koloniji, Claudia i Lisa odluče organizirati odlazak na vjenčanje Melvinove sestrične u Kanadi.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113180000" stop="20131113190000">
+<title>Aerodrom u Dubaiju</title>
+<desc>Službenik Khalil mora pomoći obitelji koja je zalutala na terminalu, dok kontrolor Nargis mora maknuti tovar mesa s pustinjske vrućine.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113190000" stop="20131113205500">
+<title>Čovjek majmun</title>
+<desc>Cijela ljudska privlačnost ima korijene u svijetu majmuna. Otkrijte koliko su rituali udvaranja i parenja zapravo slični.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113205500" stop="20131113230000">
+<title>Čovjek majmun</title>
+<desc>Istražite želju kod majmuna i kod ljudi da ih prihvate oni oko njih, kao i slične taktike kojima se i jedni i drugi služe kako bi to postigli.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131113230000" stop="20131114000000">
+<title>Kanadska paklena autocesta</title>
+<desc>Novi vozač Rob sporo uči i odsutan je tijekom mećave, pa izbaci Jamieja iz takta. Posao zaplijene pruža mu posljednju priliku da se dokaže.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114000000" stop="20131114015500">
+<title>Čovjek majmun</title>
+<desc>Istražite želju kod majmuna i kod ljudi da ih prihvate oni oko njih, kao i slične taktike kojima se i jedni i drugi služe kako bi to postigli.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114015500" stop="20131114024500">
+<title>Kanadska paklena autocesta</title>
+<desc>Novi vozač Rob sporo uči i odsutan je tijekom mećave, pa izbaci Jamieja iz takta. Posao zaplijene pruža mu posljednju priliku da se dokaže.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114024500" stop="20131114031000">
+<title>Priče o olujama</title>
+<desc>Dana 10. listopada 2004., Međunarodna svetkovina balona u Albuquerqueu odjednom je zaustavljena. Snažan vjetar otpuhao je balon na topli zrak na radijski toranj visine 230 metara.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114031000" stop="20131114033500">
+<title>Napušteno</title>
+<desc>Ekipa dobiva pristup cijeloj tvornici mramora, gdje vlasnici potiču Jaya da pronađe skriveno sklonište u podrumu.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114033500" stop="20131114040000">
+<title>Kopači</title>
+<desc>KG i Ringy odlaze u kanjon Snake River u Idahu u nadi da će susresti svoga junaka, Evela Knievela, na mjestu njegove najslavnije vratolomije.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114040000" stop="20131114042500">
+<title>Kronike iz divljine</title>
+<desc>U arktičkim vodama otoka Svalbard, bradati tuljani i polarni medvjedi suočavaju se s novim, neviđenim neprijateljem. Istovremeno otkrijte nove vrste na Madagaskaru, koje se ne mogu naći drugdije.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114042500" stop="20131114044500">
+<title>Priče o olujama</title>
+<desc>Dana 10. listopada 2004., Međunarodna svetkovina balona u Albuquerqueu odjednom je zaustavljena. Snažan vjetar otpuhao je balon na topli zrak na radijski toranj visine 230 metara.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114044500" stop="20131114051000">
+<title>Napušteno</title>
+<desc>Ekipa dobiva pristup cijeloj tvornici mramora, gdje vlasnici potiču Jaya da pronađe skriveno sklonište u podrumu.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114051000" stop="20131114053500">
+<title>Kopači</title>
+<desc>KG i Ringy odlaze u kanjon Snake River u Idahu u nadi da će susresti svoga junaka, Evela Knievela, na mjestu njegove najslavnije vratolomije.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114053500" stop="20131114060000">
+<title>Kronike iz divljine</title>
+<desc>U arktičkim vodama otoka Svalbard, bradati tuljani i polarni medvjedi suočavaju se s novim, neviđenim neprijateljem. Istovremeno otkrijte nove vrste na Madagaskaru, koje se ne mogu naći drugdije.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114060000" stop="20131114062000">
+<title>Zagonetni dosjei</title>
+<desc>Nadahnuta Božjim glasom, mlada Ivana Orleanska prkosila je Englezima 1420-ih godina. Preispitujemo njezin čudesan život.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114062000" stop="20131114064500">
+<title>Priče o olujama</title>
+<desc>Tornada s munjama, divlji brzaci, pakli, uragani, zasljepljujuće mećave i vodeni zidovi: bijes Majke prirode viđen kroz oči onih koji su preživjeli ekstremne vremenske uvjete i njihovih herojskih spasitelja.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114064500" stop="20131114071000">
+<title>Napušteno</title>
+<desc>Ekipa istražuje napuštenu tvornicu čipke i otkriva skrivene tajne, među kojima i kuglanu.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114071000" stop="20131114080500">
+<title>Aerodrom u Dubaiju</title>
+<desc>Građevinska ekipa iza novog aerodroma osjeća uzbuđenje dok više od 200 dobrovoljaca provjerava je li spreman za javnu uporabu.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114080500" stop="20131114090000">
+<title>Preživljavanje na Aljasci</title>
+<desc>Istraživači odlaze na otok Admiralty, dom jedne od najgušće naseljenih populacija mrkih medvjeda u Sjevernoj Americi.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114090000" stop="20131114095500">
+<title>Vinnie Jones: Najžilaviji Rusi</title>
+<desc>Vinnie se pridružuje građevinarima koji grade most preko zaljeva Zlatni rog i zajedno s njima radi na njegovu dovršetku.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114095500" stop="20131114102500">
+<title>Licitiraj i uništi</title>
+<desc>Brian i Lee odlaze u napuštenu kuću vrlo neobične vibre. Nakon strave u podrumu, ekipa ostaje u strahu.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114102500" stop="20131114105000">
+<title>Kopači</title>
+<desc>Dečki se vraćaju u prošlost kad odlaze u Chesterfield u Idahu i otkrivaju san svakog kopača: netaknuti grad duhova.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114105000" stop="20131114115000">
+<title>Zakulisni svijet nacist</title>
+<desc>Šokantna priča o tome kako je Albert Speer uspio sebe prikazati kao &quot;dobrog nacista&quot; nakon rata i tako profitirati.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114115000" stop="20131114121500">
+<title>Neuništivi</title>
+<desc>Pogledajte kako vam život proleti pred očima u ovim pričama o čudesnim preživljavanjima dok prikazujemo snimke istinski zapanjujućih nesreća.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114121500" stop="20131114131500">
+<title>Megatvornice</title>
+<desc>Pratite ciklus slavnog viskija od polja kukuruza do punionice, sve to u malenom gradiću Lynchburgu u Tennesseeju.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114131500" stop="20131114134000">
+<title>Kronike iz divljine</title>
+<desc>U Republici Centralnoj Africi slonovi se okupljaju u velikom broju, no što ih privlači na ovo zagonetno mjesto? Uz to, istražite nestanak slonovskih tuljana nedaleko od kalifornijske obale.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114134000" stop="20131114143500">
+<title>Šaptač psima</title>
+<desc>Psić Diego sve je agresivniji prema drugim psima dok Berkeley odbija ući u svoju putnu košaru. Može li Cesar pomoći?</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114143500" stop="20131114150500">
+<title>Kopači</title>
+<desc>Dečki odlaze u Kentucky posjetiti poprište jedne od najzloglasnijih zavada u američkoj povijesti: zavade Hatfiledovih i McCoyevih.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114150500" stop="20131114160500">
+<title>Zakulisni svijet nacista</title>
+<desc>Što se doista dogodilo njemačkoj podmornici U-513 kad je potonula 1943.? Otkrivamo zagonetke koje okružuju njezino posljednje počivalište.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114160500" stop="20131114170000">
+<title>Nepoznate dubine s Bobom Ballardom</title>
+<desc>Bob Ballard odlazi na podvodnu odiseju na Mauna Kea na Havajima koji se uzdiže 4000 m nad morem i pruža 6000 m u dubinu.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114170000" stop="20131114180000">
+<title>Američka kolonija: Upoznajte Huterite</title>
+<desc>Claudia riskira kaznu kad odluči raditi s muškarcima i prihvatiti se niza fizički zahtjevnih i katkad odvratnih poslova.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114180000" stop="20131114190000">
+<title>Aerodrom u Dubaiju</title>
+<desc>David Robson mora pozdraviti neke temperamentne VIP putnike, a dispečer Nizel ima problem kad nestane novi A380.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114190000" stop="20131114200000">
+<title>Preživljavanje na Aljasci</title>
+<desc>Na posljednjoj etapi putovanja dugog 5000 km, istraživači se moraju popeti na golemu planinu stijena i leda na ledenjaku Juneau.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114200000" stop="20131114205500">
+<title>Vinnie Jones: Najžilaviji Rusi</title>
+<desc>Vinnie radi i s američkim i s ruskim kaubojima dok pokušava zaslužiti svoje mamuze na ruski način. Može li se nositi s najžilavijim Rusima?</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114205500" stop="20131114215500">
+<title>Zatočeni u inozemstvu</title>
+<desc>Vivian Carrasquillo čekala je glad u zatvoru nakon što joj je propao pokušaj da skupi novac za ugradnju želučane premosnice krijumčarenjem droge.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114215500" stop="20131114230000">
+<title>Zatočeni u inozemstvu</title>
+<desc>Otkrijte istinitu priču iza dobitnika Oscara, filma &quot;Argo&quot;, i Mendezova odvažnog plana da spasi šestero diplomata tijekom iranske talačke krize.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131114230000" stop="20131115000000">
+<title>Kanadska paklena autocesta</title>
+<desc>Jamie i Al bore se za naslov &quot;Kralja Coqa&quot;. Jamiejev novi vozač saznaje da mu je najbolji prijatelj zamalo poginuo prilikom tegljenje.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115000000" stop="20131115005500">
+<title>Zatočeni u inozemstvu</title>
+<desc>Vivian Carrasquillo čekala je glad u zatvoru nakon što joj je propao pokušaj da skupi novac za ugradnju želučane premosnice krijumčarenjem droge.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115005500" stop="20131115015500">
+<title>Zatočeni u inozemstvu</title>
+<desc>Otkrijte istinitu priču iza dobitnika Oscara, filma &quot;Argo&quot;, i Mendezova odvažnog plana da spasi šestero diplomata tijekom iranske talačke krize.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115015500" stop="20131115024500">
+<title>Kanadska paklena autocesta</title>
+<desc>Jamie i Al bore se za naslov &quot;Kralja Coqa&quot;. Jamiejev novi vozač saznaje da mu je najbolji prijatelj zamalo poginuo prilikom tegljenje.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115024500" stop="20131115031000">
+<title>Priče o olujama</title>
+<desc>Tornada s munjama, divlji brzaci, pakli, uragani, zasljepljujuće mećave i vodeni zidovi: bijes Majke prirode viđen kroz oči onih koji su preživjeli ekstremne vremenske uvjete i njihovih herojskih spasitelja.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115031000" stop="20131115033500">
+<title>Napušteno</title>
+<desc>Ekipa istražuje napuštenu tvornicu čipke i otkriva skrivene tajne, među kojima i kuglanu.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115033500" stop="20131115040000">
+<title>Kopači</title>
+<desc>Dečki se vraćaju u prošlost kad odlaze u Chesterfield u Idahu i otkrivaju san svakog kopača: netaknuti grad duhova.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115040000" stop="20131115042500">
+<title>Kronike iz divljine</title>
+<desc>U Republici Centralnoj Africi slonovi se okupljaju u velikom broju, no što ih privlači na ovo zagonetno mjesto? Uz to, istražite nestanak slonovskih tuljana nedaleko od kalifornijske obale.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115042500" stop="20131115044500">
+<title>Priče o olujama</title>
+<desc>Tornada s munjama, divlji brzaci, pakli, uragani, zasljepljujuće mećave i vodeni zidovi: bijes Majke prirode viđen kroz oči onih koji su preživjeli ekstremne vremenske uvjete i njihovih herojskih spasitelja.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115044500" stop="20131115051000">
+<title>Napušteno</title>
+<desc>Ekipa istražuje napuštenu tvornicu čipke i otkriva skrivene tajne, među kojima i kuglanu.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115051000" stop="20131115053500">
+<title>Kopači</title>
+<desc>Dečki se vraćaju u prošlost kad odlaze u Chesterfield u Idahu i otkrivaju san svakog kopača: netaknuti grad duhova.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115053500" stop="20131115060000">
+<title>Kronike iz divljine</title>
+<desc>U Republici Centralnoj Africi slonovi se okupljaju u velikom broju, no što ih privlači na ovo zagonetno mjesto? Uz to, istražite nestanak slonovskih tuljana nedaleko od kalifornijske obale.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115060000" stop="20131115062000">
+<title>Zagonetni dosjei</title>
+<desc>Legenda o Nostradamusu rasla je tijekom vremena. Je li astrolog iz 16. stoljeća stvarno mogao predvidjeti budućnosti ili je bio običan šarlatan?</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115062000" stop="20131115064500">
+<title>Priče o olujama</title>
+<desc>Tornada s munjama, divlji brzaci, pakli, uragani, zasljepljujuće mećave i vodeni zidovi: bijes Majke prirode viđen kroz oči onih koji su preživjeli ekstremne vremenske uvjete i njihovih herojskih spasitelja.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115064500" stop="20131115071000">
+<title>Licitiraj i uništi</title>
+<desc>Brian, Lee i ekipa za rušenje Danley pobijedila je na natječaju za rušenje kuće na jezeru, no Lee je zabrinut da će na tome poslu izgubiti novac.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115071000" stop="20131115080500">
+<title>Aerodrom u Dubaiju</title>
+<desc>Pritisak raste kad nestanu motori, teret i građevinski materijali, što dovodi gotovo prepuni aerodrom do kritične točke.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115080500" stop="20131115090000">
+<title>Braća po bojištu</title>
+<desc>Samo nekoliko dana nakon početka misije, četa Golf mora zauzeti kompleks narkobosa, gdje ih čekaju improvizirane eksplozivne naprave.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115090000" stop="20131115095500">
+<title>SAD na tajnom zadatku</title>
+<desc>Novinari Mariana i Darren proučavaju američku kulturu oružja kako bi razotkrili rupe u zakonu koje omogućavaju da oružje dospije u pogrešne ruke.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115095500" stop="20131115102500">
+<title>Licitiraj i uništi</title>
+<desc>Brian i Lee prihvaćaju posao od Leejeve prijatelja Dana, no čini se da je sve iz kuće već odnešeno. Je li išta ostalo?</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115102500" stop="20131115105000">
+<title>Kopači</title>
+<desc>Dečki odlaze u davno zaboravljen konjički logor, gdje KG nabasa na nešto što bi lako moglo biti otkriće života.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115105000" stop="20131115115000">
+<title>Zakulisni svijet nacist</title>
+<desc>Otkrijte kako je slika Hitlera kao narodnog čovjeka prikrivala raskošan život koji su financirale porezne prijevare i sumnjivi sponzori.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115115000" stop="20131115121500">
+<title>Neuništivi</title>
+<desc>Francuskom kaskaderu Ericu &quot;Crvenom barunu&quot; Baroneu opasnost nije nepoznata. Saznajte kako je preživio sudar pri brzini od 170 km/h.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115121500" stop="20131115131500">
+<title>Megatvornice</title>
+<desc>Unatoč motoru od 600 konjskih snaga i astronomskoj cijeni, Dodge Viper izrađuje se isključivo ručno. Upoznajte majstore koji ga stvaraju.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115131500" stop="20131115134000">
+<title>Majmuni lopovi</title>
+<desc>Unutar jaipurske bande iz Galte dolazi do trvenja jer zbog propadanja gospodarstva hrane u hramu ima sve manje.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115134000" stop="20131115143500">
+<title>Šaptač psima</title>
+<desc>Glumica Rhona Mitra bori se sa svojim agresivnim psom dok Lisa i Paul mole Cesara da im njihova plaha psića pomogne osloboditi straha.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115143500" stop="20131115150500">
+<title>Kopači</title>
+<desc>Dečki odlaze u Pennsylvaniju, gdje su se postrojbe Georgea Washingtona borile protiv farmera koji su prosvjedovali zbog novog poreza.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115150500" stop="20131115160500">
+<title>Zakulisni svijet nacista</title>
+<desc>Istražite istinu iza mita da su pripadnici nacističkog režima skrili svoje neizmjerno bogatstvo u zagonetnu utvrdu u Alpama.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115160500" stop="20131115170000">
+<title>Nepoznate dubine s Bobom Ballardom</title>
+<desc>Uz pomoć tehnologije razvijene tijekom 50-godišnje pomorske karijere, Bob Ballard traži najstarije brodske olupine na svijetu u Sredozemnom moru.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115170000" stop="20131115180000">
+<title>Američka kolonija: Upoznajte Huterite</title>
+<desc>Carverova je ćud jača od njega pa je suspendiran iz škole zato što se potukao. Claudia se odluči zaposliti izvan kolonije.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115180000" stop="20131115190000">
+<title>Aerodrom u Dubaiju</title>
+<desc>Odjel putnika mora se nositi sa skupinom zalutalih turista, a nestali putnik dovodi u opasnost avion koji mora stići u Sidney prije zatvaranja.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115190000" stop="20131115200000">
+<title>Braća po bojištu</title>
+<desc>Kad bukne najveća oružana bitka njihove operacije, satnik Ben Middendorf ima priliku zauzeti obližnji talibanski zapovjedni centar.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115200000" stop="20131115205500">
+<title>SAD na tajnom zadatku</title>
+<desc>Mariana i Darren istražuju ludilo za sintetičom drogom u Americi i ulaze u svijet ovisnika kako bi otkrili zašto je ta nova droga tako privlačna.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115205500" stop="20131115215500">
+<title>Braća po bojištu</title>
+<desc>Četrnaest dana od početka naporne misije, četa Golf suočava se s izazovom da ostane prisebna i ne podlegne iscrpljenosti.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115215500" stop="20131115230000">
+<title>SAD na tajnom zadatku</title>
+<desc>Novinari Mariana i Darren odlaze na neka od naukletijih mjesta u zemlji i istražuju opsjednutost Amerike paranormalnim.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131115230000" stop="20131116000000">
+<title>Kanadska paklena autocesta</title>
+<desc>Jamiejeva ekipa pozvana je na Coq, gdje ima toliko snijega da su pozvani helikopteri da ga raščiste bombama.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116000000" stop="20131116005500">
+<title>Braća po bojištu</title>
+<desc>Četrnaest dana od početka naporne misije, četa Golf suočava se s izazovom da ostane prisebna i ne podlegne iscrpljenosti.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116005500" stop="20131116015500">
+<title>SAD na tajnom zadatku</title>
+<desc>Novinari Mariana i Darren odlaze na neka od naukletijih mjesta u zemlji i istražuju opsjednutost Amerike paranormalnim.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116015500" stop="20131116024500">
+<title>Kanadska paklena autocesta</title>
+<desc>Jamiejeva ekipa pozvana je na Coq, gdje ima toliko snijega da su pozvani helikopteri da ga raščiste bombama.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116024500" stop="20131116031000">
+<title>Priče o olujama</title>
+<desc>Tornada s munjama, divlji brzaci, pakli, uragani, zasljepljujuće mećave i vodeni zidovi: bijes Majke prirode viđen kroz oči onih koji su preživjeli ekstremne vremenske uvjete i njihovih herojskih spasitelja.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116031000" stop="20131116033500">
+<title>Licitiraj i uništi</title>
+<desc>Brian, Lee i ekipa za rušenje Danley pobijedila je na natječaju za rušenje kuće na jezeru, no Lee je zabrinut da će na tome poslu izgubiti novac.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116033500" stop="20131116040000">
+<title>Kopači</title>
+<desc>Dečki odlaze u davno zaboravljen konjički logor, gdje KG nabasa na nešto što bi lako moglo biti otkriće života.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116040000" stop="20131116042500">
+<title>Majmuni lopovi</title>
+<desc>Unutar jaipurske bande iz Galte dolazi do trvenja jer zbog propadanja gospodarstva hrane u hramu ima sve manje.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116042500" stop="20131116044500">
+<title>Priče o olujama</title>
+<desc>Tornada s munjama, divlji brzaci, pakli, uragani, zasljepljujuće mećave i vodeni zidovi: bijes Majke prirode viđen kroz oči onih koji su preživjeli ekstremne vremenske uvjete i njihovih herojskih spasitelja.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116044500" stop="20131116051000">
+<title>Licitiraj i uništi</title>
+<desc>Brian, Lee i ekipa za rušenje Danley pobijedila je na natječaju za rušenje kuće na jezeru, no Lee je zabrinut da će na tome poslu izgubiti novac.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116051000" stop="20131116053500">
+<title>Kopači</title>
+<desc>Dečki odlaze u davno zaboravljen konjički logor, gdje KG nabasa na nešto što bi lako moglo biti otkriće života.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116053500" stop="20131116060000">
+<title>Majmuni lopovi</title>
+<desc>Unutar jaipurske bande iz Galte dolazi do trvenja jer zbog propadanja gospodarstva hrane u hramu ima sve manje.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116060000" stop="20131116062000">
+<title>Zagonetni dosjei</title>
+<desc>Legendarni kralj Artur iz Camelota jedan je od najneuhvatljivijih engleskih junaka. Slijedite epsku potragu za njegovim identitetom.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116062000" stop="20131116064500">
+<title>Priče o olujama</title>
+<desc>Bob Heuser iz New Jerseya dobio je vijest koju je čekao: bubreg koji će mu spasiti život na putu je iz Philadelphije. Međutim, nad istočnom balom je velika snježna oluja, a bubreg mora biti transplantiran u 24 sata.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116064500" stop="20131116071000">
+<title>Napušteno</title>
+<desc>Počelo je kao probijanje kroz dubine jezivog masonskog doma za umirovljenike, a pretvorilo se u putovanje do raja nabrijanih auta za ekipu.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116071000" stop="20131116090000">
+<title>Opaka tuna</title>
+<desc>Kevin pokušava premašiti svoj ulov od 450 kg, a Ralph mora odlučiti hoće li goniti ribu koja će mu spasiti sezonu ili pomoći drugom brodu.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116090000" stop="20131116093000">
+<title>Brain Games</title>
+<desc>Otkrijte zašto ne treba uvijek vjerovati svojim očima kroz niz optičkih iluzija i igara koje testiraju kako naš um vidi svijet.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116093000" stop="20131116095500">
+<title>Brain Games</title>
+<desc>Otkrivamo znanost iza moći uvjeravanja te svakodnevne trikove i tehnike kojima se utječe na odluke koje donosite.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116095500" stop="20131116102500">
+<title>Licitiraj i uništi</title>
+<desc>Brian i Lee stižu u izgorenu kuću. Moraju završiti posao za jedan dan, ali vlasnik želi da temelji ostanu netaknuti.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116102500" stop="20131116115000">
+<title>Kopači</title>
+<desc>Ringy i KG odlaze u stari zatvor u Montani kako bi pomogli kustosu iskopati zakopano blago.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116115000" stop="20131116121500">
+<title>Neuništivi</title>
+<desc>Padobranac Michael Holmes padao je brzinom od 100 km/h nakon kvara padobrana. Saznajte kako je preživio da bi opet skakao.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116121500" stop="20131116131000">
+<title>Megatvornice</title>
+<desc>Saznajte kako talijanska tvrtka rabi najsuvremeniju tehnologiju u proizvodnji 37.500 kg kave dnevno i izvozi je u 140 zemalja diljem svijeta.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116131000" stop="20131116141000">
+<title>Preživljavanje na Aljasci</title>
+<desc>Na posljednjoj etapi putovanja dugog 5000 km, istraživači se moraju popeti na golemu planinu stijena i leda na ledenjaku Juneau.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116141000" stop="20131116150500">
+<title>Vinnie Jones: Najžilaviji Rusi</title>
+<desc>Vinnie radi i s američkim i s ruskim kaubojima dok pokušava zaslužiti svoje mamuze na ruski način. Može li se nositi s najžilavijim Rusima?</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116150500" stop="20131116160500">
+<title>Preživljavanje na Aljasci</title>
+<desc>Na četvrtoj etapi osam istraživača nastoji ostati na površini dok plove brzacima doline rijeke Talachulitna.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116160500" stop="20131116170000">
+<title>Preživljavanje na Aljasci</title>
+<desc>Istraživači se odvažuju na &quot;Autocestu medvjeda&quot; na Aljasci. Okruženi s više od 2000 mrkih medvjeda, put počinje u Dolini deset tisuća dimova.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116170000" stop="20131116180000">
+<title>Preživljavanje na Aljasci</title>
+<desc>Na polovici puta osam istraživača gladuje. Imaju jedva dovoljno snage da nastave, a putovanje postaje sve teže.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116180000" stop="20131116200000">
+<title>Kanadska paklena autocesta</title>
+<desc>Jamiejeva ekipa pozvana je na Coq, gdje ima toliko snijega da su pozvani helikopteri da ga raščiste bombama.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116200000" stop="20131116202500">
+<title>Brain Games, Usredotočite se na posljednji test s nizom interaktivnih igara i fascinantnih pokusa.</title>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116202500" stop="20131116215500">
+<title>Brain Games</title>
+<desc>Saznajte znanstveno objašnjenje kako naš mozak otkriva, tumači i reagira na kretanje i otkrijte kako ga je lako prevariti.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116215500" stop="20131116223000">
+<title>Brain Games</title>
+<desc>Istražujemo znanost iza straha i iznenađenja i tražimo odgovor na pitanje zašto nam niz kičmu prolaze trnci.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116223000" stop="20131116230000">
+<title>Brain Games</title>
+<desc>Provjerite svoju vještinu donošenja odluka nizom inteaktivnih igara. Odluke koje svakodnevno donosite možda nisu tako pouzdane kao što mislite!</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131116230000" stop="20131117005500">
+<title>Kanadska paklena autocesta</title>
+<desc>Dečki imaju problema s opremom kad pokušaju raščistiti tovar drva koji se s dvostruke prikolice rasuo po cesti.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131117005500" stop="20131117012500">
+<title>Brain Games</title>
+<desc>Istražujemo znanost iza straha i iznenađenja i tražimo odgovor na pitanje zašto nam niz kičmu prolaze trnci.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131117012500" stop="20131117015500">
+<title>Brain Games</title>
+<desc>Provjerite svoju vještinu donošenja odluka nizom inteaktivnih igara. Odluke koje svakodnevno donosite možda nisu tako pouzdane kao što mislite!</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131117015500" stop="20131117024500">
+<title>Kanadska paklena autocesta</title>
+<desc>Dečki imaju problema s opremom kad pokušaju raščistiti tovar drva koji se s dvostruke prikolice rasuo po cesti.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131117024500" stop="20131117031000">
+<title>Priče o olujama</title>
+<desc>Bob Heuser iz New Jerseya dobio je vijest koju je čekao: bubreg koji će mu spasiti život na putu je iz Philadelphije. Međutim, nad istočnom balom je velika snježna oluja, a bubreg mora biti transplantiran u 24 sata.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131117031000" stop="20131117033500">
+<title>Napušteno</title>
+<desc>Počelo je kao probijanje kroz dubine jezivog masonskog doma za umirovljenike, a pretvorilo se u putovanje do raja nabrijanih auta za ekipu.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131117033500" stop="20131117040000">
+<title>Kopači</title>
+<desc>Ringy i KG odlaze u stari zatvor u Montani kako bi pomogli kustosu iskopati zakopano blago.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131117040000" stop="20131117042500">
+<title>Kronike iz divljine</title>
+<desc>Upoznajte konzervacioniste koji imaju zadatak zaštititi divovskog grbavog kita. Uz to, otkrijte sukob između morskih lavova i ribara u Novom Zelandu.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131117042500" stop="20131117044500">
+<title>Priče o olujama</title>
+<desc>Dana 10. listopada 2004., Međunarodna svetkovina balona u Albuquerqueu odjednom je zaustavljena. Snažan vjetar otpuhao je balon na topli zrak na radijski toranj visine 230 metara.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131117044500" stop="20131117051000">
+<title>Napušteno</title>
+<desc>Ekipa dobiva pristup cijeloj tvornici mramora, gdje vlasnici potiču Jaya da pronađe skriveno sklonište u podrumu.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131117051000" stop="20131117053500">
+<title>Kopači</title>
+<desc>KG i Ringy odlaze u kanjon Snake River u Idahu u nadi da će susresti svoga junaka, Evela Knievela, na mjestu njegove najslavnije vratolomije.</desc>
+<premiere />
+</programme>
+<programme channel="national-geographic.doc" start="20131117053500" stop="20131117060000">
+<title>Kronike iz divljine</title>
+<desc>U arktičkim vodama otoka Svalbard, bradati tuljani i polarni medvjedi suočavaju se s novim, neviđenim neprijateljem. Istovremeno otkrijte nove vrste na Madagaskaru, koje se ne mogu naći drugdije.</desc>
+<premiere />
+</programme>
+</tv>

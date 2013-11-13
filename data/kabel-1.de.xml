@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tv source-data-url="http://tvprofil.net/xmltv/" source-info-name="Phazer XML servis 4.5" source-info-url="http://tvprofil.net">
+<channel id="kabel-1.de">
+<display-name>Kabel 1</display-name>
+<url>http://www.kabeleins.de</url>
+<icon src="http://phazer.info/img/kanali/kabel1.jpg" />
+</channel>
+<programme channel="kabel-1.de" start="20131113061500" stop="20131113071500">
+<title>Ein Engel auf Erden, Ich wünsch mir einen blauen Mond (To Touch the Moon)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131113071500" stop="20131113081500">
+<title>Unsere kleine Farm, Universität oder Hochzeit? (May I Have This Dance)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131113081500" stop="20131113091500">
+<title>Unsere kleine Farm, Neuankömmlinge (Hello and Goodbye)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131113091500" stop="20131113101000">
+<title>Castle, Der Glühbirnen Held (Murder Most Fowl)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131113101000" stop="20131113110500">
+<title>Čarobnice, Alle oder keine(Power Outrage)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131113110500" stop="20131113120000">
+<title>Šaptačica duhovima, Die Kinder-Parade(The Children&apos;s Parade)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131113120000" stop="20131113125500">
+<title>Zaboravljeni slučaj, Halloween (Bad Night)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131113125500" stop="20131113135000">
+<title>Zakon brojeva, Entführt, verfolgt(Breaking Point)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131113135000" stop="20131113144500">
+<title>Čarobnice, Die Macht der Gefühle(Primrose Empath)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131113144500" stop="20131113154500">
+<title>Šaptačica duhovima, Die Gabe(Pilot)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131113154500" stop="20131113164000">
+<title>Zaboravljeni slučaj, Die verbotene Liga (Colors)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131113164000" stop="20131113165000">
+<title>kabel eins news</title>
+<desc>Die &quot;kabel eins news&quot; informieren umfassend über das Wichtigste aus Deutschland und der Welt....</desc>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131113165000" stop="20131113174500">
+<title>Castle, Akte X (Close Encounters of the Murderous Kind)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131113174500" stop="20131113185500">
+<title>Abenteuer Leben - täglich neu entdecken, Koch des Jahres 2013</title>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131113185500" stop="20131113201500">
+<title>Achtung Kontrolle - Einsatz für die Ordnungshüter, Heute u. a.: Verkehrspolizei Bremerhaven</title>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131113201500" stop="20131113221000">
+<title>Das Beste kommt zum Schluss</title>
+<category>film</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131113221000" stop="20131114001500">
+<title>The Flock - Dunkle Triebe</title>
+<category>film</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131114001500" stop="20131114020500">
+<title>Das Beste kommt zum Schluss</title>
+<category>film</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131114020500" stop="20131114021700">
+<title>Steven liebt Kino -Spezial: Fack ju Göhte</title>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131114021700" stop="20131114022000">
+<title>kabel eins late news</title>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131114022000" stop="20131114040100">
+<title>The Flock - Dunkle Triebe</title>
+<category>film</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131114040100" stop="20131114040500">
+<title>kabel eins late news</title>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131114040500" stop="20131114060000">
+<title>Roxanne</title>
+<category>film</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131114060000" stop="20131114070000">
+<title>Ein Engel auf Erden, wenn es dem bösen Nachbarn nicht gefällt (Return of the Masked Riders)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131114070000" stop="20131114080500">
+<title>Unsere kleine Farm, Das neue Land (A Harvest of Friends)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131114080500" stop="20131114090500">
+<title>Unsere kleine Farm, Der erste Schultag (Country Girls)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131114090500" stop="20131114100000">
+<title>Castle, Akte X (Close Encounters of the Murderous Kind)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131114100000" stop="20131114110000">
+<title>Čarobnice, Die Macht der Gefühle(Primrose Empath)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131114110000" stop="20131114120000">
+<title>Šaptačica duhovima, Die Gabe(Pilot)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131114120000" stop="20131114125500">
+<title>Zaboravljeni slučaj, Die verbotene Liga (Colors)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131114125500" stop="20131114135000">
+<title>Zakon brojeva, In Uniform(Power)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131114135000" stop="20131114145000">
+<title>Čarobnice, Balthasar(Sleuthing with the Enemy)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131114145000" stop="20131114154500">
+<title>Šaptačica duhovima, Der unsichtbare Freund(The Crossing)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131114154500" stop="20131114164000">
+<title>Zaboravljeni slučaj, Die Anstalt (Comitted)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131114164000" stop="20131114165000">
+<title>kabel eins news</title>
+<desc>Die &quot;kabel eins news&quot; informieren umfassend über das Wichtigste aus Deutschland und der Welt....</desc>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131114165000" stop="20131114174500">
+<title>Castle, Speakeasy (Last Call)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131114174500" stop="20131114185500">
+<title>Abenteuer Leben - täglich neu entdecken, Jugend kann nicht kochen</title>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131114185500" stop="20131114201500">
+<title>Achtung Kontrolle - Einsatz für die Ordnungshüter, Heute u. a.: Bundespolizei Hof</title>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131114201500" stop="20131114222500">
+<title>Der Club der Teufelinnen</title>
+<category>film</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131114222500" stop="20131115002500">
+<title>Die Teufelin</title>
+<category>film</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131115002500" stop="20131115022100">
+<title>Der Club der Teufelinnen</title>
+<category>film</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131115022100" stop="20131115022500">
+<title>kabel eins late news</title>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131115022500" stop="20131115040700">
+<title>Die Teufelin</title>
+<category>film</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131115040700" stop="20131115041000">
+<title>kabel eins late news</title>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131115041000" stop="20131115050500">
+<title>Vier lieben dich</title>
+<category>film</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131115050500" stop="20131115054500">
+<title>Zakon brojeva, Comic-Helden (Graphic)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131115054500" stop="20131115061000">
+<title>Eine schrecklich nette Familie, Sex, Video, Al und Peggy (I&apos;ll See You in Court)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131115061000" stop="20131115071000">
+<title>Ein Engel auf Erden, Das Lied vom kleinen Glück (Song of Wild West)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131115071000" stop="20131115081500">
+<title>Unsere kleine Farm, Weiter Weg (The 100-Mile Walk)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131115081500" stop="20131115091500">
+<title>Unsere kleine Farm, Der Freund (Mr. Edward&apos;s Homecoming)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131115091500" stop="20131115101000">
+<title>Castle, Speakeasy (Last Call)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131115101000" stop="20131115111000">
+<title>Čarobnice, Balthasar(Sleuthing with the Enemy)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131115111000" stop="20131115120500">
+<title>Šaptačica duhovima, Der unsichtbare Freund(The Crossing)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131115120500" stop="20131115130000">
+<title>Zaboravljeni slučaj, Die Anstalt (Comitted)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131115130000" stop="20131115135500">
+<title>Zakon brojeva, Der schwarze Schwan(Black Swan)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131115135500" stop="20131115145000">
+<title>Čarobnice, Besessen(Coyote Piper)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131115145000" stop="20131115155000">
+<title>Šaptačica duhovima, Schicksalsnacht(Ghost, Interrupted)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131115155000" stop="20131115164000">
+<title>Zaboravljeni slučaj, Blutrache(Saving Patrick Bubley)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131115164000" stop="20131115165000">
+<title>kabel eins news</title>
+<desc>Die &quot;kabel eins news&quot; informieren umfassend über das Wichtigste aus Deutschland und der Welt....</desc>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131115165000" stop="20131115174500">
+<title>Castle, Nikki Heat(Nikki Heat)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131115174500" stop="20131115185500">
+<title>Abenteuer Leben - täglich neu entdecken</title>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131115185500" stop="20131115201500">
+<title>Achtung Kontrolle! Einsatz für die Ordnungshüter</title>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131115201500" stop="20131115211500">
+<title>Navy CIS - Los Angeles, Die Last der Schuld(Brimstone)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131115211500" stop="20131115221500">
+<title>Navy CIS - Los Angeles, Durch die Wand(Breach)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131115221500" stop="20131115231500">
+<title>Navy CIS - Los Angeles, Aus einem anderen Leben(Past Lives)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131115231500" stop="20131116001500">
+<title>Prime Suspect, Der Maulwurf(Stuck in the Middle with You)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131116001500" stop="20131116011000">
+<title>Navy CIS - Los Angeles, Die Last der Schuld(Brimstone)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131116011000" stop="20131116020300">
+<title>Navy CIS - Los Angeles, Durch die Wand(Breach)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131116020300" stop="20131116020500">
+<title>kabel eins late news</title>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131116020500" stop="20131116025400">
+<title>Navy CIS - Los Angeles, Aus einem anderen Leben(Past Lives)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131116025400" stop="20131116025500">
+<title>kabel eins late news</title>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131116025500" stop="20131116045000">
+<title>Die Passion Christi</title>
+<category>film</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131116045000" stop="20131116064000">
+<title>Magnolien aus Stahl - Die Stärke der Frau</title>
+<category>film</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131116064000" stop="20131116071000">
+<title>Abenteuer Alltag - so leben wir Deutschen, Neue Karte - neues Glück</title>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131116071000" stop="20131116082000">
+<title>Abenteuer Leben - täglich neu entdecken</title>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131116082000" stop="20131116092500">
+<title>Abenteuer Leben - täglich neu entdecken</title>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131116092500" stop="20131116095500">
+<title>Die Super-Heimwerker, Küche nach Maß</title>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131116095500" stop="20131116112000">
+<title>Achtung Kontrolle! Einsatz für die Ordnungshüter</title>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131116112000" stop="20131116124500">
+<title>Achtung Kontrolle! Einsatz für die Ordnungshüter</title>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131116124500" stop="20131116141000">
+<title>Achtung Kontrolle! Einsatz für die Ordnungshüter</title>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131116141000" stop="20131116153500">
+<title>Achtung Kontrolle! Einsatz für die Ordnungshüter</title>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131116153500" stop="20131116154500">
+<title>kabel eins news</title>
+<desc>Die &quot;kabel eins news&quot; informieren umfassend über das Wichtigste aus Deutschland und der Welt....</desc>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131116154500" stop="20131116170500">
+<title>Achtung Kontrolle! Einsatz für die Ordnungshüter</title>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131116170500" stop="20131116181000">
+<title>Abenteuer Leben - täglich neu entdecken</title>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131116181000" stop="20131116201500">
+<title>Baupfusch - Familien in Not</title>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131116201500" stop="20131116211000">
+<title>Navy CIS, Ein Mann für unlösbare Fälle (Blackwater)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131116211000" stop="20131116221000">
+<title>Navy CIS, Doppeltes Spiel (Doppelgänger)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131116221000" stop="20131116231000">
+<title>Navy CIS, Blutiges Puzzle (The Meat Puzzle)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131116231000" stop="20131117000500">
+<title>Zakon brojeva, Markt und Marke(Cover Me)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131117000500" stop="20131117010500">
+<title>Navy CIS, Ein Mann für unlösbare Fälle (Blackwater)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131117010500" stop="20131117015500">
+<title>Navy CIS, Doppeltes Spiel (Doppelgänger)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131117015500" stop="20131117024000">
+<title>Navy CIS, Blutiges Puzzle (The Meat Puzzle)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131117024000" stop="20131117032000">
+<title>Zakon brojeva, Markt und Marke(Cover Me)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131117032000" stop="20131117040000">
+<title>Las Vegas, Geld regiert die Welt (Magic Carpet Red)</title>
+<category>serija</category>
+<premiere />
+</programme>
+<programme channel="kabel-1.de" start="20131117040000" stop="20131117060000">
+<title>Prime Suspect, Der Maulwurf(Stuck in the Middle with You)</title>
+<category>serija</category>
+<premiere />
+</programme>
+</tv>

@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tv source-data-url="http://tvprofil.net/xmltv/" source-info-name="Phazer XML servis 4.5" source-info-url="http://tvprofil.net">
+<channel id="arte.de">
+<display-name>ARTE.fr</display-name>
+<url>http://www.arte.tv</url>
+<icon src="http://phazer.info/img/kanali/arte.jpg" />
+</channel>
+<programme channel="arte.de" start="20131112062000" stop="20131112065000">
+<title>ESCAPADE GOURMANDE</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131112065000" stop="20131112071500">
+<title>Le blogueur</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131112071500" stop="20131112074500">
+<title>Yourope</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131112074500" stop="20131112083000">
+<title>Expédition au Costa-Rica</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131112083000" stop="20131112085500">
+<title>X:enius</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131112085500" stop="20131112104000">
+<title>Mea Maxima Culpa</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131112104000" stop="20131112111500">
+<title>Les nouveaux paradis</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131112111500" stop="20131112120000">
+<title>Ruines modernes</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131112120000" stop="20131112123000">
+<title>ESCAPADE GOURMANDE</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131112123000" stop="20131112124500">
+<title>ARTE Journal</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131112124500" stop="20131112134000">
+<title>360° - GEO</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131112134000" stop="20131112153000">
+<title>The Big Lebowski</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131112153000" stop="20131112161500">
+<title>Contes des mers</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131112161500" stop="20131112171000">
+<title>Les incroyables machines volantes du Professeur Oehmichen</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131112171000" stop="20131112173500">
+<title>X:enius</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131112173500" stop="20131112180500">
+<title>Dans tes yeux</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131112180500" stop="20131112190000">
+<title>Tibet - Les nourritures spirituelles</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131112190000" stop="20131112194500">
+<title>Hommes et chiens, compagnons de chasse</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131112194500" stop="20131112200500">
+<title>ARTE Journal</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131112200500" stop="20131112204500">
+<title>28 minutes</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131112204500" stop="20131112205000">
+<title>Silex and The City</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131112205000" stop="20131113011500">
+<title>Shoah (1/2)</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131113011500" stop="20131113050000">
+<title>Shoah (2/2)</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131113050000" stop="20131113055500">
+<title>Shoah (2/2)</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131113055500" stop="20131113060000">
+<title>Téléchat</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131113060000" stop="20131113060500">
+<title>Téléchat</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131113060500" stop="20131113061500">
+<title>Téléchat</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131113061500" stop="20131113064000">
+<title>Dans tes yeux</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131113064000" stop="20131113065500">
+<title>Karambolage</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131113065500" stop="20131113074500">
+<title>Personne ne bouge !</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131113074500" stop="20131113083000">
+<title>Expédition en Tanzanie</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131113083000" stop="20131113090000">
+<title>X:enius</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131113090000" stop="20131113095500">
+<title>Le parapluie Bulgare</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131113095500" stop="20131113104500">
+<title>Turquie: la République divisée</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131113104500" stop="20131113111500">
+<title>Dans tes yeux</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131113111500" stop="20131113120000">
+<title>Ruines modernes</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131113120000" stop="20131113123000">
+<title>ESCAPADE GOURMANDE</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131113123000" stop="20131113124000">
+<title>ARTE Journal</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131113124000" stop="20131113133500">
+<title>360° - GEO</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131113133500" stop="20131113152500">
+<title>O&apos;Brother</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131113152500" stop="20131113161000">
+<title>Contes des mers</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131113161000" stop="20131113171000">
+<title>« Selandia », le navire qui a changé le monde</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131113171000" stop="20131113173500">
+<title>X:enius</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131113173500" stop="20131113180500">
+<title>Dans tes yeux</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131113180500" stop="20131113190000">
+<title>Tibet - Les nourritures terrestres</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131113190000" stop="20131113194500">
+<title>La Belgique sauvage</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131113194500" stop="20131113200500">
+<title>ARTE Journal</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131113200500" stop="20131113204500">
+<title>28 minutes</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131113204500" stop="20131113205000">
+<title>Silex and The City</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131113205000" stop="20131113223500">
+<title>Le grand saut</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131113223500" stop="20131113233000">
+<title>L&apos;Europe des écrivains</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131113233000" stop="20131114005500">
+<title>Dog Pound</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131114005500" stop="20131114014000">
+<title>Traque en série (5/12)</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131114014000" stop="20131114023000">
+<title>Traque en série (6/12)</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131114023000" stop="20131114040000">
+<title>Fargo</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131114040000" stop="20131114050000">
+<title>Contes des mers</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131114050000" stop="20131114050500">
+<title>Téléchat</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131114050500" stop="20131114060000">
+<title>Ingo Metzmacher</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131114060000" stop="20131114062500">
+<title>Dans tes yeux</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131114062500" stop="20131114065500">
+<title>ESCAPADE GOURMANDE</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131114065500" stop="20131114074500">
+<title>Metropolis</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131114074500" stop="20131114083000">
+<title>Expédition en Australie</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131114083000" stop="20131114090000">
+<title>X:enius</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131114090000" stop="20131114103000">
+<title>La viande in vitro bientôt dans nos assiettes ?</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131114103000" stop="20131114111500">
+<title>Sun City, Arizona</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131114111500" stop="20131114120000">
+<title>Ruines modernes</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131114120000" stop="20131114123000">
+<title>ESCAPADE GOURMANDE</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131114123000" stop="20131114124000">
+<title>ARTE Journal</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131114124000" stop="20131114133500">
+<title>360° - GEO</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131114133500" stop="20131114153000">
+<title>Pile et face</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131114153000" stop="20131114161500">
+<title>Contes des mers</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131114161500" stop="20131114171000">
+<title>Le mystère de l&apos;Oiseau Blanc</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131114171000" stop="20131114173500">
+<title>X:enius</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131114173500" stop="20131114180500">
+<title>Dans tes yeux</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131114180500" stop="20131114190000">
+<title>Ethiopie, entre tradition et modernité</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131114190000" stop="20131114194500">
+<title>Belle Belgique (1/2)</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131114194500" stop="20131114200500">
+<title>ARTE Journal</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131114200500" stop="20131114204500">
+<title>28 minutes</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131114204500" stop="20131114205000">
+<title>Silex and The City</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131114205000" stop="20131114215000">
+<title>Top of the Lake (4/6)</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131114215000" stop="20131114225000">
+<title>Top of the Lake (5/6)</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131114225000" stop="20131114235000">
+<title>Top of the Lake (6/6)</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131114235000" stop="20131115000000">
+<title>Métamorphose: La loi du changement</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115000000" stop="20131115003500">
+<title>Fierté</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115003500" stop="20131115020000">
+<title>Les prêteurs sur gages</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115020000" stop="20131115034500">
+<title>Le grand saut</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115034500" stop="20131115050500">
+<title>Un coeur neuf: l&apos;histoire d&apos;Hannah Jones</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115050500" stop="20131115051000">
+<title>Téléchat</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115051000" stop="20131115055500">
+<title>To Russia with Love</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115055500" stop="20131115062500">
+<title>Dans tes yeux</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115062500" stop="20131115065000">
+<title>ESCAPADE GOURMANDE</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115065000" stop="20131115071500">
+<title>X:enius</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115071500" stop="20131115074500">
+<title>X:enius</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115074500" stop="20131115083000">
+<title>Expédition à Madagascar - Un paradis naturel menacé</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115083000" stop="20131115085500">
+<title>X:enius</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115085500" stop="20131115095000">
+<title>Les drones, un usage controversé</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115095000" stop="20131115103500">
+<title>Métamorphose: La loi du changement</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115103500" stop="20131115111500">
+<title>Fleuves du monde</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115111500" stop="20131115120000">
+<title>Ruines modernes</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115120000" stop="20131115123000">
+<title>ESCAPADE GOURMANDE</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115123000" stop="20131115124000">
+<title>ARTE Journal</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115124000" stop="20131115133500">
+<title>360° - GEO</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115133500" stop="20131115150500">
+<title>Double Jeu</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115150500" stop="20131115153000">
+<title>Fleuves du monde</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115153000" stop="20131115162000">
+<title>Contes des mers</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115162000" stop="20131115171000">
+<title>La grande migration des papillons monarques</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115171000" stop="20131115174000">
+<title>X:enius</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115174000" stop="20131115181000">
+<title>Dans tes yeux</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115181000" stop="20131115190000">
+<title>Himalaya, la lune brisée</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115190000" stop="20131115194500">
+<title>Belle Belgique (2/2)</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115194500" stop="20131115200500">
+<title>ARTE Journal</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115200500" stop="20131115204500">
+<title>28 minutes</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115204500" stop="20131115205000">
+<title>Silex and The City</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115205000" stop="20131115213500">
+<title>Traque en série (11/12)</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115213500" stop="20131115222000">
+<title>Traque en série (12/12)</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115222000" stop="20131115234900">
+<title>Entre ennemis</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131115234900" stop="20131116003000">
+<title>Court-circuit</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131116003000" stop="20131116004500">
+<title>Agnieszka</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131116004500" stop="20131116012000">
+<title>Puis, j&apos;ai vu Tanja</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131116012000" stop="20131116021500">
+<title>Tracks</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131116021500" stop="20131116031500">
+<title>Borgen (25/30)</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131116031500" stop="20131116041500">
+<title>Borgen (26/30)</title>
+<premiere />
+</programme>
+<programme channel="arte.de" start="20131116041500" stop="20131116061500">
+<title>Photo: Les inventeurs</title>
+<premiere />
+</programme>
+</tv>

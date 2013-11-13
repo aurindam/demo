@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tv source-data-url="http://tvprofil.net/xmltv/" source-info-name="Phazer XML servis 4.5" source-info-url="http://tvprofil.net">
+<channel id="rtl.de.de">
+<display-name>RTL.de</display-name>
+<url>http://www.rtl.de</url>
+<icon src="http://phazer.info/img/kanali/rtl_de.jpg" />
+</channel>
+<programme channel="rtl.de.de" start="20131112060000" stop="20131112083000">
+<title>Guten Morgen Deutschland, Moderation: Jennifer Knäble / Bernd Fuchs</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131112083000" stop="20131112090000">
+<title>Gute Zeiten, schlechte Zeiten</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131112090000" stop="20131112093000">
+<title>Unter uns</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131112093000" stop="20131112103000">
+<title>Familien im Brennpunkt</title>
+<desc>Thematisiert werden Konflikte unter deutschen Dächern, die Anwälte und Familiengerichte beschäftigen wie Scheidungen, Sorgerechtsstreitigkeiten, Probleme rund um die Anerkennung der Vaterschaft oder Probleme mit Ämtern und Behörden.</desc>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131112103000" stop="20131112113000">
+<title>Familien im Brennpunkt</title>
+<desc>Thematisiert werden Konflikte unter deutschen Dächern, die Anwälte und Familiengerichte beschäftigen wie Scheidungen, Sorgerechtsstreitigkeiten, Probleme rund um die Anerkennung der Vaterschaft oder Probleme mit Ämtern und Behörden.</desc>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131112113000" stop="20131112120000">
+<title>Unsere erste gemeinsame Wohnung, Junge Paare auf ihrem Weg zur ersten gemeinsamen Wohnung</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131112120000" stop="20131112140000">
+<title>Punkt 12 - Das RTL-Mittagsjournal, Moderation: Katja Burkard</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131112140000" stop="20131112150000">
+<title>Die Trovatos - Detektive decken auf</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131112150000" stop="20131112160000">
+<title>Verdachtsfälle</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131112160000" stop="20131112170000">
+<title>Familien im Brennpunkt</title>
+<desc>Thematisiert werden Konflikte unter deutschen Dächern, die Anwälte und Familiengerichte beschäftigen wie Scheidungen, Sorgerechtsstreitigkeiten, Probleme rund um die Anerkennung der Vaterschaft oder Probleme mit Ämtern und Behörden.</desc>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131112170000" stop="20131112173000">
+<title>Betrugsfälle, Ein Betrug und seine Folgen - wie Menschen um die Wahrheit kämpfen.</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131112173000" stop="20131112180000">
+<title>Unter uns</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131112180000" stop="20131112183000">
+<title>Explosiv - Das Magazin, Moderation: Janine Steeger</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131112183000" stop="20131112184500">
+<title>Exclusiv - Das Star-Magazin, Moderation: Frauke Ludowig</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131112184500" stop="20131112190300">
+<title>RTL Aktuell, Nachrichten und Sport mit Peter Kloeppel und Ulrike von der Groeben</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131112190300" stop="20131112190500">
+<title>RTL Aktuell - Das Wetter, Moderation: Christian Häckl</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131112190500" stop="20131112194000">
+<title>Alles was zählt</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131112194000" stop="20131112201500">
+<title>Gute Zeiten, schlechte Zeiten</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131112201500" stop="20131112211500">
+<title>CSI: Vegas, Durch die Nacht mit Sara und Nick</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131112211500" stop="20131112221500">
+<title>Bones - Die Knochenjägerin, Der Körper im Koffer</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131112221500" stop="20131112231000">
+<title>Bones - Die Knochenjägerin, Der Mann aus dem Gefängnis</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131112231000" stop="20131113000000">
+<title>Person of Interest, Die Großen fressen die Kleinen</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113000000" stop="20131113002700">
+<title>RTL Nachtjournal, Moderation: Ilka Eßmüller</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113002700" stop="20131113003000">
+<title>RTL Nachtjournal - Das Wetter</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113003000" stop="20131113012000">
+<title>The Following, Aus Betrug, Angst, Vorteil, Phantasie und Poesie</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113012000" stop="20131113021500">
+<title>Bones - Die Knochenjägerin, Menschliche Portionen per Post</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113021500" stop="20131113030500">
+<title>Bones - Die Knochenjägerin, Sturm und Drang</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113030500" stop="20131113034500">
+<title>The Glades, Die Schönheit und der Tod</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113034500" stop="20131113041000">
+<title>RTL Nachtjournal, Moderation: Ilka Eßmüller</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113041000" stop="20131113042000">
+<title>EXCLUSIV - Das Star-Magazin</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113042000" stop="20131113044500">
+<title>Betrugsfälle, Ein Betrug und seine Folgen - wie Menschen um die Wahrheit kämpfen.</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113044500" stop="20131113053500">
+<title>Verdachtsfälle</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113053500" stop="20131113060000">
+<title>Explosiv - Das Magazin, Moderation: Janine Steeger</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113060000" stop="20131113083000">
+<title>Guten Morgen Deutschland, Moderation: Jennifer Knäble / Bernd Fuchs</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113083000" stop="20131113090000">
+<title>Gute Zeiten, schlechte Zeiten</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113090000" stop="20131113093000">
+<title>Unter uns</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113093000" stop="20131113103000">
+<title>Familien im Brennpunkt</title>
+<desc>Thematisiert werden Konflikte unter deutschen Dächern, die Anwälte und Familiengerichte beschäftigen wie Scheidungen, Sorgerechtsstreitigkeiten, Probleme rund um die Anerkennung der Vaterschaft oder Probleme mit Ämtern und Behörden.</desc>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113103000" stop="20131113113000">
+<title>Familien im Brennpunkt</title>
+<desc>Thematisiert werden Konflikte unter deutschen Dächern, die Anwälte und Familiengerichte beschäftigen wie Scheidungen, Sorgerechtsstreitigkeiten, Probleme rund um die Anerkennung der Vaterschaft oder Probleme mit Ämtern und Behörden.</desc>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113113000" stop="20131113120000">
+<title>Unsere erste gemeinsame Wohnung, Junge Paare auf ihrem Weg zur ersten gemeinsamen Wohnung</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113120000" stop="20131113140000">
+<title>Punkt 12 - Das RTL-Mittagsjournal, Moderation: Katja Burkard</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113140000" stop="20131113150000">
+<title>Die Trovatos - Detektive decken auf</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113150000" stop="20131113160000">
+<title>Verdachtsfälle</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113160000" stop="20131113170000">
+<title>Familien im Brennpunkt</title>
+<desc>Thematisiert werden Konflikte unter deutschen Dächern, die Anwälte und Familiengerichte beschäftigen wie Scheidungen, Sorgerechtsstreitigkeiten, Probleme rund um die Anerkennung der Vaterschaft oder Probleme mit Ämtern und Behörden.</desc>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113170000" stop="20131113173000">
+<title>Betrugsfälle, Ein Betrug und seine Folgen - wie Menschen um die Wahrheit kämpfen.</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113173000" stop="20131113180000">
+<title>Unter uns</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113180000" stop="20131113183000">
+<title>Explosiv - Das Magazin, Moderation: Janine Steeger</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113183000" stop="20131113184500">
+<title>Exclusiv - Das Star-Magazin, Moderation: Frauke Ludowig</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113184500" stop="20131113190300">
+<title>RTL Aktuell, Nachrichten und Sport mit Peter Kloeppel und Ulrike von der Groeben</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113190300" stop="20131113190500">
+<title>RTL Aktuell - Das Wetter, Moderation: Christian Häckl</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113190500" stop="20131113194000">
+<title>Alles was zählt</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113194000" stop="20131113201500">
+<title>Gute Zeiten, schlechte Zeiten</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113201500" stop="20131113211500">
+<title>Christopher Posch - Ich kämpfe für Ihr Recht! Rechtsanwalt Christopher Posch löst echte Rechtsfälle</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113211500" stop="20131113221500">
+<title>Raus aus den Schulden, Zwegats Einsatz für einen Reiterhof</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131113221500" stop="20131114000000">
+<title>stern TV, Das Fernsehmagazin live mit Steffen Hallaschka</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131114000000" stop="20131114002700">
+<title>RTL Nachtjournal, Moderation: Ilka Eßmüller</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131114002700" stop="20131114003000">
+<title>RTL Nachtjournal - Das Wetter</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131114003000" stop="20131114012500">
+<title>Bones - Die Knochenjägerin, Abraham Lincoln und der Knochen-Code</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131114012500" stop="20131114021500">
+<title>CSI: Vegas, Verlockend</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131114021500" stop="20131114030500">
+<title>CSI: Vegas, Das Debüt der Blutflüsterin</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131114030500" stop="20131114033000">
+<title>RTL Nachtjournal, Moderation: Ilka Eßmüller</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131114033000" stop="20131114044500">
+<title>Doc meets Dorf, Landarzt sein wollen ist nicht schwer</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131114044500" stop="20131114053500">
+<title>Verdachtsfälle</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131114053500" stop="20131114060000">
+<title>Explosiv - Das Magazin, Moderation: Janine Steeger</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131114060000" stop="20131114083000">
+<title>Guten Morgen Deutschland, Moderation: Jennifer Knäble / Bernd Fuchs</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131114083000" stop="20131114090000">
+<title>Gute Zeiten, schlechte Zeiten</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131114090000" stop="20131114093000">
+<title>Unter uns</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131114093000" stop="20131114103000">
+<title>Familien im Brennpunkt</title>
+<desc>Thematisiert werden Konflikte unter deutschen Dächern, die Anwälte und Familiengerichte beschäftigen wie Scheidungen, Sorgerechtsstreitigkeiten, Probleme rund um die Anerkennung der Vaterschaft oder Probleme mit Ämtern und Behörden.</desc>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131114103000" stop="20131114113000">
+<title>Familien im Brennpunkt</title>
+<desc>Thematisiert werden Konflikte unter deutschen Dächern, die Anwälte und Familiengerichte beschäftigen wie Scheidungen, Sorgerechtsstreitigkeiten, Probleme rund um die Anerkennung der Vaterschaft oder Probleme mit Ämtern und Behörden.</desc>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131114113000" stop="20131114120000">
+<title>Unsere erste gemeinsame Wohnung, Junge Paare auf ihrem Weg zur ersten gemeinsamen Wohnung</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131114120000" stop="20131114140000">
+<title>Punkt 12 - Das RTL-Mittagsjournal, Moderation: Katja Burkard</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131114140000" stop="20131114150000">
+<title>Die Trovatos - Detektive decken auf</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131114150000" stop="20131114160000">
+<title>Verdachtsfälle</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131114160000" stop="20131114170000">
+<title>Familien im Brennpunkt</title>
+<desc>Thematisiert werden Konflikte unter deutschen Dächern, die Anwälte und Familiengerichte beschäftigen wie Scheidungen, Sorgerechtsstreitigkeiten, Probleme rund um die Anerkennung der Vaterschaft oder Probleme mit Ämtern und Behörden.</desc>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131114170000" stop="20131114173000">
+<title>Betrugsfälle, Ein Betrug und seine Folgen - wie Menschen um die Wahrheit kämpfen.</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131114173000" stop="20131114180000">
+<title>Unter uns</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131114180000" stop="20131114183000">
+<title>Explosiv - Das Magazin, Moderation: Janine Steeger</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131114183000" stop="20131114184500">
+<title>Exclusiv - Das Star-Magazin, Moderation: Frauke Ludowig</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131114184500" stop="20131114190300">
+<title>RTL Aktuell, Nachrichten und Sport mit Peter Kloeppel und Ulrike von der Groeben</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131114190300" stop="20131114190500">
+<title>RTL Aktuell - Das Wetter, Moderation: Christian Häckl</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131114190500" stop="20131114194000">
+<title>Alles was zählt</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131114194000" stop="20131114201500">
+<title>Gute Zeiten, schlechte Zeiten</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131114201500" stop="20131114211500">
+<title>Alarm für Cobra 11 - Die Autobahnpolizei, Das große Comeback</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131114211500" stop="20131114221500">
+<title>Alarm für Cobra 11 - Die Autobahnpolizei, Turbo &amp; Tacho reloaded</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131114221500" stop="20131114231000">
+<title>Dr. House, Ihr, ich und Hippokrates</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131114231000" stop="20131115000000">
+<title>Dr. House, Autopsie</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131115000000" stop="20131115002700">
+<title>RTL Nachtjournal, Moderation: Ilka Eßmüller</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131115002700" stop="20131115003000">
+<title>RTL Nachtjournal - Das Wetter</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131115003000" stop="20131115012500">
+<title>CSI: Vegas, 8 Frauen</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131115012500" stop="20131115021500">
+<title>Bones - Die Knochenjägerin, Ab durch den Abwasserkanal</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131115021500" stop="20131115031000">
+<title>Alarm für Cobra 11 - Die Autobahnpolizei, Vergeltung</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131115031000" stop="20131115034000">
+<title>RTL Nachtjournal, Moderation: Ilka Eßmüller</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131115034000" stop="20131115044000">
+<title>SOKO Familie</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131115044000" stop="20131115053500">
+<title>Verdachtsfälle</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131115053500" stop="20131115060000">
+<title>Explosiv - Das Magazin, Moderation: Janine Steeger</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131115060000" stop="20131115083000">
+<title>Guten Morgen Deutschland, Moderation: Jennifer Knäble / Bernd Fuchs</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131115083000" stop="20131115090000">
+<title>Gute Zeiten, schlechte Zeiten</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131115090000" stop="20131115093000">
+<title>Unter uns</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131115093000" stop="20131115103000">
+<title>Familien im Brennpunkt</title>
+<desc>Thematisiert werden Konflikte unter deutschen Dächern, die Anwälte und Familiengerichte beschäftigen wie Scheidungen, Sorgerechtsstreitigkeiten, Probleme rund um die Anerkennung der Vaterschaft oder Probleme mit Ämtern und Behörden.</desc>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131115103000" stop="20131115113000">
+<title>Familien im Brennpunkt</title>
+<desc>Thematisiert werden Konflikte unter deutschen Dächern, die Anwälte und Familiengerichte beschäftigen wie Scheidungen, Sorgerechtsstreitigkeiten, Probleme rund um die Anerkennung der Vaterschaft oder Probleme mit Ämtern und Behörden.</desc>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131115113000" stop="20131115120000">
+<title>Unsere erste gemeinsame Wohnung, Junge Paare auf ihrem Weg zur ersten gemeinsamen Wohnung</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131115120000" stop="20131115140000">
+<title>Punkt 12 - Das RTL-Mittagsjournal, Moderation: Katja Burkard</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131115140000" stop="20131115150000">
+<title>Die Trovatos - Detektive decken auf</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131115150000" stop="20131115160000">
+<title>Verdachtsfälle</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131115160000" stop="20131115170000">
+<title>Familien im Brennpunkt</title>
+<desc>Thematisiert werden Konflikte unter deutschen Dächern, die Anwälte und Familiengerichte beschäftigen wie Scheidungen, Sorgerechtsstreitigkeiten, Probleme rund um die Anerkennung der Vaterschaft oder Probleme mit Ämtern und Behörden.</desc>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131115170000" stop="20131115173000">
+<title>Betrugsfälle, Ein Betrug und seine Folgen - wie Menschen um die Wahrheit kämpfen.</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131115173000" stop="20131115180000">
+<title>Unter uns</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131115180000" stop="20131115183000">
+<title>Explosiv - Das Magazin, Moderation: Janine Steeger</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131115183000" stop="20131115184500">
+<title>Exclusiv - Das Star-Magazin, Moderation: Frauke Ludowig</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131115184500" stop="20131115190300">
+<title>RTL Aktuell, Nachrichten und Sport mit Peter Kloeppel und Ulrike von der Groeben</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131115190300" stop="20131115190500">
+<title>RTL Aktuell - Das Wetter, Moderation: Christian Häckl</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131115190500" stop="20131115194000">
+<title>Alles was zählt</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131115194000" stop="20131115201500">
+<title>Gute Zeiten, schlechte Zeiten</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131115201500" stop="20131115211500">
+<title>Wer wird Millionär? Moderation: Günther Jauch</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131115211500" stop="20131116000000">
+<title>Die ultimative Chart Show - Die erfolgreichsten Überraschungshits aller Zeiten</title>
+<desc>Moderation: Oliver Geissen / Gäste im Studio: Gaby Köster, Ingolf Lück, Das Bo, Ulrike von der Groeben</desc>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131116000000" stop="20131116002700">
+<title>RTL Nachtjournal, Moderation: Ilka Eßmüller</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131116002700" stop="20131116003000">
+<title>RTL Nachtjournal - Das Wetter</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131116003000" stop="20131116013000">
+<title>Typisch deutsch?! Die Kaya Show, Die Deutschen und ihre Familie</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131116013000" stop="20131116022500">
+<title>Psych, Shawn rettet Darth Vader</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131116022500" stop="20131116025500">
+<title>RTL Nachtjournal, Moderation: Ilka Eßmüller</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131116025500" stop="20131116034500">
+<title>Das Strafgericht, Vorsitz: Richter Ulrich Wetzel</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131116034500" stop="20131116051000">
+<title>stern TV, Das Fernsehmagazin live mit Steffen Hallaschka</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131116051000" stop="20131116054500">
+<title>Betrugsfälle, Ein Betrug und seine Folgen - wie Menschen um die Wahrheit kämpfen.</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131116054500" stop="20131116061500">
+<title>Betrugsfälle, Ein Betrug und seine Folgen - wie Menschen um die Wahrheit kämpfen.</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131116061500" stop="20131116071500">
+<title>Verdachtsfälle</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131116071500" stop="20131116081500">
+<title>Verdachtsfälle</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131116081500" stop="20131116091500">
+<title>Familien im Brennpunkt</title>
+<desc>Thematisiert werden Konflikte unter deutschen Dächern, die Anwälte und Familiengerichte beschäftigen wie Scheidungen, Sorgerechtsstreitigkeiten, Probleme rund um die Anerkennung der Vaterschaft oder Probleme mit Ämtern und Behörden.</desc>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131116091500" stop="20131116094500">
+<title>YOLO</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131116094500" stop="20131116100000">
+<title>YOLO</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131116100000" stop="20131116103000">
+<title>Explosiv - Das Magazin, Moderation: Janine Steeger</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131116103000" stop="20131116104500">
+<title>Exclusiv - Das Star-Magazin, Moderation: Frauke Ludowig</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131116104500" stop="20131116131500">
+<title>Gute Zeiten, schlechte Zeiten</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131116131500" stop="20131116150000">
+<title>stern TV, Das Fernsehmagazin live mit Steffen Hallaschka (Wh. von Mittwoch)</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131116150000" stop="20131116174500">
+<title>Die ultimative Chart Show - Die erfolgreichsten Überraschungshits aller Zeiten</title>
+<desc>Moderation: Oliver Geissen / Gäste im Studio: Gaby Köster, Ingolf Lück, Das Bo, Ulrike von der Groeben</desc>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131116174500" stop="20131116184500">
+<title>Formel 1: Freies Training, Moderation: Florian König / Kommentatoren: Heiko Wasser und Christian Danner</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131116184500" stop="20131116185500">
+<title>RTL Aktuell, Nachrichten und Sport mit Lothar Keller und Birgit von Bentzel / inkl. Wetter</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131116185500" stop="20131116201500">
+<title>Formel 1: Qualifying</title>
+<desc>Moderation: Florian König, Experte: Niki Lauda, Kommentatoren: Heiko Wasser und Christian Danner, Boxenreporter: Kai Ebel</desc>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131116201500" stop="20131116223000">
+<title>Das Supertalent</title>
+<desc>Moderation: Daniel Hartwich / Jury: Lena Gercke, Guido Maria Kretschmer, Bruce Darnell und Dieter Bohlen</desc>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131116223000" stop="20131116233000">
+<title>Typisch deutsch?! Die Kaya Show, Kaya präsentiert die Lieblingsspeisen der Deutschen</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131116233000" stop="20131117000000">
+<title>Ich bin Boes</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131117000000" stop="20131117020000">
+<title>Das Supertalent</title>
+<desc>Moderation: Daniel Hartwich / Jury: Lena Gercke, Guido Maria Kretschmer, Bruce Darnell und Dieter Bohlen</desc>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131117020000" stop="20131117025500">
+<title>Typisch deutsch?! Die Kaya Show, Kaya präsentiert die Lieblingsspeisen der Deutschen</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131117025500" stop="20131117032000">
+<title>Ich bin Boes</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131117032000" stop="20131117041000">
+<title>Verdachtsfälle</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131117041000" stop="20131117051500">
+<title>Verdachtsfälle</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131117051500" stop="20131117054000">
+<title>Alles Atze, Der Dieb von Bagdad</title>
+<premiere />
+</programme>
+<programme channel="rtl.de.de" start="20131117054000" stop="20131117061000">
+<title>Ritas Welt, Freitag, der 13.</title>
+<premiere />
+</programme>
+</tv>

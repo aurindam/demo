@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tv source-data-url="http://tvprofil.net/xmltv/" source-info-name="Phazer XML servis 4.5" source-info-url="http://tvprofil.net">
+<channel id="cnn.info">
+<display-name>CNN</display-name>
+<url>http://edition.cnn.com/CNNI/</url>
+<icon src="http://phazer.info/img/kanali/cnn.jpg" />
+</channel>
+<programme channel="cnn.info" start="20131111060000" stop="20131111063000">
+<title>World Sport, Highlights of the latest events around the globe.</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131111063000" stop="20131111070000">
+<title>Inside Africa, News and events across Africa.</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131111070000" stop="20131111080000">
+<title>CNN Newsroom</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131111080000" stop="20131111090000">
+<title>CNN Newsroom</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131111090000" stop="20131111093000">
+<title>World Sport, Highlights of the latest events around the globe.</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131111093000" stop="20131111100000">
+<title>Going Green</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131111100000" stop="20131111110000">
+<title>World Business Today, Round-up of the day&apos;s global business news.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131111110000" stop="20131111113000">
+<title>CNN Newsroom</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131111113000" stop="20131111120000">
+<title>African Voices</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131111120000" stop="20131111123000">
+<title>BackStory</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131111123000" stop="20131111130000">
+<title>CNN NewsCenter</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131111130000" stop="20131111140000">
+<title>Fareed Zakaria GPS</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131111140000" stop="20131111150000">
+<title>News Stream</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131111150000" stop="20131111160000">
+<title>World Business Today, Round-up of the day&apos;s global business news.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131111160000" stop="20131111170000">
+<title>International Desk</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131111170000" stop="20131111180000">
+<title>Global Exchange</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131111180000" stop="20131111183000">
+<title>World Sport, Highlights of the latest events around the globe.</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131111183000" stop="20131111190000">
+<title>African Voices</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131111190000" stop="20131111200000">
+<title>International Desk</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131111200000" stop="20131111203000">
+<title>Amanpour</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131111203000" stop="20131111210000">
+<title>CNN NewsCenter</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131111210000" stop="20131111220000">
+<title>Connect the World with Becky Anderson</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131111220000" stop="20131111230000">
+<title>Quest Means Business</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131111230000" stop="20131111233000">
+<title>Amanpour</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131111233000" stop="20131112000000">
+<title>World Sport, Highlights of the latest events around the globe.</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112000000" stop="20131112010000">
+<title>Piers Morgan Live</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112010000" stop="20131112013000">
+<title>CNN Newsroom live from Hong Kong</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112013000" stop="20131112020000">
+<title>World Sport, Highlights of the latest events around the globe.</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112020000" stop="20131112030000">
+<title>Anderson Cooper 360, A look at the latest news and headlines of the day.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112030000" stop="20131112040000">
+<title>Piers Morgan Live</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112040000" stop="20131112050000">
+<title>AC360 Later</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112050000" stop="20131112060000">
+<title>Quest Means Business</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112060000" stop="20131112063000">
+<title>World Sport, Highlights of the latest events around the globe.</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112063000" stop="20131112070000">
+<title>African Voices</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112070000" stop="20131112080000">
+<title>CNN Newsroom</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112080000" stop="20131112090000">
+<title>CNN Newsroom</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112090000" stop="20131112093000">
+<title>World Sport, Highlights of the latest events around the globe.</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112093000" stop="20131112100000">
+<title>Talk Asia</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112100000" stop="20131112110000">
+<title>World Business Today, Round-up of the day&apos;s global business news.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112110000" stop="20131112113000">
+<title>CNN Newsroom</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112113000" stop="20131112120000">
+<title>Going Green</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112120000" stop="20131112123000">
+<title>Amanpour</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112123000" stop="20131112130000">
+<title>CNN NewsCenter</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112130000" stop="20131112140000">
+<title>Piers Morgan Live</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112140000" stop="20131112150000">
+<title>News Stream</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112150000" stop="20131112160000">
+<title>World Business Today, Round-up of the day&apos;s global business news.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112160000" stop="20131112170000">
+<title>International Desk</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112170000" stop="20131112180000">
+<title>Global Exchange</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112180000" stop="20131112183000">
+<title>World Sport, Highlights of the latest events around the globe.</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112183000" stop="20131112190000">
+<title>Going Green</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112190000" stop="20131112200000">
+<title>International Desk</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112200000" stop="20131112203000">
+<title>Amanpour</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112203000" stop="20131112210000">
+<title>CNN NewsCenter</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112210000" stop="20131112220000">
+<title>Connect the World with Becky Anderson</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112220000" stop="20131112230000">
+<title>Quest Means Business</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112230000" stop="20131112233000">
+<title>Amanpour</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131112233000" stop="20131113000000">
+<title>World Sport, Highlights of the latest events around the globe.</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113000000" stop="20131113010000">
+<title>Piers Morgan Live</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113010000" stop="20131113013000">
+<title>CNN Newsroom live from Hong Kong</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113013000" stop="20131113020000">
+<title>World Sport, Highlights of the latest events around the globe.</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113020000" stop="20131113030000">
+<title>Anderson Cooper 360, A look at the latest news and headlines of the day.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113030000" stop="20131113040000">
+<title>Piers Morgan Live</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113040000" stop="20131113050000">
+<title>AC360 Later</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113050000" stop="20131113060000">
+<title>Quest Means Business</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113060000" stop="20131113063000">
+<title>World Sport, Highlights of the latest events around the globe.</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113063000" stop="20131113070000">
+<title>Going Green</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113070000" stop="20131113080000">
+<title>CNN Newsroom</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113080000" stop="20131113090000">
+<title>CNN Newsroom</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113090000" stop="20131113093000">
+<title>World Sport, Highlights of the latest events around the globe.</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113093000" stop="20131113100000">
+<title>Inside Africa</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113100000" stop="20131113110000">
+<title>World Business Today, Round-up of the day&apos;s global business news.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113110000" stop="20131113113000">
+<title>CNN Newsroom</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113113000" stop="20131113120000">
+<title>CNNGo</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113120000" stop="20131113123000">
+<title>Amanpour</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113123000" stop="20131113130000">
+<title>CNN NewsCenter</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113130000" stop="20131113140000">
+<title>Piers Morgan Live</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113140000" stop="20131113150000">
+<title>News Stream</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113150000" stop="20131113160000">
+<title>World Business Today, Round-up of the day&apos;s global business news.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113160000" stop="20131113170000">
+<title>International Desk</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113170000" stop="20131113180000">
+<title>Global Exchange</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113180000" stop="20131113183000">
+<title>World Sport, Highlights of the latest events around the globe.</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113183000" stop="20131113190000">
+<title>CNNGo</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113190000" stop="20131113200000">
+<title>International Desk</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113200000" stop="20131113203000">
+<title>Amanpour</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113203000" stop="20131113210000">
+<title>CNN NewsCenter</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113210000" stop="20131113220000">
+<title>Connect the World with Becky Anderson</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113220000" stop="20131113230000">
+<title>Quest Means Business</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113230000" stop="20131113233000">
+<title>Amanpour</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131113233000" stop="20131114000000">
+<title>World Sport, Highlights of the latest events around the globe.</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114000000" stop="20131114010000">
+<title>Piers Morgan Live</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114010000" stop="20131114013000">
+<title>CNN Newsroom live from Hong Kong</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114013000" stop="20131114020000">
+<title>World Sport, Highlights of the latest events around the globe.</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114020000" stop="20131114030000">
+<title>Anderson Cooper 360, A look at the latest news and headlines of the day.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114030000" stop="20131114040000">
+<title>Piers Morgan Live</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114040000" stop="20131114050000">
+<title>AC360 Later</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114050000" stop="20131114060000">
+<title>Quest Means Business</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114060000" stop="20131114063000">
+<title>World Sport, Highlights of the latest events around the globe.</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114063000" stop="20131114070000">
+<title>Talk Asia</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114070000" stop="20131114080000">
+<title>CNN Newsroom</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114080000" stop="20131114090000">
+<title>CNN Newsroom</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114090000" stop="20131114093000">
+<title>World Sport, Highlights of the latest events around the globe.</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114093000" stop="20131114100000">
+<title>Business Traveller</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114100000" stop="20131114110000">
+<title>World Business Today, Round-up of the day&apos;s global business news.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114110000" stop="20131114113000">
+<title>CNN Newsroom</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114113000" stop="20131114120000">
+<title>MainSail</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114120000" stop="20131114123000">
+<title>Amanpour</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114123000" stop="20131114130000">
+<title>CNN NewsCenter</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114130000" stop="20131114140000">
+<title>Piers Morgan Live</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114140000" stop="20131114150000">
+<title>News Stream</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114150000" stop="20131114160000">
+<title>World Business Today, Round-up of the day&apos;s global business news.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114160000" stop="20131114170000">
+<title>International Desk</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114170000" stop="20131114174500">
+<title>Global Exchange</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114174500" stop="20131114180000">
+<title>CNN Marketplace Middle East</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114180000" stop="20131114183000">
+<title>World Sport, Highlights of the latest events around the globe.</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114183000" stop="20131114190000">
+<title>MainSail</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114190000" stop="20131114194500">
+<title>International Desk</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114194500" stop="20131114200000">
+<title>CNN Marketplace Europe</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114200000" stop="20131114203000">
+<title>Amanpour</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114203000" stop="20131114210000">
+<title>CNN NewsCenter</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114210000" stop="20131114220000">
+<title>Connect the World with Becky Anderson</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114220000" stop="20131114230000">
+<title>Quest Means Business</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114230000" stop="20131114233000">
+<title>Amanpour</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131114233000" stop="20131115000000">
+<title>World Sport, Highlights of the latest events around the globe.</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115000000" stop="20131115010000">
+<title>Piers Morgan Live</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115010000" stop="20131115013000">
+<title>CNN Newsroom live from Hong Kong</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115013000" stop="20131115020000">
+<title>World Sport, Highlights of the latest events around the globe.</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115020000" stop="20131115030000">
+<title>Anderson Cooper 360, A look at the latest news and headlines of the day.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115030000" stop="20131115040000">
+<title>Piers Morgan Live</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115040000" stop="20131115050000">
+<title>AC360 Later</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115050000" stop="20131115060000">
+<title>Quest Means Business</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115060000" stop="20131115063000">
+<title>World Sport, Highlights of the latest events around the globe.</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115063000" stop="20131115070000">
+<title>Business Traveller</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115070000" stop="20131115080000">
+<title>CNN Newsroom</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115080000" stop="20131115090000">
+<title>CNN Newsroom</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115090000" stop="20131115093000">
+<title>World Sport, Highlights of the latest events around the globe.</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115093000" stop="20131115100000">
+<title>African Voices</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115100000" stop="20131115104500">
+<title>World Business Today, Round-up of the day&apos;s global business news.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115104500" stop="20131115110000">
+<title>CNN Marketplace Middle East</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115110000" stop="20131115113000">
+<title>CNN Newsroom</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115113000" stop="20131115120000">
+<title>Talk Asia</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115120000" stop="20131115123000">
+<title>Amanpour</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115123000" stop="20131115130000">
+<title>CNN NewsCenter</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115130000" stop="20131115140000">
+<title>Piers Morgan Live</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115140000" stop="20131115150000">
+<title>News Stream</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115150000" stop="20131115160000">
+<title>World Business Today, Round-up of the day&apos;s global business news.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115160000" stop="20131115170000">
+<title>International Desk</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115170000" stop="20131115180000">
+<title>Anthony Bourdain Parts Unknown</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115180000" stop="20131115183000">
+<title>World Sport, Highlights of the latest events around the globe.</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115183000" stop="20131115190000">
+<title>Inside Africa, News and events across Africa.</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115190000" stop="20131115194500">
+<title>International Desk</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115194500" stop="20131115200000">
+<title>CNN Marketplace Africa</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115200000" stop="20131115203000">
+<title>Amanpour</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115203000" stop="20131115210000">
+<title>CNN NewsCenter</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115210000" stop="20131115220000">
+<title>Connect the World with Becky Anderson</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115220000" stop="20131115230000">
+<title>Quest Means Business</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115230000" stop="20131115233000">
+<title>Amanpour</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131115233000" stop="20131116000000">
+<title>World Sport, Highlights of the latest events around the globe.</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131116000000" stop="20131116010000">
+<title>Piers Morgan Live</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131116010000" stop="20131116013000">
+<title>CNN Newsroom</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131116013000" stop="20131116020000">
+<title>World Sport, Highlights of the latest events around the globe.</title>
+<category>sport</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131116020000" stop="20131116030000">
+<title>Anderson Cooper 360, A look at the latest news and headlines of the day.</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131116030000" stop="20131116040000">
+<title>Piers Morgan Live</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131116040000" stop="20131116041500">
+<title>CNN Marketplace Europe</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131116041500" stop="20131116043000">
+<title>CNN Marketplace Africa</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131116043000" stop="20131116050000">
+<title>Unguarded with Rachel Nichols</title>
+<premiere />
+</programme>
+<programme channel="cnn.info" start="20131116050000" stop="20131116060000">
+<title>Quest Means Business</title>
+<category>vijesti</category>
+<premiere />
+</programme>
+</tv>

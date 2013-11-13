@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tv source-data-url="http://tvprofil.net/xmltv/" source-info-name="Phazer XML servis 4.5" source-info-url="http://tvprofil.net">
+<channel id="zdf.de">
+<display-name>ZDF</display-name>
+<url>http://www.zdf.de</url>
+<icon src="http://phazer.info/img/kanali/zdf.jpg" />
+</channel>
+<programme channel="zdf.de" start="20131113090000" stop="20131113090500">
+<title>heute</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131113090500" stop="20131113103000">
+<title>Volle Kanne - Service täglich</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131113103000" stop="20131113111500">
+<title>Notruf Hafenkante, Vertrauensfrage</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131113111500" stop="20131113120000">
+<title>SOKO 5113, Street Art</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131113120000" stop="20131113121000">
+<title>heute</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131113121000" stop="20131113130000">
+<title>drehscheibe Deutschland</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131113130000" stop="20131113140000">
+<title>ZDF-Mittagsmagazin, mit heute-Nachrichten</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131113140000" stop="20131113141500">
+<title>heute - in Deutschland</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131113141500" stop="20131113150000">
+<title>Die Küchenschlacht, Nelson Müller sucht den Spitzenkoch</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131113150000" stop="20131113150500">
+<title>heute</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131113150500" stop="20131113160000">
+<title>Topfgeldjäger, Das Duell am Herd mit Steffen Henssler</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131113160000" stop="20131113161000">
+<title>heute - in Europa</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131113161000" stop="20131113170000">
+<title>SOKO Wien, Zündstoff</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131113170000" stop="20131113171000">
+<title>heute</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131113171000" stop="20131113174500">
+<title>hallo deutschland</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131113174500" stop="20131113180500">
+<title>Leute heute</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131113180500" stop="20131113185400">
+<title>SOKO Wismar, Unterm Hammer</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131113185400" stop="20131113190000">
+<title>Lotto am Mittwoch - Die Gewinnzahlen</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131113190000" stop="20131113192000">
+<title>heute</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131113192000" stop="20131113192500">
+<title>WETTER</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131113192500" stop="20131113201500">
+<title>Kripo Holstein - Mord und Meer, Die letzte Fahrt</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131113201500" stop="20131113214500">
+<title>Aktenzeichen XY ... ungelöst, Die Kriminalpolizei bittet um Mithilfe</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131113214500" stop="20131113221500">
+<title>heute-journal, Wetter</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131113221500" stop="20131113224500">
+<title>auslandsjournal</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131113224500" stop="20131113233000">
+<title>ZDFzoom, Das tägliche Gift Risiko Pestizide</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131113233000" stop="20131114004500">
+<title>Markus Lanz</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131114004500" stop="20131114010000">
+<title>heute nacht</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131114010000" stop="20131114014500">
+<title>ZDFzeit, Kennedy - Das Geheimnis der letzten Tage</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131114014500" stop="20131114031500">
+<title>Aktenzeichen XY ... ungelöst, Die Kriminalpolizei bittet um Mithilfe</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131114031500" stop="20131114040000">
+<title>SOKO Wismar, Unterm Hammer</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131114040000" stop="20131114043000">
+<title>auslandsjournal</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131114043000" stop="20131114051500">
+<title>SOKO Wien, Zündstoff</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131114051500" stop="20131114090000">
+<title>hallo deutschland</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131114090000" stop="20131114090500">
+<title>heute</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131114090500" stop="20131114103000">
+<title>Volle Kanne - Service täglich</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131114103000" stop="20131114111500">
+<title>Notruf Hafenkante, Offene Rechnung</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131114111500" stop="20131114120000">
+<title>SOKO 5113, Tod eines Diebes</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131114120000" stop="20131114121000">
+<title>heute</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131114121000" stop="20131114130000">
+<title>drehscheibe Deutschland</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131114130000" stop="20131114140000">
+<title>ZDF-Mittagsmagazin, mit heute-Nachrichten</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131114140000" stop="20131114141500">
+<title>heute - in Deutschland</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131114141500" stop="20131114150000">
+<title>Die Küchenschlacht, Nelson Müller sucht den Spitzenkoch</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131114150000" stop="20131114150500">
+<title>heute</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131114150500" stop="20131114160000">
+<title>Topfgeldjäger, Das Duell am Herd mit Steffen Henssler</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131114160000" stop="20131114161000">
+<title>heute - in Europa</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131114161000" stop="20131114170000">
+<title>SOKO Wien, Ein mörderischer Preis</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131114170000" stop="20131114171000">
+<title>heute</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131114171000" stop="20131114174500">
+<title>hallo deutschland</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131114174500" stop="20131114180500">
+<title>Leute heute</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131114180500" stop="20131114190000">
+<title>SOKO Stuttgart, Eine Frage der Ehre</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131114190000" stop="20131114192000">
+<title>heute</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131114192000" stop="20131114192500">
+<title>WETTER</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131114192500" stop="20131114201500">
+<title>Notruf Hafenkante, Spätzünder</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131114201500" stop="20131114214500">
+<title>Neue Folgen, Der Bergdoktor Ausgeträumt</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131114214500" stop="20131114221500">
+<title>heute-journal, Wetter</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131114221500" stop="20131114231500">
+<title>maybrit illner, Der Polit-Talk im ZDF</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131114231500" stop="20131115003000">
+<title>Markus Lanz</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131115003000" stop="20131115004500">
+<title>heute nacht</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131115004500" stop="20131115021500">
+<title>George Gently - Der Unbestechliche, Die Schuld der Väter</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131115021500" stop="20131115030000">
+<title>SOKO Stuttgart, Eine Frage der Ehre</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131115030000" stop="20131115040000">
+<title>maybrit illner, Der Polit-Talk im ZDF</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131115040000" stop="20131115044500">
+<title>SOKO Wien, Ein mörderischer Preis</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131115044500" stop="20131115045500">
+<title>Leute heute</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131115045500" stop="20131115090000">
+<title>hallo deutschland</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131115090000" stop="20131115090500">
+<title>heute</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131115090500" stop="20131115103000">
+<title>Volle Kanne - Service täglich</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131115103000" stop="20131115111500">
+<title>Notruf Hafenkante, Keine Heimat</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131115111500" stop="20131115120000">
+<title>SOKO 5113, Drei Brüder</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131115120000" stop="20131115121000">
+<title>heute</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131115121000" stop="20131115130000">
+<title>drehscheibe Deutschland</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131115130000" stop="20131115140000">
+<title>ZDF-Mittagsmagazin, mit heute-Nachrichten</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131115140000" stop="20131115141500">
+<title>heute - in Deutschland</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131115141500" stop="20131115150000">
+<title>Die Küchenschlacht, Nelson Müller sucht den Spitzenkoch</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131115150000" stop="20131115150500">
+<title>heute</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131115150500" stop="20131115160000">
+<title>Topfgeldjäger, Das Duell am Herd mit Steffen Henssler</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131115160000" stop="20131115161000">
+<title>heute - in Europa</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131115161000" stop="20131115170000">
+<title>SOKO Wien, Mordgesellen</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131115170000" stop="20131115171000">
+<title>heute</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131115171000" stop="20131115174500">
+<title>hallo deutschland</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131115174500" stop="20131115180500">
+<title>Leute heute</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131115180500" stop="20131115190000">
+<title>SOKO Kitzbühel, Waidmannstod</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131115190000" stop="20131115192000">
+<title>heute</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131115192000" stop="20131115192500">
+<title>WETTER</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131115192500" stop="20131115201500">
+<title>Forsthaus Falkenau, Illusionen</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131115201500" stop="20131115213000">
+<title>ZDF SPORTextra, Fußball: Freundschaftsspiel Italien - Deutschland</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131115213000" stop="20131115214000">
+<title>heute-journal, Wetter</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131115214000" stop="20131115233000">
+<title>ZDF SPORTextra, Fußball: Freundschaftsspiel Italien - Deutschland</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131115233000" stop="20131116000000">
+<title>heute-show, Nachrichtensatire mit Oliver Welke</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116000000" stop="20131116003000">
+<title>aspekte</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116003000" stop="20131116004500">
+<title>heute nacht</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116004500" stop="20131116013000">
+<title>Mad Men, Tee für die Seele</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116013000" stop="20131116021500">
+<title>In Plain Sight - In der Schusslinie, Tag der Entscheidungen</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116021500" stop="20131116024500">
+<title>heute-show, Nachrichtensatire mit Oliver Welke</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116024500" stop="20131116041500">
+<title>»Winchester &apos;73</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116041500" stop="20131116050000">
+<title>SOKO Wien, Mordgesellen</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116050000" stop="20131116053500">
+<title>hallo deutschland</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116053500" stop="20131116062500">
+<title>Heidi, Die kleinen Katzen / Was geschieht mit Mau-Mau?</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116062500" stop="20131116063500">
+<title>Der kleine Nick, Der Verkehrsunterricht</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116063500" stop="20131116070000">
+<title>pur+, Freiheit für die Bären</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116070000" stop="20131116072000">
+<title>Wickie . . . und die starken Männer, Der Zirkus kommt</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116072000" stop="20131116081000">
+<title>Mia and me, Beeren für Phuddle / Ziggos freier Tag</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116081000" stop="20131116083500">
+<title>1, 2 oder 3, Wir fahren nach Berlin</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116083500" stop="20131116092500">
+<title>Bibi Blocksberg, Die verhexten Marionetten / Der magische Koffer</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116092500" stop="20131116095000">
+<title>Bibi und Tina, Ein Pony zum Knuddeln</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116095000" stop="20131116101000">
+<title>Peter Pan - Neue Abenteuer, Kinozauber</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116101000" stop="20131116110000">
+<title>Mako - Einfach Meerjungfrau, Sirena setzt sich durch / In der Schwebe</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116110000" stop="20131116110500">
+<title>heute</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116110500" stop="20131116130000">
+<title>Die Küchenschlacht - der Wochenrückblick</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116130000" stop="20131116130500">
+<title>heute</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116130500" stop="20131116144000">
+<title>Heinz Erhardt, Vater, Mutter und neun Kinder</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116144000" stop="20131116161500">
+<title>Rosamunde Pilcher - Wolken am Horizont</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116161500" stop="20131116170000">
+<title>Lafer!Lichter!Lecker! Die etwas andere Promi-Kochschule</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116170000" stop="20131116170500">
+<title>heute</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116170500" stop="20131116174500">
+<title>Länderspiegel</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116174500" stop="20131116180000">
+<title>Menschen - das Magazin, Abschied nehmen</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116180000" stop="20131116183500">
+<title>ML mona lisa, Frauen, Männer &amp; mehr</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116183500" stop="20131116190000">
+<title>hallo deutschland hautnah, Kambodscha statt Kaffeefahrt: Auswandern als Rentner</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116190000" stop="20131116192000">
+<title>heute</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116192000" stop="20131116192500">
+<title>WETTER</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116192500" stop="20131116201500">
+<title>Herzensbrecher - Vater von vier Söhnen, Wunder</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116201500" stop="20131116214500">
+<title>Der Samstagskrimi, Ein starkes Team Die Frau des Freundes</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116214500" stop="20131116224500">
+<title>Helene Fischer - Farbenspiel, Konzert aus dem Deutschen Theater München</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116224500" stop="20131116230000">
+<title>heute-journal, Wetter</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131116230000" stop="20131117000000">
+<title>Kommissar Stolberg, Familienbande</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117000000" stop="20131117003000">
+<title>Standpunkte, Bericht vom Parteitag der SPD in Leipzig</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117003000" stop="20131117003500">
+<title>heute</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117003500" stop="20131117022000">
+<title>Helden der Nacht</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117022000" stop="20131117040500">
+<title>Sea of Love - Melodie des Todes</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117040500" stop="20131117053500">
+<title>»Winchester &apos;73</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117053500" stop="20131117054000">
+<title>zdf.formstark</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117054000" stop="20131117060000">
+<title>hallo deutschland hautnah, Kambodscha statt Kaffeefahrt: Auswandern als Rentner</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117060000" stop="20131117062500">
+<title>Siebenstein, Wo ist Schneemannland?</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117062500" stop="20131117070500">
+<title>Coco, der neugierige Affe, Ein Dutzend Donuts / Die Tümpelenten</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117070500" stop="20131117072000">
+<title>Die Biene Maja, Rufus wachsen Flügel</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117072000" stop="20131117074500">
+<title>Bibi Blocksberg, Bibi als Babysitter</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117074500" stop="20131117081000">
+<title>Bibi und Tina, Die Wildpferde</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117081000" stop="20131117083500">
+<title>Löwenzahn, Feuersalamander - Jagd auf den Lurch</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117083500" stop="20131117090000">
+<title>Löwenzahn Classics, Von Pillendrehern und Totengräbern</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117090000" stop="20131117093000">
+<title>sonntags, Vom Alt werden und jung bleiben</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117093000" stop="20131117101500">
+<title>Aus der St. Petri-Pauli-Kirche in Eisleben, Evangelischer Gottesdienst Mit Margot Käßmann</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117101500" stop="20131117104500">
+<title>Peter Hahne</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117104500" stop="20131117105700">
+<title>Gipfelsturm auf Schienen</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117105700" stop="20131117110000">
+<title>heute</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117110000" stop="20131117131500">
+<title>Die Herbstshow - Das Beste vom Vierwaldstätter See</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117131500" stop="20131117140000">
+<title>Unser Ferienhaus (3/4), in Südfrankreich und in Brandenburg</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117140000" stop="20131117144500">
+<title>Leben und genießen - Kochen mit allen Sinnen (1/2), Von Leinöl, Schlabberkappes und Trüffel</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117144500" stop="20131117151500">
+<title>planet e. Saure Ozeane - Das langsame Sterben der Meere</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117151500" stop="20131117152000">
+<title>heute</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117152000" stop="20131117170000">
+<title>KinoMagie, Eine zauberhafte Nanny - Knall auf Fall in ein neues Abenteuer</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117170000" stop="20131117171000">
+<title>heute</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117171000" stop="20131117175500">
+<title>ZDF SPORTreportage</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117175500" stop="20131117183000">
+<title>Der Firmenretter (3/3), Ärger in der Autolackiererei</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117183000" stop="20131117190000">
+<title>Terra Xpress, Die fiesen Tricks der Tiere</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117190000" stop="20131117191000">
+<title>heute, Wetter</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117191000" stop="20131117192800">
+<title>Berlin direkt</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117192800" stop="20131117193000">
+<title>5-Sterne - Gewinner der Aktion Mensch, mit Jörg Pilawa</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117193000" stop="20131117201500">
+<title>Terra X, Faszination Erde - mit Dirk Steffens Madagaskar - Jenseits von Afrika</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117201500" stop="20131117214500">
+<title>Herzkino, Rosamunde Pilcher: Alte Herzen rosten nicht</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117214500" stop="20131117220000">
+<title>heute-journal, Wetter</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117220000" stop="20131117233000">
+<title>Jack Taylor, Königin der Schmerzen</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131117233000" stop="20131118001500">
+<title>ZDF-History, Der ewige Prinz - Happy Birthday, Charles!</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131118001500" stop="20131118002000">
+<title>heute</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131118002000" stop="20131118015000">
+<title>Jack Taylor, Königin der Schmerzen</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131118015000" stop="20131118020500">
+<title>Frag den Lesch, Die Wirkung des Nichts: Placebo</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131118020500" stop="20131118025000">
+<title>Terra X, Faszination Erde - mit Dirk Steffens Madagaskar - Jenseits von Afrika</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131118025000" stop="20131118033500">
+<title>Terra X, Deutschland - Wie wir leben 2. Unsere Schätze</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131118033500" stop="20131118040500">
+<title>Terra Xpress, Die fiesen Tricks der Tiere</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131118040500" stop="20131118043500">
+<title>planet e. Saure Ozeane - Das langsame Sterben der Meere</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131118043500" stop="20131118044500">
+<title>zdf.formstark</title>
+<premiere />
+</programme>
+<programme channel="zdf.de" start="20131118044500" stop="20131118090000">
+<title>Forsthaus Falkenau, Illusionen</title>
+<premiere />
+</programme>
+</tv>
