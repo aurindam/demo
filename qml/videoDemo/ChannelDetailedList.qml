@@ -5,7 +5,12 @@ import QtQuick.Layouts 1.0
 Item {
     id: root
     width: 900
-    height: 500
+    height: 600
+
+    onVisibleChanged: {
+        if (visible)
+            channelList.forceActiveFocus()
+    }
 
     RowLayout {
         id: rowLayout
@@ -38,13 +43,6 @@ Item {
                 preferredHighlightBegin: height / 2 - 50
                 preferredHighlightEnd: height / 2 + 50
                 highlightRangeMode: ListView.StrictlyEnforceRange
-                Keys.onPressed: {
-                    if (event.key == Qt.Key_Escape) {
-                        console.log("Escape was pressed")
-                        event.accepted = false;
-                        focus = false
-                    }
-                }
             }
         }
 

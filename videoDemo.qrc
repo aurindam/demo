@@ -1,7 +1,5 @@
 <RCC>
-    <qresource prefix="/video">
-        <file>big_buck_bunny.avi</file>
-    </qresource>
+    <qresource prefix="/video"/>
     <qresource prefix="/channel">
         <file>data/3sat.de.xml</file>
         <file>data/arte.de.xml</file>

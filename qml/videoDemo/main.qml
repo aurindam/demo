@@ -61,32 +61,40 @@ Rectangle {
         }
     }
 
-    ChannelDetailedList {
-        id: list
-        anchors.centerIn: parent
-        visible: false
-    }
+    FocusScope {
+        id: mainView
 
-    ChannelHalfPipe {
-        id: halfPipe
-        anchors.centerIn: parent
-        visible: false
-    }
+        width: parent.width; height: parent.height
+        focus: true
 
-    Keys.onPressed: {
-            if (event.key == Qt.Key_F1) {
-                event.accepted = true;
-                list.visible = true
-                halfPipe.visible = false
-            } else if (event.key == Qt.Key_F1) {
-                event.accepted = true;
-                list.visible = false
-                halfPipe.visible = true
-            } if (event.key == Qt.Escape) {
-                event.accepted = true;
-                list.visible = false
-                halfPipe.visible = false
-            }
+        ChannelDetailedList {
+            id: list
+            anchors.centerIn: parent
+            visible: false
         }
-    Component.onCompleted: content.openVideo("qrc://video/big_buck_bunny.avi")
+
+        ChannelHalfPipe {
+            id: halfPipe
+            anchors.centerIn: parent
+            visible: false
+        }
+
+        Keys.onPressed: {
+                if (event.key == Qt.Key_F1) {
+                    event.accepted = true;
+                    list.visible = true
+                    halfPipe.visible = false
+                } else if (event.key == Qt.Key_F2) {
+                    event.accepted = true;
+                    list.visible = false
+                    halfPipe.visible = true
+                } else if (event.key == Qt.Escape) {
+                    event.accepted = true;
+                    list.visible = false
+                    halfPipe.visible = false
+                }
+                console.log(event.key)
+            }
+    }
+    Component.onCompleted: content.openVideo("/home/ajana/dev/temp/videoDemo/big_buck_bunny.avi")
 }

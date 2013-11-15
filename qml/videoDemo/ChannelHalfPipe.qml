@@ -6,9 +6,14 @@ import QtQuick.Layouts 1.0
 Item {
     id: root
     width: 900
-    height: 500
+    height: 600
 
     property int itemsPerScreen: 5
+
+    onVisibleChanged: {
+        if (visible)
+            channelHalfPipe.forceActiveFocus()
+    }
 
     ColumnLayout {
         id: columnLayout
@@ -20,7 +25,7 @@ Item {
         Item {
             id: channelDetailsContainer
             width: 400
-            height: 100
+            height: 200
             anchors.horizontalCenter: parent.horizontalCenter
 
             ChannelInfoDetailed {
