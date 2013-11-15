@@ -27,7 +27,8 @@ public:
         StartTimeRole
     };
 
-    explicit ProgramModel(const QList<Program> &programs, QObject *parent = 0);
+    explicit ProgramModel(const QList<Program> &programs, int maxRows = -1,
+                          QObject *parent = 0);
 
     int rowCount(const QModelIndex & = QModelIndex()) const;
 
@@ -37,6 +38,7 @@ protected:
     QHash<int, QByteArray> roleNames() const;
 
 private:
+    int m_maxRows;
     QList<Program> m_programs;
     QStringList m_nextTwoStartTimes;
     QStringList m_nextTwoPrograms;

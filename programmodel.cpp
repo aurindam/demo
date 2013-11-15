@@ -2,15 +2,16 @@
 
 #include <QDebug>
 
-ProgramModel::ProgramModel(const QList<Program> &programs, QObject *parent) :
+ProgramModel::ProgramModel(const QList<Program> &programs, int maxRows, QObject *parent) :
     QAbstractListModel(parent),
+    m_maxRows(maxRows),
     m_programs(programs)
 {
 }
 
 int ProgramModel::rowCount(const QModelIndex &/*parent*/) const
 {
-    return m_programs.count();
+    return m_maxRows != -1 ? m_maxRows : m_programs.count();
 }
 
 QVariant ProgramModel::data(const QModelIndex & index, int role) const {

@@ -5,5 +5,6 @@ Label {
     color: "white"
     text: startTime + "  " + programName
     elide: Text.ElideRight
+    renderType: Text.QtRendering
 }
 

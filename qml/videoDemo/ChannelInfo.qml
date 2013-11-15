@@ -3,6 +3,5 @@ import QtQuick.Controls 1.0
 
 Label {
     color: "white"
-    text: channelNumber + "  " + channelName
 }
 

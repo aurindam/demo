@@ -1,6 +1,6 @@
 <RCC>
     <qresource prefix="/video">
-        <file alias="video.mp4">clipcanvas_14348_offline.mp4</file>
+        <file>big_buck_bunny.avi</file>
     </qresource>
     <qresource prefix="/channel">
         <file>data/3sat.de.xml</file>
@@ -31,9 +31,6 @@
         <file>qml/videoDemo/main.qml</file>
         <file>qml/videoDemo/ChannelIcon.qml</file>
         <file>qml/videoDemo/ChannelInfo.qml</file>
-        <file>qml/videoDemo/ChannelLabel.qml</file>
-        <file>qml/videoDemo/ChannelListItem.qml</file>
-        <file>qml/videoDemo/ChannelListItemDetails.qml</file>
         <file>qml/videoDemo/ProgramInfo.qml</file>
     </qresource>
 </RCC>

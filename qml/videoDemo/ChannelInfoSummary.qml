@@ -2,69 +2,62 @@ import QtQuick 2.0
 import QtQuick.Controls 1.0
 import QtQuick.Layouts 1.0
 
-Item {
+Background {
     id: root
 
-    width: 400
-    height: 150
+    width: 450
+    height: 100
 
     opacity: ListView.isCurrentItem ? 0.7 : 0.5
 
-    property string name: ""
+    property var program: channelProgram
+    property string name: channelName
 
-    ColumnLayout {
-        anchors.fill: parent
-        anchors.margins: 10
-
-        spacing: 2
-//        ChannelInfo {
-//            id: channelInfo
-//            height: 1.5 * textSize
-//        }
-
-//        Column {
-//            Repeater {
-//                id: repeater
-//                model: listModel
-//                ProgramInfo {
-//                    width: 350
-//                }
-//            }
-//        }
+    RowLayout {
+        anchors.centerIn: parent
+        spacing: 0
         Item {
-            width: 400
-            height: 500
-            ListView {
-                id: programList
-
-                interactive: false
+            height: root.height
+            width: root.width / 3
+            ChannelIcon {
                 anchors.fill: parent
-                delegate: ProgramInfo {
-                    width: 350
-                    color: "black"
-                }
-                model: channelModel.programModel(channelName)
-
+                iconSource: channelIcon
+                opacity: 0.7
+                border.width: 0
+                radius: 0
             }
         }
-    }
+        Item {
+            id: infoContainer
+            height: root.height
+            width: root.width / 3 * 2
 
-//    ListModel {
-//        id: listModel
-//    }
+            ColumnLayout {
+                anchors.fill: parent
+                anchors.margins: 10
+                spacing: 2
+                ChannelInfo {
+                    id: channelInfo
+                    height: 1.5 * textSize
+                    width: infoContainer.width - 50
+                    text: channelNumber + "  " + channelName
+                }
 
-//    Component.onCompleted: {
-//        root.name = channelName
-//        console.log(" oncompleted " + root.name)
-//        var model = channelModel.programModel(channelName)
-//        var nextTwoStartTimes = model.nextTwoStartTimes();
-//        var nextTwoPrograms = model.nextTwoPrograms();
-//        var length = nextTwoPrograms.length;
-//        for (var i = 0; i < length; ++i) {
-//            listModel.append({
-//                         "programName": nextTwoPrograms[i],
-//                         "startTime": nextTwoStartTimes[i]
-//            })
-//        }
-//    }
+                Item {
+                    height: infoContainer.height - channelInfo.height - 20
+                    ListView {
+                        id: programList
+
+                        interactive: false
+                        anchors.fill: parent
+                        delegate: ProgramInfo {
+                            width: infoContainer.width - 50
+                        }
+                        model: channelProgramSummary
+                    } // ListView
+                } // Item
+
+            } // ColumnLayout
+        }
+    } //RowLayout
 }

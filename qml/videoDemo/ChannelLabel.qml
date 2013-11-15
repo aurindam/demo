@@ -1,6 +1,14 @@
 import QtQuick 2.0
 
-Rectangle {
-    width: 100
-    height: 62
+Background {
+    id: root
+
+    height: 50
+    width: 50
+
+    property alias text: channelInfo.text
+    ChannelInfo {
+        id: channelInfo
+        anchors.centerIn: parent
+    }
 }

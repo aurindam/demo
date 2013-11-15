@@ -109,20 +109,22 @@ void ChannelModel::init(const QString &channelDirectory)
         XmlParser parser(file.readAll());
         Channel channel = parser.channel();
         channel.setNumber(index++);
-        QList<Program> programs = parser.programs();
-
         m_channels.append(channel);
-        m_channelProgramMap.insert(channel.name(), programs);
-    }
+
+        QList<Program> programs = parser.programs();
+        m_channelProgramMap.insert(channel.name(), new ProgramModel(programs));
+        m_channelProgramSummaryMap.insert(channel.name(), new ProgramModel(programs, 2));
+
 #ifdef DEBUG
     foreach (const Channel &ch, m_channels) {
         qDebug() << ch.name() << ch.icon();
-        const QList<Program> programs = ch.programs();
+        const QList<Program> programs = parser.programs();
         foreach (const Program &p, programs)
             qDebug() << p.name() << p.startTime();
         qDebug() << "--------------------------";
     }
 #endif
+    }
     emit initialized();
 }
 
@@ -139,18 +141,22 @@ QVariant ChannelModel::data(const QModelIndex & index, int role) const {
         return channel.name();
     else if (role == NumberRole)
         return channel.number();
-    return QVariant();
-}
+    else if (role == IconRole)
+        return channel.icon();
+    else if (role == ProgramSummaryRole)
+        return QVariant::fromValue(m_channelProgramSummaryMap.value(channel.name()));
+    else if (role == ProgramRole)
+        return QVariant::fromValue(m_channelProgramMap.value(channel.name()));
 
-QObject *ChannelModel::programModel(const QString &channelName) const
-{
-    QList<Program> programs = m_channelProgramMap.value(channelName);
-    return new ProgramModel(programs);
+    return QVariant();
 }
 
 QHash<int, QByteArray> ChannelModel::roleNames() const {
     QHash<int, QByteArray> roles;
     roles[NameRole] = "channelName";
     roles[NumberRole] = "channelNumber";
+    roles[IconRole] = "channelIcon";
+    roles[ProgramRole] = "channelProgram";
+    roles[ProgramSummaryRole] = "channelProgramSummary";
     return roles;
 }

@@ -35,7 +35,10 @@ class ChannelModel : public QAbstractListModel
 public:
     enum ChannelRoles {
         NameRole = Qt::UserRole + 1,
-        NumberRole
+        NumberRole,
+        IconRole,
+        ProgramRole,
+        ProgramSummaryRole
     };
 
     explicit ChannelModel(QObject *parent = 0);
@@ -46,8 +49,6 @@ public:
 
     QVariant data(const QModelIndex & index, int role = Qt::DisplayRole) const;
 
-    Q_INVOKABLE QObject *programModel(const QString &channelName) const;
-
 protected:
     QHash<int, QByteArray> roleNames() const;
 
@@ -56,7 +57,8 @@ signals:
 
 private:
     QList<Channel> m_channels;
-    QMap<QString, QList<Program> > m_channelProgramMap;
+    QMap<QString, ProgramModel *> m_channelProgramMap;
+    QMap<QString, ProgramModel *> m_channelProgramSummaryMap;
 };
 
 #endif // CHANNELMODEL_H

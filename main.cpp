@@ -12,7 +12,10 @@ int main(int argc, char *argv[])
     QtQuick2ApplicationViewer viewer;
     QQmlContext *ctxt = viewer.rootContext();
     ctxt->setContextProperty("channelModel", &model);
-    viewer.setSource(QStringLiteral("qml/videoDemo/detailedListTest.qml"));
+    viewer.setSource(QStringLiteral("qml/videoDemo/main.qml"));
+//    viewer.setSource(QStringLiteral("qml/videoDemo/ChannelDetailedList.qml"));
+//    viewer.setSource(QStringLiteral("qml/videoDemo/ChannelHalfPipe.qml"));
+//    viewer.setSource(QStringLiteral("qml/videoDemo/PathView.qml"));
     viewer.showExpanded();
 
     model.init(":/channel/data");

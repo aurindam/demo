@@ -46,6 +46,7 @@ Rectangle {
     height: 600
     color: "grey"
     property string fileName
+
     property alias volume: content.volume
 
     Rectangle {
@@ -60,10 +61,32 @@ Rectangle {
         }
     }
 
-    Connections {
-        target: channelModel
-        onInitialized: console.log("initialized")
+    ChannelDetailedList {
+        id: list
+        anchors.centerIn: parent
+        visible: false
     }
 
-    Component.onCompleted: content.openVideo("qrc:///video/video.mp4")
+    ChannelHalfPipe {
+        id: halfPipe
+        anchors.centerIn: parent
+        visible: false
+    }
+
+    Keys.onPressed: {
+            if (event.key == Qt.Key_F1) {
+                event.accepted = true;
+                list.visible = true
+                halfPipe.visible = false
+            } else if (event.key == Qt.Key_F1) {
+                event.accepted = true;
+                list.visible = false
+                halfPipe.visible = true
+            } if (event.key == Qt.Escape) {
+                event.accepted = true;
+                list.visible = false
+                halfPipe.visible = false
+            }
+        }
+    Component.onCompleted: content.openVideo("qrc://video/big_buck_bunny.avi")
 }

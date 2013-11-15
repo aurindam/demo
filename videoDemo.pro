@@ -33,4 +33,7 @@ HEADERS += \
 #DEFINES += DEBUG
 
 OTHER_FILES += \
-    qml/videoDemo/Background.qml
+    qml/videoDemo/Background.qml \
+    qml/videoDemo/ChannelDetailedList.qml \
+    qml/videoDemo/ChannelHalfPipeMod.qml \
+    qml/videoDemo/ChannelHalfPipe.qml

@@ -8,9 +8,8 @@ Background {
     width: 400
     height: 600
 
-    property string channelName: ""
-
-//    onChannelNameChanged: programList.model = channelModel.programModel(channelName)
+    property alias program: programList.model
+    property alias channelName: channelInfo.text
 
     ColumnLayout {
         anchors.fill: parent
@@ -19,13 +18,12 @@ Background {
         spacing: 10
         ChannelInfo {
             id: channelInfo
-            text: channelName
             height: 1.5 * textSize
         }
 
         Item {
             width: 400
-            height: 500
+            height: 100
             ListView {
                 id: programList
 
@@ -33,7 +31,8 @@ Background {
                 delegate: ProgramInfo {
                     width: 350
                 }
-            }
-        }
-    }
+            } // ListView
+        } // Item
+
+    } // ColumnLayout
 }
